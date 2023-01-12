@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_NLZIET. Alle rechten voorbehouden</name>
+   <tag></tag>
+   <elementGuidId>aa751e52-1a36-4a08-8156-e2ce4401588c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.Jsp0X</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/footer/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a163155a-bac9-48bf-b910-2f865546faee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Jsp0X</value>
+      <webElementGuid>a4e6229b-2e0f-4d90-82e7-9789247a5955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>© NLZIET. Alle rechten voorbehouden.</value>
+      <webElementGuid>49fcc275-0aa9-4015-9b1e-3802f9292e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/footer[@class=&quot;GOdwA&quot;]/div[@class=&quot;fj-xB&quot;]/p[@class=&quot;Jsp0X&quot;]</value>
+      <webElementGuid>a613e1ca-59f8-493b-9741-8aaaff229669</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/footer/div/p</value>
+      <webElementGuid>1f92f551-d133-41af-8bbb-74b49e895b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::p[1]</value>
+      <webElementGuid>d7df231e-6975-4bcc-bf92-f4d4ca2483e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hulp'])[1]/following::p[1]</value>
+      <webElementGuid>c1db83f7-b94b-43ba-b97e-3c7d85a60ffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voorkeurenmenu'])[1]/preceding::p[1]</value>
+      <webElementGuid>061cbbbe-b58e-4847-b48c-23e97b13b51f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meer informatie'])[1]/preceding::p[1]</value>
+      <webElementGuid>20d54493-d30a-492d-a773-3dbe0cb7252b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='© NLZIET. Alle rechten voorbehouden.']/parent::*</value>
+      <webElementGuid>4bb56560-a02f-4c13-9679-8daa5a71c0ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/p</value>
+      <webElementGuid>91fae559-0483-440b-80c3-07bfe7ff25ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '© NLZIET. Alle rechten voorbehouden.' or . = '© NLZIET. Alle rechten voorbehouden.')]</value>
+      <webElementGuid>2cfc028d-7d63-49a0-a84e-37d0e7ac7650</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

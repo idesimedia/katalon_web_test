@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Log in om programmas te kijken</name>
+   <tag></tag>
+   <elementGuidId>53757e00-621b-4593-9765-baba3049ca84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.PS3ci</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popup']/ul/div/li/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a2c99827-00bb-4249-8e9e-62133bc72175</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ab87211f-db74-42f9-a9c4-9297e9c46c82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PS3ci</value>
+      <webElementGuid>816e420c-87fb-4f10-8301-56104cc4b892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in om programma's te kijken.</value>
+      <webElementGuid>e213b19a-5856-4b44-86df-c3cfab597b8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popup&quot;)/ul[@class=&quot;vl5vp WB-Qk&quot;]/div[@class=&quot;kywGF&quot;]/li[@class=&quot;_6n7hr&quot;]/p[@class=&quot;PS3ci&quot;]</value>
+      <webElementGuid>ba3f9b47-254c-4616-a166-de92d33c4bba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popup']/ul/div/li/p</value>
+      <webElementGuid>69e3b9d1-994f-4ad5-bacb-54b5267d7830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lees hier welke browsers er worden ondersteund'])[1]/following::p[1]</value>
+      <webElementGuid>877889a7-1310-4119-8d58-be6425805ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Je browser wordt helaas niet meer ondersteund.'])[1]/following::p[2]</value>
+      <webElementGuid>f7b0c768-dd46-4dc1-93d5-d20b8178e9c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nog geen account? Meld je aan.'])[1]/preceding::p[1]</value>
+      <webElementGuid>74940849-1520-40ea-920a-b51261191998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inloggen'])[1]/preceding::p[1]</value>
+      <webElementGuid>a2c4a5bf-43e2-44ee-a663-0246c1aef8da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/p</value>
+      <webElementGuid>febab9e4-478d-4db6-8198-51d85cde25fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;Log in om programma&quot; , &quot;'&quot; , &quot;s te kijken.&quot;) or . = concat(&quot;Log in om programma&quot; , &quot;'&quot; , &quot;s te kijken.&quot;))]</value>
+      <webElementGuid>a72ec456-543d-4937-b06f-960e168fd1f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
