@@ -21,9 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://app.nlziet.nl/')
 
-WebUI.click(findTestObject('Object Repository/NLZIET/Page_NLZIET/a_Home'))
+WebUI.click(findTestObject('Object Repository/Page_NLZIET/a_Home'))
 
-WebUI.click(findTestObject('Object Repository/NLZIET/Page_NLZIET/a_Tv  gids'))
+WebUI.click(findTestObject('Object Repository/Page_NLZIET/a_Tv  gids'))
 
 WebUI.click(findTestObject('Object Repository/NLZIET/Page_NLZIET  Tv  gids/a_Kijk later'))
 
@@ -31,25 +31,25 @@ WebUI.click(findTestObject('Object Repository/NLZIET/Page_NLZIET  Kijk later/a_M
 
 WebUI.click(findTestObject('Object Repository/NLZIET/Page_NLZIET  Mijn series/a_Home'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/NLZIET/Page_NLZIET/h1_Nu op tv'), 'Nu op tv')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Nu op tv'), 'Nu op tv')
 
-WebUI.verifyElementText(findTestObject('Object Repository/NLZIET/Page_NLZIET/h1_Meest bekeken'), 'Meest bekeken')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Meest bekeken'), 'Meest bekeken')
 
-WebUI.verifyElementText(findTestObject('Object Repository/NLZIET/Page_NLZIET/h1_Vooruitkijken NPO Plus'), 'Vooruitkijken NPO Plus')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Vooruitkijken NPO Plus'), 'Vooruitkijken NPO Plus')
 
-WebUI.verifyElementText(findTestObject('Object Repository/NLZIET/Page_NLZIET/h1_Vooruitkijken'), 'Vooruitkijken')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Vooruitkijken'), 'Vooruitkijken')
 
-WebUI.verifyElementText(findTestObject('Object Repository/NLZIET/Page_NLZIET/h1_Aanbevolen NPO Plus'), 'Aanbevolen NPO Plus')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Aanbevolen NPO Plus'), 'Aanbevolen NPO Plus')
 
-WebUI.verifyElementText(findTestObject('Object Repository/NLZIET/Page_NLZIET/h1_Aanbevolen'), 'Aanbevolen')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Aanbevolen'), 'Aanbevolen')
 
-WebUI.verifyElementText(findTestObject('Object Repository/NLZIET/Page_NLZIET/h1_Films NPO Plus'), 'Films NPO Plus')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Films NPO Plus'), 'Films NPO Plus')
 
-WebUI.verifyElementText(findTestObject('Object Repository/NLZIET/Page_NLZIET/h1_Films'), 'Films')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Films'), 'Films')
 
-WebUI.verifyElementText(findTestObject('Object Repository/NLZIET/Page_NLZIET/h1_Series NPO Plus'), 'Series NPO Plus')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Series NPO Plus'), 'Series NPO Plus')
 
-WebUI.verifyElementText(findTestObject('Object Repository/NLZIET/Page_NLZIET/h1_Series'), 'Series')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Series'), 'Series')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET  Tv  gids/button_Alle cookies accepteren'), 'Alle cookies accepteren')
 
@@ -60,6 +60,25 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET  Tv  gids/
 
 WebUI.click(findTestObject('Object Repository/Page_NLZIET/button_Alle cookies accepteren'))
 
-WebUI.verifyElementNotVisible(findTestObject('Object Repository/NLZIET/Page_NLZIET  Tv  gids/p_Door op Alle cookies accepteren te klikke_bfe7ab'), 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/a_Algemene voorwaarden'), 'Algemene voorwaarden')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/a_Privacy  cookies'), 'Privacy & cookies')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/a_Hulp'), 'Hulp')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/a_Contact'), 'Contact')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/p_NLZIET. Alle rechten voorbehouden'), '© NLZIET. Alle rechten voorbehouden.')
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_NLZIET/a_Algemene voorwaarden'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_NLZIET/a_Privacy  cookies'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_NLZIET/a_Hulp'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_NLZIET/a_Contact'))
+
+WebUI.click(findTestObject('Object Repository/Page_NLZIET/svg_Mijn series_L71ZH'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/p_Log in om programmas te kijken'), 'Log in om programma\'s te kijken.')
 
