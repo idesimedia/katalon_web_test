@@ -82,3 +82,5 @@ WebUI.click(findTestObject('Object Repository/Page_NLZIET/svg_Mijn series_L71ZH'
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/p_Log in om programmas te kijken'), 'Log in om programma\'s te kijken.')
 
+WebUI.closeBrowser()
+
