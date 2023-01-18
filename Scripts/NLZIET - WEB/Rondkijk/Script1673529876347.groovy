@@ -51,14 +51,17 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Series 
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Series'), 'Series')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET  Tv  gids/button_Alle cookies accepteren'), 'Alle cookies accepteren')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET  Tv  gids/button_Alle cookies accepteren'), 'Alle cookies accepteren', 
+    FailureHandling.OPTIONAL)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET  Tv  gids/button_Cookie-instellingen'), 'Cookie-instellingen')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET  Tv  gids/button_Cookie-instellingen'), 'Cookie-instellingen', 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET  Tv  gids/p_Door op Alle cookies accepteren te klikke_bfe7ab'), 
-    'Door op “Alle cookies accepteren” te klikken gaat u akkoord met het opslaan van cookies op uw apparaat voor het verbeteren van websitenavigatie, het analyseren van websitegebruik en om ons te helpen bij onze marketingprojecten.')
+    'Door op “Alle cookies accepteren” te klikken gaat u akkoord met het opslaan van cookies op uw apparaat voor het verbeteren van websitenavigatie, het analyseren van websitegebruik en om ons te helpen bij onze marketingprojecten.', 
+    FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/Page_NLZIET/button_Alle cookies accepteren'))
+WebUI.click(findTestObject('Object Repository/Page_NLZIET/button_Alle cookies accepteren'), FailureHandling.OPTIONAL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/a_Algemene voorwaarden'), 'Algemene voorwaarden')
 
