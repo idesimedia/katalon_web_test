@@ -22,6 +22,46 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
+      <webElementGuid>6c8b72da-bbc5-41ed-88a2-a78182536bbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>4c8645d0-1909-4c31-9f2a-46ec0fb6e5d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PS3ci</value>
+      <webElementGuid>c5b8a576-2ca6-4e96-9202-e18e4a993e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in om programma's te kijken.</value>
+      <webElementGuid>a2a78114-5d8c-48ee-9da0-d9e422d8b77e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popup&quot;)/ul[@class=&quot;vl5vp WB-Qk&quot;]/div[@class=&quot;kywGF&quot;]/li[@class=&quot;_6n7hr&quot;]/p[@class=&quot;PS3ci&quot;]</value>
+      <webElementGuid>403c29e9-0944-4ff7-991f-d9f652ba055e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
       <webElementGuid>a2c99827-00bb-4249-8e9e-62133bc72175</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -41,7 +81,7 @@
       <webElementGuid>816e420c-87fb-4f10-8301-56104cc4b892</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='popup']/ul/div/li/p</value>
-      <webElementGuid>69e3b9d1-994f-4ad5-bacb-54b5267d7830</webElementGuid>
+      <webElementGuid>5c80de20-c1d2-46ed-9551-d2e28bc475a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lees hier welke browsers er worden ondersteund'])[1]/following::p[1]</value>
-      <webElementGuid>877889a7-1310-4119-8d58-be6425805ef9</webElementGuid>
+      <webElementGuid>c974dc33-0de6-4f10-8e38-8104d172396c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Je browser wordt helaas niet meer ondersteund.'])[1]/following::p[2]</value>
-      <webElementGuid>f7b0c768-dd46-4dc1-93d5-d20b8178e9c1</webElementGuid>
+      <webElementGuid>c936060d-2e0e-4485-8e60-611a0a18d377</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nog geen account? Meld je aan.'])[1]/preceding::p[1]</value>
-      <webElementGuid>74940849-1520-40ea-920a-b51261191998</webElementGuid>
+      <webElementGuid>4ef85f0e-6dc3-42c1-8d81-2675af53d1a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inloggen'])[1]/preceding::p[1]</value>
-      <webElementGuid>a2c4a5bf-43e2-44ee-a663-0246c1aef8da</webElementGuid>
+      <webElementGuid>09fd58b4-bb0e-48b9-96a1-b6e4aa7cb1b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/p</value>
-      <webElementGuid>febab9e4-478d-4db6-8198-51d85cde25fa</webElementGuid>
+      <webElementGuid>91eef353-7497-416e-933c-de6f1fea88aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = concat(&quot;Log in om programma&quot; , &quot;'&quot; , &quot;s te kijken.&quot;) or . = concat(&quot;Log in om programma&quot; , &quot;'&quot; , &quot;s te kijken.&quot;))]</value>
-      <webElementGuid>a72ec456-543d-4937-b06f-960e168fd1f6</webElementGuid>
+      <webElementGuid>02ddfbbc-7951-488b-bc6c-e97f9f7b94cd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

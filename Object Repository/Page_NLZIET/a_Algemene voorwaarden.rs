@@ -22,6 +22,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
+      <webElementGuid>c876a385-b3a1-4179-9783-65dbeccb6cd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Dxzbt</value>
+      <webElementGuid>506d850e-5287-426d-b4da-fcfcfb5721ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>c8244a32-1bee-4acb-a132-360ee2cdac81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noreferrer</value>
+      <webElementGuid>fde64c80-37a3-462d-927c-a8ce27966f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.nlziet.nl/home/voorwaarden</value>
+      <webElementGuid>0d74d2ba-c3d3-4af7-b05c-c4176f131951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Algemene voorwaarden</value>
+      <webElementGuid>b78aa0df-fa4d-4a7c-87d0-614bd6d248bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/footer[@class=&quot;GOdwA&quot;]/div[@class=&quot;fj-xB&quot;]/ul[@class=&quot;SC7OG&quot;]/li[@class=&quot;da4cg&quot;]/a[@class=&quot;Dxzbt&quot;]</value>
+      <webElementGuid>a070e5d1-1871-4ae6-accb-312c80939a18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
       <webElementGuid>0ed1bfe0-b882-45f5-be69-58e0a028af43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -49,7 +105,7 @@
       <webElementGuid>56f9895f-5fdc-44e5-bb21-107469d5b1d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
@@ -57,7 +113,7 @@
       <webElementGuid>a959a615-d74d-4202-bb60-09330a61e015</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -78,7 +134,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/footer/div/ul/li/a</value>
-      <webElementGuid>5fb55976-0d16-4c9d-9eae-1bc1e8f1c5c8</webElementGuid>
+      <webElementGuid>966512c8-f825-42b8-aba4-331091b97b78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +142,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Algemene voorwaarden')]</value>
-      <webElementGuid>0f819cc1-8ab7-410b-ad2b-92392b1e1e8b</webElementGuid>
+      <webElementGuid>cadf8449-932f-4f12-9ba3-a88d4232bbea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toon alles'])[14]/following::a[2]</value>
-      <webElementGuid>7015b794-3cc9-46b3-8cf0-be0aaf804a8d</webElementGuid>
+      <webElementGuid>22eb24f4-b095-4762-bcad-6c87c011cd59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mr. Frank Visser: hoe is het nu met?'])[2]/following::a[3]</value>
-      <webElementGuid>82c47831-fbd3-444f-b173-db14209d779d</webElementGuid>
+      <webElementGuid>5c42cf70-f9ae-4459-978d-19b951d8de72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy &amp; cookies'])[1]/preceding::a[1]</value>
-      <webElementGuid>7abf87d0-e07f-41bc-8e18-70327fed6119</webElementGuid>
+      <webElementGuid>7a655a6b-2f7b-4797-9c6f-c0f2dc882819</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hulp'])[1]/preceding::a[2]</value>
-      <webElementGuid>17ea157a-4f74-4261-8d7b-330d71494462</webElementGuid>
+      <webElementGuid>2438afcf-a020-4a56-8186-7abb01eb88d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +182,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Algemene voorwaarden']/parent::*</value>
-      <webElementGuid>7d8a4923-3ed4-42cd-beb7-bf44028e8d04</webElementGuid>
+      <webElementGuid>0a070609-2cb7-463a-8411-7b0fdb0ad737</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +190,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://www.nlziet.nl/home/voorwaarden')]</value>
-      <webElementGuid>6f6d5a9a-74ee-4293-8c09-591f8fb58d53</webElementGuid>
+      <webElementGuid>e6442538-0984-412a-a029-bd0daf75b552</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +198,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//footer/div/ul/li/a</value>
-      <webElementGuid>8fba3288-8562-4f71-a958-e49d3bf3f12c</webElementGuid>
+      <webElementGuid>96dffbc3-80e0-4b60-8db9-f1182bd901b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +206,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://www.nlziet.nl/home/voorwaarden' and (text() = 'Algemene voorwaarden' or . = 'Algemene voorwaarden')]</value>
-      <webElementGuid>9b37037d-4ee5-4a6f-9704-7cd4d1f5d483</webElementGuid>
+      <webElementGuid>be62592d-c287-4d8d-a3bd-74348315188d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

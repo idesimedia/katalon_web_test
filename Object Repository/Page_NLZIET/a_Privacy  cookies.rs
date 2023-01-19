@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -16,6 +15,62 @@
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>23458794-996d-4e3e-ae3a-20f6038632ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Dxzbt</value>
+      <webElementGuid>1da2d152-53bc-4366-bed5-6a220f93f746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>6a8e2a62-8b7d-4498-bf3a-ee5f1bce6e3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noreferrer</value>
+      <webElementGuid>db5fe127-46c1-4ec3-bce6-21d167b88f80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.nlziet.nl/home/privacy</value>
+      <webElementGuid>162b7a12-2af4-44ea-9db6-fe82895eba22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Privacy &amp; cookies</value>
+      <webElementGuid>4f04c722-bfcd-4812-a9c1-0082db0ac2ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/footer[@class=&quot;GOdwA&quot;]/div[@class=&quot;fj-xB&quot;]/ul[@class=&quot;SC7OG&quot;]/li[@class=&quot;da4cg&quot;]/a[@class=&quot;Dxzbt&quot;]</value>
+      <webElementGuid>a45a96b2-87df-467a-962f-01ab6cf48292</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -49,7 +104,7 @@
       <webElementGuid>43a7bf7d-d8f1-4e6a-bd11-9cddf10d24a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
@@ -57,7 +112,7 @@
       <webElementGuid>adcc85ff-3d8a-4df5-a127-1cb3f7e24e40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -78,7 +133,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/footer/div/ul/li[2]/a</value>
-      <webElementGuid>0c7455a6-06ed-49fb-af17-2fef39bbbb07</webElementGuid>
+      <webElementGuid>47e71474-4c4e-4d5c-b047-10a3699c6e54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +141,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Privacy &amp; cookies')]</value>
-      <webElementGuid>f3bb9ef9-de4d-43bc-983d-f0813b065b94</webElementGuid>
+      <webElementGuid>61ca9118-c3be-43a9-b606-fe3cdce2ea78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Algemene voorwaarden'])[1]/following::a[1]</value>
-      <webElementGuid>dfb51713-5a13-404a-a5c3-d1cdc3ad5843</webElementGuid>
+      <webElementGuid>a6dda2fb-24ae-41b5-9171-fc16efda4065</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toon alles'])[14]/following::a[3]</value>
-      <webElementGuid>1bf541ff-7e7b-4c76-93ed-4f7699338055</webElementGuid>
+      <webElementGuid>cf71f3d3-ed4a-41d5-9b2c-e122ca38d0c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +165,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hulp'])[1]/preceding::a[1]</value>
-      <webElementGuid>21390761-a2e0-4b30-a2a7-65b998bca4be</webElementGuid>
+      <webElementGuid>be9fea57-9f64-4550-a525-b5a50a337f77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +173,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/preceding::a[2]</value>
-      <webElementGuid>4673fb98-cc4e-4be4-ba28-da2ad339098c</webElementGuid>
+      <webElementGuid>cc44e887-3d08-4c95-b45a-7a7d401395d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +181,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Privacy &amp; cookies']/parent::*</value>
-      <webElementGuid>9eae6faa-d0df-46eb-90c5-046b31dcde0a</webElementGuid>
+      <webElementGuid>ad006c1c-535d-48e7-a5ff-149788df5b98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +189,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://www.nlziet.nl/home/privacy')]</value>
-      <webElementGuid>53741000-1a17-41bb-bbdf-e6019f4353e6</webElementGuid>
+      <webElementGuid>2dd3a4c5-efca-499c-aaa0-db2efba05751</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +197,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//footer/div/ul/li[2]/a</value>
-      <webElementGuid>aef282e7-1541-4653-b663-d571446a95fd</webElementGuid>
+      <webElementGuid>3144cc02-fd98-44f6-b787-3b3a1aeec445</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +205,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://www.nlziet.nl/home/privacy' and (text() = 'Privacy &amp; cookies' or . = 'Privacy &amp; cookies')]</value>
-      <webElementGuid>53d6e92c-d2cc-4d83-a233-bbb35fc75b22</webElementGuid>
+      <webElementGuid>9b8bdb2f-27d8-4373-9c09-d0986c146404</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

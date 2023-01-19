@@ -6,16 +6,55 @@
    <elementGuidId>17091344-802f-4f00-bad1-58c75b2c407d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/main/div/section[6]/header/h1</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section[6]/header/h1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>e91c334f-0e27-4951-a670-9f2c7c7bf23a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Vooruitkijken</value>
+      <webElementGuid>2f93b28b-b694-411b-a47e-69c0391baab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yOo9W</value>
+      <webElementGuid>4cfc858f-7c58-41b2-b365-276c98279ca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vooruitkijken</value>
+      <webElementGuid>c2267d55-9a3a-41d3-ad6b-5b0cb4dd84b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
+      <webElementGuid>33f6d7b1-babc-4cbc-866a-9d641bb325ae</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -41,7 +80,7 @@
       <webElementGuid>83cfe0f6-170a-4033-875e-3fe638c5a844</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/section[6]/header/h1</value>
-      <webElementGuid>84d9f61b-bb04-417e-bc3b-be70d02b17df</webElementGuid>
+      <webElementGuid>02330100-b1fe-4b1f-9e91-f41b48558c06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toon alles'])[4]/following::h1[1]</value>
-      <webElementGuid>07cd8489-6b2b-40a1-9ab9-5bcd92098ab6</webElementGuid>
+      <webElementGuid>9720e855-65ae-452b-9605-d0744ca40395</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alles voor de bruiloft'])[1]/following::h1[1]</value>
-      <webElementGuid>b0d40779-b06b-4da1-a17e-d3dfc9a7a144</webElementGuid>
+      <webElementGuid>c7e46247-1abc-4a54-ac2d-8ce366940f5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vooruitkijken'])[25]/preceding::h1[1]</value>
-      <webElementGuid>69406fb9-5d2f-4c04-8ba0-3975637355a1</webElementGuid>
+      <webElementGuid>1fe3a80f-c12f-4a8a-8ee6-3ddd222bf0c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='The Bold And the Beautiful'])[1]/preceding::h1[1]</value>
-      <webElementGuid>7b767abb-f50f-480c-b91c-9fc18f207a04</webElementGuid>
+      <webElementGuid>6db680ad-c2ab-4a4d-a040-5643c2e0c228</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[6]/header/h1</value>
-      <webElementGuid>e77a6497-c49f-447f-9208-1b621dc363d4</webElementGuid>
+      <webElementGuid>1423edb1-66ec-4c55-a35b-3893d9b219a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Vooruitkijken' or . = 'Vooruitkijken')]</value>
-      <webElementGuid>b63c5430-87cc-46a2-9176-1ce63b578fbe</webElementGuid>
+      <webElementGuid>a3539430-2ab7-4ad8-a75b-91be041c64ea</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

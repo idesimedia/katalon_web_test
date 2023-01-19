@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>48cb434a-edb6-4cfa-bb42-07dacf4665c4</webElementGuid>
+      <webElementGuid>bc782dea-74c0-4b29-a02f-69135cb083a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,74 @@
       <name>id</name>
       <type>Main</type>
       <value>onetrust-accept-btn-handler</value>
-      <webElementGuid>3bfc738f-f28e-41e4-a1e1-250a9bfd8c46</webElementGuid>
+      <webElementGuid>3bd05c99-c9e1-4dc7-b09d-016f7cef43dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alle cookies accepteren</value>
+      <webElementGuid>f0040b4b-0788-4212-9867-8f8863945ca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-accept-btn-handler&quot;)</value>
+      <webElementGuid>5d9d9df1-3ffe-4a0a-9223-c9128d5cda57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3bbf23d8-7cf4-46ea-9cfe-847f70409782</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onetrust-accept-btn-handler</value>
+      <webElementGuid>010a1dca-9907-4678-bc8b-37b0080f44a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alle cookies accepteren</value>
+      <webElementGuid>700c1361-d7f3-4e8d-9ffd-3320eac95eb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-accept-btn-handler&quot;)</value>
+      <webElementGuid>fd201d70-13a4-479b-bbe6-4548da4a971d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>48cb434a-edb6-4cfa-bb42-07dacf4665c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onetrust-accept-btn-handler</value>
+      <webElementGuid>3bfc738f-f28e-41e4-a1e1-250a9bfd8c46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -86,7 +150,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='onetrust-accept-btn-handler']</value>
-      <webElementGuid>a0fdb1b2-59f5-44ca-9e5c-9c73ac30675d</webElementGuid>
+      <webElementGuid>a360bdc3-f261-47c5-89dd-1e4cb5b8d656</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +158,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='onetrust-button-group']/button[2]</value>
-      <webElementGuid>8ee430cd-8dd6-4612-82b8-3050ec3161d7</webElementGuid>
+      <webElementGuid>a2788585-f67b-4cd8-92da-94e344ec4bb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie-instellingen'])[1]/following::button[1]</value>
-      <webElementGuid>ae3b69f1-4e7b-482b-a0df-40e073184cc1</webElementGuid>
+      <webElementGuid>b097dd16-7876-4796-93f2-60c54d5f6ce2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mijn keuzes bevestigen'])[1]/following::button[2]</value>
-      <webElementGuid>846fcfb9-eaf0-4d47-8ab2-b23ccf3ffce6</webElementGuid>
+      <webElementGuid>a6fbdd65-eeb6-49c9-ad09-465fb5cf7922</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +182,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Alle cookies accepteren']/parent::*</value>
-      <webElementGuid>1c39fb8c-8567-40c9-937d-2ae1ed4f7212</webElementGuid>
+      <webElementGuid>c92d8903-411d-43c2-8931-a7bfffeeccc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +190,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button[2]</value>
-      <webElementGuid>56fd7301-62ad-4ca9-b903-2e753ebab86a</webElementGuid>
+      <webElementGuid>747b9c90-4a60-456e-b33f-f55ea8e7186a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +198,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'onetrust-accept-btn-handler' and (text() = 'Alle cookies accepteren' or . = 'Alle cookies accepteren')]</value>
-      <webElementGuid>d86b251e-f0f3-401f-818c-f9e840e56ad7</webElementGuid>
+      <webElementGuid>70bec681-dcb9-4971-8342-2fd6c08e195c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Toon alles_L6ZAK</name>
+   <tag></tag>
+   <elementGuidId>39448c1f-5b5a-4071-899d-f286db67adab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section[12]/div/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e532fe69-0d9d-41d0-b9c3-0bf317606f9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>L6ZAK</value>
+      <webElementGuid>5ec26d19-c6c4-4d73-86fd-d9716e4f5504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Link naar de serie: Vandaag Inside</value>
+      <webElementGuid>34e85ae1-c16b-48ab-a84f-562904e29458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/series/veWaqxfFnUqbN--VtwNVQQ</value>
+      <webElementGuid>b2272511-83c4-49dd-8ac2-ac2b7cbc0de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/div[@class=&quot;M0CZm&quot;]/div[@class=&quot;Wft7u&quot;]/ul[@class=&quot;wXh5F&quot;]/li[@class=&quot;VfhkA _6IcZj&quot;]/a[@class=&quot;L6ZAK&quot;]</value>
+      <webElementGuid>543fd549-5c3f-44a1-a026-b9ea8d7329c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/section[12]/div/div/ul/li/a</value>
+      <webElementGuid>a95945ef-ee27-4007-845f-4115969accf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/series/veWaqxfFnUqbN--VtwNVQQ')]</value>
+      <webElementGuid>afd429cb-6733-489e-a70e-1f629dd87d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[12]/div/div/ul/li/a</value>
+      <webElementGuid>d1ec55b0-9321-4988-a715-558f89a086ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/series/veWaqxfFnUqbN--VtwNVQQ']</value>
+      <webElementGuid>df0458b0-6c22-4195-90ec-de89c363b9da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

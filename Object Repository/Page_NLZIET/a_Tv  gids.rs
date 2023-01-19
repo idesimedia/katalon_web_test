@@ -6,16 +6,55 @@
    <elementGuidId>626374ce-af7e-433a-afdc-8c1086c583be</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/header/nav/ul/li[2]/a</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header/nav/ul/li[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8eccc56d-0892-4a93-8ec6-c3966d8e8a32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c9AG7</value>
+      <webElementGuid>b3e9c954-29a0-4a51-8153-824697e87ce0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tv-kijken</value>
+      <webElementGuid>5360eb6a-92f3-4809-8afb-f7e9dba51104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tv &amp; gids</value>
+      <webElementGuid>665fa9e0-f7ff-4a45-8e0f-2e067bb4f2a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/header[@class=&quot;-XCvm&quot;]/nav[@class=&quot;LR3tA SLFN1&quot;]/ul[@class=&quot;TlGoA&quot;]/li[@class=&quot;KhBDG&quot;]/a[@class=&quot;c9AG7&quot;]</value>
+      <webElementGuid>30c66d88-e541-41d4-8e2b-4d6eba802de7</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +72,7 @@
       <webElementGuid>43aa9684-53e5-40e8-8bb2-5b28be1c562e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
@@ -41,7 +80,7 @@
       <webElementGuid>c1f6e47b-908c-4ea4-be7a-510e138c887f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/header/nav/ul/li[2]/a</value>
-      <webElementGuid>21c1113c-8689-4e05-857c-2eaf96f2fa79</webElementGuid>
+      <webElementGuid>470c9864-0824-4626-827b-f8d2fcb274d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +109,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Tv &amp; gids')]</value>
-      <webElementGuid>8e9f6b08-b681-49f9-8725-5d9d2b175670</webElementGuid>
+      <webElementGuid>d128dbcf-21a7-4726-82f8-17403b78c395</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
-      <webElementGuid>8bd5c8b9-c5e5-4670-a0bd-042334bdeb75</webElementGuid>
+      <webElementGuid>4fe62f38-0b45-43b2-ad56-6eea0b66ff27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Door naar content'])[1]/following::a[2]</value>
-      <webElementGuid>30221d65-1710-45a4-b0ac-200d9c0e5108</webElementGuid>
+      <webElementGuid>07dfb5df-bf24-4e9a-8aa3-b5ee080e6bd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kijk later'])[1]/preceding::a[1]</value>
-      <webElementGuid>e915be40-50f3-49d9-a489-c8ac5da1f358</webElementGuid>
+      <webElementGuid>93a6dfbb-4966-40df-8600-8fe918524733</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mijn series'])[1]/preceding::a[2]</value>
-      <webElementGuid>532e6235-499c-4b22-9eef-27ca8b1a9345</webElementGuid>
+      <webElementGuid>91b71f9b-6a32-456a-bb71-91018efea2a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tv &amp; gids']/parent::*</value>
-      <webElementGuid>61a069f0-0364-409e-81a2-0ce94fb7a6f4</webElementGuid>
+      <webElementGuid>f34f7a8b-5094-40cf-9544-7d50c587960a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +157,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/tv-kijken')]</value>
-      <webElementGuid>26d8868e-a18c-47af-aed5-d57c90d54c31</webElementGuid>
+      <webElementGuid>58f138a7-b17f-4cea-b32e-8239815a8364</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +165,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a</value>
-      <webElementGuid>497c4237-34a2-472d-aa7b-e916dbd96042</webElementGuid>
+      <webElementGuid>a0644455-c3ce-407b-ad5f-1dba24c95bdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +173,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/tv-kijken' and (text() = 'Tv &amp; gids' or . = 'Tv &amp; gids')]</value>
-      <webElementGuid>113068a2-c668-483b-94cd-3e0273b306a2</webElementGuid>
+      <webElementGuid>226bcf8e-dcdd-4c67-bbfa-83ea2f97ecac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
