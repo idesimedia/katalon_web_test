@@ -6,16 +6,56 @@
    <elementGuidId>f842c1c8-35a5-4d28-b38c-dcdc47e9525b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.Gt2NY.TEXh3</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.Gt2NY.TEXh3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>76f0fe16-5841-48c5-ba3d-ed9f57bab28c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Gt2NY TEXh3</value>
+      <webElementGuid>14794ecd-7952-455b-99fb-1f40c2bd7fbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9f7843f3-264c-4a29-8421-d0e454dd1e4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Scroll naar volgende kanalen</value>
+      <webElementGuid>3edb6390-3a3c-45d7-8545-50a3119ad90d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/nav[@class=&quot;LS3wy&quot;]/div[@class=&quot;JTPbn&quot;]/div[@class=&quot;oV-A6&quot;]/button[@class=&quot;Gt2NY TEXh3&quot;]</value>
+      <webElementGuid>26ff06ce-ccd1-4cfa-b437-09affa6678ba</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +73,7 @@
       <webElementGuid>bcf4c20c-ba44-427b-a884-1605b6999359</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -62,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[8]</value>
-      <webElementGuid>00da65a8-bce2-4490-8f3c-0e810d5a15f5</webElementGuid>
+      <webElementGuid>4bd23f67-0078-4265-ad6e-4ffce1e55540</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/nav/div[4]/div[2]/button[2]</value>
-      <webElementGuid>b5c388af-c9e3-4fe4-9a79-c96b3201a253</webElementGuid>
+      <webElementGuid>1efd5bd1-ea85-4113-846f-8d59788b6d51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NPO 1'])[1]/following::button[2]</value>
-      <webElementGuid>ec5540db-bb7e-4826-ac4c-91f10dc66942</webElementGuid>
+      <webElementGuid>999222eb-aa4a-49c3-ab14-d3fb85d25e59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +126,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Primetime'])[1]/following::button[3]</value>
-      <webElementGuid>e56316eb-a5e7-41b3-98fc-a7f960948c08</webElementGuid>
+      <webElementGuid>0225bb51-8a2e-47eb-95c1-3fa42cde8788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Het verhaal van Nederland'])[1]/preceding::button[1]</value>
+      <webElementGuid>5fcd85fb-1b8a-43fd-a98f-05ff0b3e32cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Connection'])[1]/preceding::button[2]</value>
+      <webElementGuid>75ae1db0-8c2e-4f87-954a-d3a0adecd338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]</value>
+      <webElementGuid>62b41c48-ffd0-40ec-9bdc-9b16b35b2590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>102f1673-661d-4f05-9369-0d497a712866</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,21 +175,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EenVandaag'])[1]/preceding::button[2]</value>
       <webElementGuid>c7314d5a-6096-4f1a-8117-94320dee7443</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/button[2]</value>
-      <webElementGuid>4ae0df30-3140-416a-a0d9-6251578171f2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button']</value>
-      <webElementGuid>1ba2157f-0d0c-4e2e-b8d0-c681cf553237</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://app.acceptance.nlziet.nl/')
+WebUI.navigateToUrl('https://app.nlziet.nl/')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_NLZIET/a_Home'), 0)
 
@@ -38,17 +38,59 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/button_All
 
 WebUI.click(findTestObject('Object Repository/Page_NLZIET/button_Alle cookies accepteren'))
 
-WebUI.scrollToElement(findTestObject('Page_NLZIET/h1_Nu op tv'), 0)
+WebUI.scrollToElement(findTestObject('Object Repository/Page_NLZIET/h1_Nu op tv'), 0)
 
-WebUI.scrollToElement(findTestObject('Page_NLZIET/h1_Meest bekeken'), 0)
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Nu op tv'), 'Nu op tv')
 
-WebUI.scrollToElement(findTestObject('Page_NLZIET/h1_Vooruitkijken NPO Plus'), 0)
+WebUI.scrollToElement(findTestObject('Object Repository/Page_NLZIET/h1_Meest bekeken'), 0)
 
-WebUI.scrollToElement(findTestObject('Page_NLZIET/h1_Vooruitkijken'), 0)
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Meest bekeken'), 'Meest bekeken')
 
-WebUI.scrollToElement(findTestObject('Page_NLZIET/h1_Aanbevolen NPO Plus'), 0)
+WebUI.scrollToElement(findTestObject('Object Repository/Page_NLZIET/h1_Vooruitkijken NPO Plus'), 0)
 
-WebUI.scrollToElement(findTestObject('Page_NLZIET/h1_Aanbevolen'), 0)
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Vooruitkijken NPO Plus'), 'Vooruitkijken NPO Plus')
 
-WebUI.scrollToElement(findTestObject('Page_NLZIET/h1_Films NPO Plus'), 0)
+WebUI.scrollToElement(findTestObject('Object Repository/Page_NLZIET/h1_Vooruitkijken'), 0)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Vooruitkijken'), 'Vooruitkijken')
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_NLZIET/h1_Aanbevolen NPO Plus'), 0)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Aanbevolen NPO Plus'), 'Aanbevolen NPO Plus')
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_NLZIET/h1_Aanbevolen'), 0)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Aanbevolen'), 'Aanbevolen')
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_NLZIET/h1_Films NPO Plus'), 0)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Films NPO Plus'), 'Films NPO Plus')
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_NLZIET/h1_Films'), 0)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Films'), 'Films')
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_NLZIET/h1_Series NPO Plus'), 0)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Series NPO Plus'), 'Series NPO Plus')
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_NLZIET/h1_Series'), 0)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Series'), 'Series')
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_NLZIET/a_Home'), 0)
+
+WebUI.click(findTestObject('Object Repository/Page_NLZIET/a_Tv  gids'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET  Tv  gids/div_Vandaag'), 'Vandaag')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET  Tv  gids/button_Nu  straks'), 'Nu & straks')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET  Tv  gids/button_Primetime'), 'Primetime')
+
+WebUI.click(findTestObject('Object Repository/Page_NLZIET  Tv  gids/img_NPO 1_R1KLd'))
+
+WebUI.click(findTestObject('Object Repository/Page_NLZIET  Tv  gids/img_NOS Journaal_R1KLd'))
+
+WebUI.click(findTestObject('Object Repository/Page_NLZIET  Tv  gids/img_uitzending begint om 0618_R1KLd'))
 

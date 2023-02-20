@@ -22,6 +22,286 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
+      <webElementGuid>af8c3d88-eb44-4aaa-b4a8-79cdaa86ff41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c9AG7</value>
+      <webElementGuid>0f49bd40-c4fd-49da-85c8-940e3ff02b86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/mijn-series</value>
+      <webElementGuid>f97c4655-483e-4e2a-ab46-8c3c146ade3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mijn series</value>
+      <webElementGuid>1c1bf332-4a29-4667-9dd8-0b2e47e15efc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/header[@class=&quot;-XCvm&quot;]/nav[@class=&quot;LR3tA SLFN1&quot;]/ul[@class=&quot;TlGoA&quot;]/li[@class=&quot;KhBDG&quot;]/a[@class=&quot;c9AG7&quot;]</value>
+      <webElementGuid>798887cc-a0f7-4a18-96c2-b3790ab82b5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d115154c-1da9-42ce-9f98-d10e64f10903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c9AG7</value>
+      <webElementGuid>ebe13c67-b89a-46f8-9b56-03d34f93ff40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/mijn-series</value>
+      <webElementGuid>37ef5d8a-8f7e-45d0-a491-6dc176e25b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mijn series</value>
+      <webElementGuid>0abee0f5-8d65-405d-84c7-0d8076c67f51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/header[@class=&quot;-XCvm&quot;]/nav[@class=&quot;LR3tA SLFN1&quot;]/ul[@class=&quot;TlGoA&quot;]/li[@class=&quot;KhBDG&quot;]/a[@class=&quot;c9AG7&quot;]</value>
+      <webElementGuid>454595b6-ead3-429c-aa17-19a25e8ec2e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aabb5fb6-b6f8-441a-9a6a-b8d9aa4e43bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c9AG7</value>
+      <webElementGuid>ec212c32-609b-404b-94a1-9efad5193a11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/mijn-series</value>
+      <webElementGuid>939add01-f5d9-4f69-b0e5-0e9431a7cd15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mijn series</value>
+      <webElementGuid>65255c5c-4bef-45fc-ae76-6522c8c24bc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/header[@class=&quot;-XCvm&quot;]/nav[@class=&quot;LR3tA SLFN1&quot;]/ul[@class=&quot;TlGoA&quot;]/li[@class=&quot;KhBDG&quot;]/a[@class=&quot;c9AG7&quot;]</value>
+      <webElementGuid>f9c3c0d6-f974-4fb9-899c-14849f2ee2a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c095c458-0dc8-4369-9a86-fbe5d0685920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c9AG7</value>
+      <webElementGuid>e652aec5-87e3-4eef-b3b8-d5885654e403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/mijn-series</value>
+      <webElementGuid>61fc859f-69ee-4290-b639-10011f192083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mijn series</value>
+      <webElementGuid>ccb7b923-f09c-4d2f-8ae3-7bca95b0b857</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/header[@class=&quot;-XCvm&quot;]/nav[@class=&quot;LR3tA SLFN1&quot;]/ul[@class=&quot;TlGoA&quot;]/li[@class=&quot;KhBDG&quot;]/a[@class=&quot;c9AG7&quot;]</value>
+      <webElementGuid>0ee12521-afe8-4470-8e72-521a63e19776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>809340e4-7cc1-4e66-9959-fafe7e30aced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c9AG7</value>
+      <webElementGuid>37cfcfb3-6418-4b95-80e1-a3335fb83b5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/mijn-series</value>
+      <webElementGuid>3b176bbb-4270-4de7-ab3c-fb4ac4f1bb58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mijn series</value>
+      <webElementGuid>f8e4e3ce-5cfd-4ee3-b7f8-abcda68cac38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/header[@class=&quot;-XCvm&quot;]/nav[@class=&quot;LR3tA SLFN1&quot;]/ul[@class=&quot;TlGoA&quot;]/li[@class=&quot;KhBDG&quot;]/a[@class=&quot;c9AG7&quot;]</value>
+      <webElementGuid>36113029-c361-4dfd-8529-806bd4cea8d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4a38b739-4773-407e-931c-064eca5523d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c9AG7</value>
+      <webElementGuid>879be933-fccb-4734-b0fc-cd0732e145f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/mijn-series</value>
+      <webElementGuid>b38ee97e-c9c9-4e73-9750-4d2325f07093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mijn series</value>
+      <webElementGuid>36df0a94-f8ed-426c-927f-f99061982aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/header[@class=&quot;-XCvm&quot;]/nav[@class=&quot;LR3tA SLFN1&quot;]/ul[@class=&quot;TlGoA&quot;]/li[@class=&quot;KhBDG&quot;]/a[@class=&quot;c9AG7&quot;]</value>
+      <webElementGuid>839060e7-4541-4e5d-bf54-2f3b022c96ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5d5a1f92-0669-426c-98f5-cc3e4e56ee62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c9AG7</value>
+      <webElementGuid>7e6cacd1-2583-46b9-82d0-a4f6fa8130c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/mijn-series</value>
+      <webElementGuid>534d6610-4858-481b-88f3-987d177e194f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mijn series</value>
+      <webElementGuid>65f9c1af-c3fb-4594-9514-0d279fc7fbca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/header[@class=&quot;-XCvm&quot;]/nav[@class=&quot;LR3tA SLFN1&quot;]/ul[@class=&quot;TlGoA&quot;]/li[@class=&quot;KhBDG&quot;]/a[@class=&quot;c9AG7&quot;]</value>
+      <webElementGuid>976cf82e-68c5-4f89-8cec-fe8d22f2b676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
       <webElementGuid>ad52d4ee-292e-4d29-ade3-604f481194d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +313,7 @@
       <webElementGuid>f890ab1e-e7ea-4b98-8e2d-eb487144e93e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
@@ -41,7 +321,7 @@
       <webElementGuid>8edab078-2c99-4b5d-b03e-3c42d93e56be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +342,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/header/nav/ul/li[4]/a</value>
-      <webElementGuid>756a7342-57e1-49f4-a803-4afb1b8b3adf</webElementGuid>
+      <webElementGuid>2ed3308b-d088-4c32-8681-0766520a4567</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +350,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Mijn series')]</value>
-      <webElementGuid>5646b1b2-5916-49b7-8fa3-a4999f565a4d</webElementGuid>
+      <webElementGuid>3177330d-7219-46a7-bcff-1ac33d008556</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +358,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kijk later'])[1]/following::a[1]</value>
-      <webElementGuid>278aec4e-e554-46ff-b455-84253a5ed7ae</webElementGuid>
+      <webElementGuid>abaae457-30e1-4c25-8237-031b91155f63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +366,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tv &amp; gids'])[1]/following::a[2]</value>
-      <webElementGuid>85d427b4-3d43-40f7-9722-e272bc33216c</webElementGuid>
+      <webElementGuid>664d9ec0-a0f6-4c01-bb2e-67445e4f7799</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +374,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::a[2]</value>
-      <webElementGuid>47881e95-f206-4075-9a99-3043837df20d</webElementGuid>
+      <webElementGuid>bedef102-5fa6-44df-9164-ea16e6254463</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +382,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tv &amp; gids'])[2]/preceding::a[3]</value>
-      <webElementGuid>814fc288-f55f-48ca-8675-e1a062f1fbdb</webElementGuid>
+      <webElementGuid>a32ab25e-d06f-4679-b293-6f83b1679134</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +390,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Mijn series']/parent::*</value>
-      <webElementGuid>7353deb8-1c0c-4c9e-9deb-63991c350bec</webElementGuid>
+      <webElementGuid>a287274d-5b71-48ae-9da3-7537fcc14ce2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +398,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/mijn-series')]</value>
-      <webElementGuid>8978d0cb-4be0-4618-94b0-e5d92150339f</webElementGuid>
+      <webElementGuid>27e66fb6-bad5-471e-921d-bda9cd2d3c7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +406,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>7e76fce5-cac0-4194-95fa-1c61bae99f31</webElementGuid>
+      <webElementGuid>3a51875d-1117-4df2-be9f-d2f6952d1b8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +414,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/mijn-series' and (text() = 'Mijn series' or . = 'Mijn series')]</value>
-      <webElementGuid>9336327b-a8b0-432b-918c-9bc7f28f187c</webElementGuid>
+      <webElementGuid>2e87bbb0-5728-48d2-a2c7-d79dcfde67a6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

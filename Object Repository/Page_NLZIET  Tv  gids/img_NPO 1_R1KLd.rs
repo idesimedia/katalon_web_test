@@ -6,16 +6,64 @@
    <elementGuidId>f1d5847f-7d85-4165-881c-35007020eafd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img.R1KLd</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/main/div/div/ul/li/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.R1KLd</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>00900689-eed6-4317-86a2-9ef0830bdb41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>R1KLd</value>
+      <webElementGuid>1ee3d78b-7555-4b40-b83d-3953a21d65e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.nlziet.nl/static/assets/channels/npo1.png</value>
+      <webElementGuid>26812783-27ce-4914-8ba6-86c733ba8d85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>NPO 1</value>
+      <webElementGuid>435fc0c9-9197-444e-842d-43f8a32e94aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>NPO 1</value>
+      <webElementGuid>8b894df2-d3c9-4b56-af94-89898163190b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[1]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
+      <webElementGuid>52704a2f-9be4-4551-992f-49899b60a0f0</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +81,7 @@
       <webElementGuid>a8417c5a-2541-40c6-93cf-5396ad439946</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
@@ -41,7 +89,7 @@
       <webElementGuid>2c37a064-fb07-43ab-9d5f-fe22e8fc547a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
@@ -49,7 +97,7 @@
       <webElementGuid>7e93fef0-7cc3-4ddc-9d01-a71e56a8e03b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
@@ -70,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li/div/div/img</value>
-      <webElementGuid>c049d14e-3afc-41c1-bcf6-47d558099487</webElementGuid>
+      <webElementGuid>766ef699-c20c-4d60-8cc9-34d66c414c0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +126,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>(//img[@alt='NPO 1'])[2]</value>
-      <webElementGuid>2a86344e-1514-4d56-a8a2-55951cba78ad</webElementGuid>
+      <webElementGuid>3078c713-caa6-4ec7-8b37-53e985a21a48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/div/div/img</value>
-      <webElementGuid>032dd97b-f118-4a8d-a18e-86a2f4d439dc</webElementGuid>
+      <webElementGuid>d2559845-0bf3-4506-b98c-c25fdca8ff94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/npo1.png' and @title = 'NPO 1' and @alt = 'NPO 1']</value>
-      <webElementGuid>114f2dba-a7e1-4868-b259-5c9680685c05</webElementGuid>
+      <webElementGuid>c53cb7a2-4cbd-43cc-b3f0-fe7fd32e0cfd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

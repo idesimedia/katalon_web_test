@@ -22,10 +22,290 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bfbba135-8b01-42ef-ba96-86618a66537d</webElementGuid>
+      <webElementGuid>9592988d-53e0-4c69-b672-3f68a73f6e23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onetrust-pc-btn-handler</value>
+      <webElementGuid>dbd4f436-7c5e-49e0-b240-6f90fbab67ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cookie-setting-link</value>
+      <webElementGuid>941c8f8b-f04e-47d2-89ec-8bb0302c73cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cookie-instellingen</value>
+      <webElementGuid>88a13c49-caa9-4948-afe9-5e2cf7fc3d6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-pc-btn-handler&quot;)</value>
+      <webElementGuid>c4b7ea74-3a69-476a-99df-6e5cf1ba88ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6a96240d-fe4f-48ef-85f8-65f5284d9eca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onetrust-pc-btn-handler</value>
+      <webElementGuid>d0a152f4-46ff-4dcd-9e2b-55deabb11568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cookie-setting-link</value>
+      <webElementGuid>eb1a3122-485c-4b6c-8155-948d8a2b5abd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cookie-instellingen</value>
+      <webElementGuid>1361c1d3-bd69-4865-90a3-79c9c0175a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-pc-btn-handler&quot;)</value>
+      <webElementGuid>7196779e-a2a7-4b96-b788-2bce81f4fe22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d26fb2fe-49c5-4d73-a993-78f18a822e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onetrust-pc-btn-handler</value>
+      <webElementGuid>a6f77c37-f4c1-4523-a4ec-7cd96f6525e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cookie-setting-link</value>
+      <webElementGuid>c7e982e3-7459-488f-9c2a-d4634f33768f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cookie-instellingen</value>
+      <webElementGuid>c61edaa8-7d85-44ae-99f6-09cdd4fa4ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-pc-btn-handler&quot;)</value>
+      <webElementGuid>2b8bb1c7-7ce6-407b-a87d-fc9c87b55e1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2948de5e-607c-409f-bcb0-4aaa001e0a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onetrust-pc-btn-handler</value>
+      <webElementGuid>19e07b10-40ab-41de-a73f-e28739d555f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cookie-setting-link</value>
+      <webElementGuid>c7db01b6-cb8e-445d-a3d4-1cbc3b31edf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cookie-instellingen</value>
+      <webElementGuid>d0d66125-be64-4e87-9d99-5a217e35db06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-pc-btn-handler&quot;)</value>
+      <webElementGuid>6b26ff82-ac48-4bdf-9f18-c1971704dabb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d8e70b70-e1be-4424-875f-bd9960157916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onetrust-pc-btn-handler</value>
+      <webElementGuid>13aad5bc-3ca6-4c55-950d-a87ab45804e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cookie-setting-link</value>
+      <webElementGuid>fe12ee4d-1348-4935-b941-14aafb360440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cookie-instellingen</value>
+      <webElementGuid>e5bb0edf-871c-4c9e-8bf2-91bb29ecb2a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-pc-btn-handler&quot;)</value>
+      <webElementGuid>8038e34e-001b-4d65-ad9a-7af21dfbe490</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>93c5c665-5b88-4f90-89d9-8e3e0178c276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onetrust-pc-btn-handler</value>
+      <webElementGuid>6d59e07a-fdcd-4453-a88c-41c2b334a399</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cookie-setting-link</value>
+      <webElementGuid>3f6ed0cc-b295-4e05-8300-736895786068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cookie-instellingen</value>
+      <webElementGuid>3a1f8f5c-81c0-4d1c-b322-b8b8fdaadbe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-pc-btn-handler&quot;)</value>
+      <webElementGuid>72a26bbb-2ffb-42e2-bad9-2606e072764d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>822aaffd-97a3-4768-85f2-c6a288228abf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onetrust-pc-btn-handler</value>
+      <webElementGuid>f46d7533-34c9-4158-9fd1-4de8747a450e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cookie-setting-link</value>
+      <webElementGuid>7b16ad33-af35-4734-965b-96f50b464b0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cookie-instellingen</value>
+      <webElementGuid>0c7cca8a-2ab7-4312-9a7d-c124e10a3640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-pc-btn-handler&quot;)</value>
+      <webElementGuid>272cb4a6-eb3f-43b3-845e-7aa8eeeb0192</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bfbba135-8b01-42ef-ba96-86618a66537d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -41,7 +321,7 @@
       <webElementGuid>4a5cafc0-ebe0-4ce4-90e6-9b360cd99310</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +342,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='onetrust-pc-btn-handler']</value>
-      <webElementGuid>6729f461-c91f-4b88-b864-c5bda4e1cc66</webElementGuid>
+      <webElementGuid>150c7a57-307e-4c58-b14c-a8a5c80e9c8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +350,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='onetrust-button-group']/button</value>
-      <webElementGuid>48c6d2ab-f7a1-4b7f-8eb6-752544729fe5</webElementGuid>
+      <webElementGuid>6f7fbe31-da61-4cb4-9eeb-017e8c73e478</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +358,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mijn keuzes bevestigen'])[1]/following::button[1]</value>
-      <webElementGuid>d0166ea5-4e9f-4bd9-bf43-df926d36e649</webElementGuid>
+      <webElementGuid>26904afc-a498-4ebe-ae05-76a746eb8202</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +366,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='label'])[4]/following::button[2]</value>
-      <webElementGuid>2d99a42e-b074-404b-b3ec-2dfab5a6df8d</webElementGuid>
+      <webElementGuid>e4b752d7-1107-4cac-9fa1-3a0e87d5b56b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +374,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alle cookies accepteren'])[1]/preceding::button[1]</value>
-      <webElementGuid>afd05464-9e53-4bdb-83c5-7c857da51917</webElementGuid>
+      <webElementGuid>2661ddc6-9bac-4ab8-870f-67ffa6da7cd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +382,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Cookie-instellingen']/parent::*</value>
-      <webElementGuid>5f4ce8df-efe7-4754-af84-4812e1e68fe8</webElementGuid>
+      <webElementGuid>eac812fc-acb9-4ac3-8c80-3c78d6eeae60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +390,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[2]/div/button</value>
-      <webElementGuid>4018e6aa-759a-4e0b-8df1-0ab1d5a8d710</webElementGuid>
+      <webElementGuid>a0259c01-a9d0-4da0-b1d0-aaff1db8221d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +398,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'onetrust-pc-btn-handler' and (text() = 'Cookie-instellingen' or . = 'Cookie-instellingen')]</value>
-      <webElementGuid>66ec3bd9-3a32-4d01-85b2-64f8c78c393b</webElementGuid>
+      <webElementGuid>d5b502ba-c528-487b-8e5d-742c546805be</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

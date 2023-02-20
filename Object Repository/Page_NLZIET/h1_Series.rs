@@ -6,15 +6,416 @@
    <elementGuidId>6ae23257-5fb8-48e0-b056-80bd98bdbed6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header/nav/ul/li/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/main/div/section[12]/header/h1</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>0674b483-8a05-4934-a76b-ee1bf918a187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Uitgelicht</value>
+      <webElementGuid>e65342d4-c523-414e-8af6-834b256515c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yOo9W</value>
+      <webElementGuid>6d98835d-d8b7-4060-8d3d-29ea79fca20a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Series</value>
+      <webElementGuid>a1c61a4c-557f-47e6-949a-cd486dc437b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
+      <webElementGuid>9dcf2a53-aad4-4f58-8099-631d41b227c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>128f5a76-8685-4e60-9e62-acc45aaceb6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Uitgelicht</value>
+      <webElementGuid>3450e9e1-4f80-4e71-ac8c-d894c1207699</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yOo9W</value>
+      <webElementGuid>770404ce-79e4-406e-b515-09501b4c0c05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Series</value>
+      <webElementGuid>6798cc03-ba21-4a88-a2db-081a2fb47074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
+      <webElementGuid>679b6407-0228-4857-9a53-a26bff51a5aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>858e77d6-ae7a-4b7c-a594-d8b9d8218e30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Uitgelicht</value>
+      <webElementGuid>56496905-38c4-445f-98f4-823a5db780a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yOo9W</value>
+      <webElementGuid>670ae7cf-9b4a-43f9-9ddf-f4355048b895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Series</value>
+      <webElementGuid>153e6f13-857c-4ae0-bbed-2a9543b9a3e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
+      <webElementGuid>e7522d7c-c3c5-4a9e-aa1f-e740eeb02fc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>56d638f6-60f5-4ab0-b521-97b6aea751a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Uitgelicht</value>
+      <webElementGuid>f0e08410-9422-443e-aa44-6d1c73e7fbdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yOo9W</value>
+      <webElementGuid>74be7caa-4e6c-4b22-8504-9ad8d3e120d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Series</value>
+      <webElementGuid>9e92eccb-f084-4433-aa96-67a037831d43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
+      <webElementGuid>427352d1-d037-41fe-ba1d-5d90e5814188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>fad960f5-cd28-492b-b534-b0e2c0d39492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Uitgelicht</value>
+      <webElementGuid>0f793e88-e78d-42c0-82d3-a6c888165bd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yOo9W</value>
+      <webElementGuid>1c003ac7-71fa-4010-bba5-96d21519d1e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Series</value>
+      <webElementGuid>7452f1ba-dcb3-4bef-8cf4-3b2fe382952c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
+      <webElementGuid>0c8f3ff4-4211-4141-86a6-a223d1c590ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>71f2d1d4-09fc-4e0b-947d-aadba85004a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Uitgelicht</value>
+      <webElementGuid>595f58f1-0425-4ceb-922e-250da72636bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yOo9W</value>
+      <webElementGuid>36d18416-caf9-49f6-9dee-07f99c349a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Series</value>
+      <webElementGuid>e466ce88-acb3-427d-a920-159fc4890a8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
+      <webElementGuid>d468348e-6221-4fd7-802d-7bf554f1446d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>2befe57f-3fd7-43b2-9a04-c201b227ff48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Uitgelicht</value>
+      <webElementGuid>43ef01e8-63e8-4bd8-ba25-a5ce3815a7fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yOo9W</value>
+      <webElementGuid>447a5cce-040c-49e7-9ff7-03772b4a6e7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Series</value>
+      <webElementGuid>353f06ff-67df-470f-bb81-944609ff1125</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
+      <webElementGuid>10a75a52-56e3-4a4a-99b6-08f72dec7c1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>770c9433-b073-4f47-b22e-7b5dc4a2cc19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Uitgelicht</value>
+      <webElementGuid>785d3781-5982-46df-be30-6d893016a00f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yOo9W</value>
+      <webElementGuid>e4707708-b235-4d91-94e5-26c42f9dc5e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Series</value>
+      <webElementGuid>07a468fc-206e-4ba1-87e6-7ad4eba9e652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
+      <webElementGuid>7a378e28-fa07-4397-b622-f05b860b1481</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>797f7f41-e4fc-4483-8409-6fa367271fd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Uitgelicht</value>
+      <webElementGuid>3455cd9d-1f75-42ab-8fe3-a8e6736ebb9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yOo9W</value>
+      <webElementGuid>82cc9170-6ff5-4048-9fba-24a48bf939f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Series</value>
+      <webElementGuid>41421e08-6560-4740-8352-33f994a5cd74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
+      <webElementGuid>cbc52d60-3a1c-4d28-b74c-237a34513055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>3c69af75-bf40-432c-b2f9-761e5aaa25c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Uitgelicht</value>
+      <webElementGuid>e3aa2657-6a8e-40dc-8090-b842feeff4d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yOo9W</value>
+      <webElementGuid>579f21f8-95cd-4719-a03d-38c6d712f188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Series</value>
+      <webElementGuid>ad09e3a8-b179-43bd-b9e6-4b75c98a3fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
+      <webElementGuid>048ffbde-796e-4b6a-98fe-26081592a3a4</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -40,7 +441,7 @@
       <webElementGuid>5e6f7c7f-d322-4fcd-a517-c17959c84dfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -101,7 +502,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/section[12]/header/h1</value>
-      <webElementGuid>dcf04c9a-7eae-4f96-ac64-d68d8262b020</webElementGuid>
+      <webElementGuid>39cf332b-d7d7-4955-8b95-974d4a398d99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,15 +510,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toon alles'])[12]/following::h1[1]</value>
-      <webElementGuid>02017be1-f5d8-4adc-bdd2-797f11504c8b</webElementGuid>
+      <webElementGuid>0e3bed57-d5fb-4cde-a54f-6772ae27a3b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khalid &amp; Sophie'])[3]/following::h1[1]</value>
-      <webElementGuid>30b9b9d8-ad55-49be-9cee-9f0f048b241f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOS Studio Voetbal'])[3]/following::h1[1]</value>
+      <webElementGuid>8404e7c8-ed90-4c0f-b05c-147d7ae0d771</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,15 +526,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toon alles'])[13]/preceding::h1[1]</value>
-      <webElementGuid>cd4746bf-cc25-4964-96f3-3e3eece4e104</webElementGuid>
+      <webElementGuid>0d9973c5-84c8-45ca-b5fb-2d5cb9a3700a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Married At First Sight'])[4]/preceding::h1[1]</value>
-      <webElementGuid>ee3d9eca-28de-4084-ba15-009a780b9e74</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vandaag Inside'])[3]/preceding::h1[1]</value>
+      <webElementGuid>9a516b39-9abc-4795-bb52-81593ec09d67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +542,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Series']/parent::*</value>
-      <webElementGuid>ff96d3a5-a49f-4b78-a98e-511f94208a05</webElementGuid>
+      <webElementGuid>4ea9b9b5-ecec-4ff7-a4b0-3f76be8123fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +550,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[12]/header/h1</value>
-      <webElementGuid>4935723e-1c51-4e99-be4d-a9a2cfa1928e</webElementGuid>
+      <webElementGuid>bda6031d-77cf-44a9-b94a-2340d779a3a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +558,22 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Series' or . = 'Series')]</value>
-      <webElementGuid>18385914-ad54-4b8e-a446-6b856e884f43</webElementGuid>
+      <webElementGuid>fd197462-1b4e-46a3-b445-481c9c0b7186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khalid &amp; Sophie'])[3]/following::h1[1]</value>
+      <webElementGuid>36d6d8c8-2e57-445f-81b9-1b76834122d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Married At First Sight'])[4]/preceding::h1[1]</value>
+      <webElementGuid>1795464a-f4f5-42e3-a40f-4f538ce648aa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
