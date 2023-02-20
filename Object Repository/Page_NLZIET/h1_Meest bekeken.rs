@@ -6,15 +6,56 @@
    <elementGuidId>3d55ebf9-e866-401d-acbc-6a1c185456c8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/main/div/section[4]/header/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>f6c5685e-ca1c-40a4-826b-bdef8e1e0736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Uitgelicht</value>
+      <webElementGuid>96b74567-e989-47a0-b7e6-e16888a4029b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yOo9W</value>
+      <webElementGuid>65030ee1-c22c-42ab-8d35-a599fbed4fcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Meest bekeken</value>
+      <webElementGuid>ddd53812-a8be-409c-8362-735340cff783</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
+      <webElementGuid>c370d34a-136b-439d-ae8b-7a52e58ac257</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -40,7 +81,7 @@
       <webElementGuid>892db0a9-8715-4c8a-8fb2-46bfdf022d8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -101,7 +142,55 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/section[4]/header/h1</value>
-      <webElementGuid>f265c4e2-e9a1-4eeb-b0b7-1467f29ea04c</webElementGuid>
+      <webElementGuid>ead8ee53-e6d5-46be-9cef-3f33ab40f7b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amsterdam Vandaag'])[1]/following::h1[1]</value>
+      <webElementGuid>badf5ff0-aba7-494c-ad46-9f18a8ff7880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='De Limburgse Buuttecup'])[1]/following::h1[2]</value>
+      <webElementGuid>4f566e2b-bdb7-404f-ac82-25b2fcd6d548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TV Winkel'])[2]/preceding::h1[1]</value>
+      <webElementGuid>34538021-2b62-4436-9cd2-2ccdaae1e97b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vooruitkijken NPO Plus'])[1]/preceding::h1[2]</value>
+      <webElementGuid>695b1a96-facf-42aa-aa2e-f1c65abb6e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/header/h1</value>
+      <webElementGuid>6cabf794-b0c0-49a1-a38b-1f842941794c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Meest bekeken' or . = 'Meest bekeken')]</value>
+      <webElementGuid>d02ca248-a2f0-48d8-ad54-980306529164</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,21 +223,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jinek'])[3]/preceding::h1[1]</value>
       <webElementGuid>c00191f5-65fa-4235-9fd7-f374cfa75ffc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//section[4]/header/h1</value>
-      <webElementGuid>9e9ade9c-92f6-46a9-a17b-9212a35f5458</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//h1[(text() = 'Meest bekeken' or . = 'Meest bekeken')]</value>
-      <webElementGuid>f7e4ffa0-f11a-4878-9ef9-14e90789d059</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

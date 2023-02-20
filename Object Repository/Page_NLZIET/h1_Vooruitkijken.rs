@@ -6,15 +6,56 @@
    <elementGuidId>17091344-802f-4f00-bad1-58c75b2c407d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/main/div/section[6]/header/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>74b734ec-b26e-4490-8e1f-c585e1eadf4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Vooruitkijken</value>
+      <webElementGuid>27269d65-0943-4a76-9632-9a8d9aabed7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yOo9W</value>
+      <webElementGuid>53fdcdc6-07d5-4356-a6d8-0e37b8f9d7cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vooruitkijken</value>
+      <webElementGuid>5d24ec76-3d7e-4469-b131-f51400f30160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
+      <webElementGuid>474f61ec-579f-4a9d-a462-1a0953837ac1</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -40,7 +81,7 @@
       <webElementGuid>4cfc858f-7c58-41b2-b365-276c98279ca8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -101,7 +142,55 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/section[6]/header/h1</value>
-      <webElementGuid>02330100-b1fe-4b1f-9e91-f41b48558c06</webElementGuid>
+      <webElementGuid>beccff96-6ba4-43f7-a27b-42e08a5c147a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toon alles'])[2]/following::h1[1]</value>
+      <webElementGuid>b2a4a20a-5e68-4aa3-a879-768ba55d6743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Normal People'])[1]/following::h1[1]</value>
+      <webElementGuid>42147ba8-2b9a-434f-8d5f-688f4d6d6c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vooruitkijken'])[22]/preceding::h1[1]</value>
+      <webElementGuid>7979c8d8-a179-4810-8d07-2321c7651563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eigen Huis &amp; Tuin: Lekker Leven'])[1]/preceding::h1[1]</value>
+      <webElementGuid>4da19a4f-25f3-4dfc-be39-9aa96eb1adc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[6]/header/h1</value>
+      <webElementGuid>f8b7e772-d527-4f31-bc38-c1c68317faa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Vooruitkijken' or . = 'Vooruitkijken')]</value>
+      <webElementGuid>9d5e4d97-f0b7-48f7-b70f-66dd55634368</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,21 +223,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='The Bold And the Beautiful'])[1]/preceding::h1[1]</value>
       <webElementGuid>6db680ad-c2ab-4a4d-a040-5643c2e0c228</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//section[6]/header/h1</value>
-      <webElementGuid>1423edb1-66ec-4c55-a35b-3893d9b219a1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//h1[(text() = 'Vooruitkijken' or . = 'Vooruitkijken')]</value>
-      <webElementGuid>a3539430-2ab7-4ad8-a75b-91be041c64ea</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,16 +6,56 @@
    <elementGuidId>36212c14-d58d-4fc6-bfb3-98dd2400b16b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>h1.yOo9W</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/main/div/section[3]/header/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.yOo9W</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>36cd487c-4c41-4f62-8d1a-2f3f74ce9d44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Nu op tv</value>
+      <webElementGuid>742ed0e3-1a85-4362-9d9e-f658081d37cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yOo9W</value>
+      <webElementGuid>56d50feb-acea-489f-a693-d3f43f0cbd2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nu op tv</value>
+      <webElementGuid>0c8d73c1-9cc5-452f-ab0a-504994e4469b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
+      <webElementGuid>75eb30e4-4d98-4936-ac64-2b3f10d6ea8b</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -41,7 +81,7 @@
       <webElementGuid>5462f17e-5caf-473d-8452-0c4c4d672a7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -102,7 +142,63 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/section[3]/header/h1</value>
-      <webElementGuid>524c7d0c-f2c6-44b6-9884-d09651a232e6</webElementGuid>
+      <webElementGuid>148c5fd6-ae7d-4383-a05c-0207b6f5dda3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='De Nieuwe Vermeer'])[1]/following::h1[1]</value>
+      <webElementGuid>52bdf946-dc7d-47a9-a704-0d1a7a091204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lang Leve de Liefde'])[1]/following::h1[2]</value>
+      <webElementGuid>0faa4aa5-7809-441d-be29-f4ff4b53c94a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meest bekeken'])[1]/preceding::h1[1]</value>
+      <webElementGuid>dfab4960-045e-44d2-8e7c-949703a70ec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Koffietijd'])[1]/preceding::h1[1]</value>
+      <webElementGuid>d859b955-b6fe-4e5c-aa92-3370efcd455c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nu op tv']/parent::*</value>
+      <webElementGuid>998035cb-62e1-412e-ad71-09f860fd8f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/h1</value>
+      <webElementGuid>acbdfa73-55a1-45a1-ad34-95cfd507dd29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Nu op tv' or . = 'Nu op tv')]</value>
+      <webElementGuid>4b351bdf-ba27-473d-8de5-403084a6ce14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,39 +221,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meest bekeken'])[1]/preceding::h1[1]</value>
-      <webElementGuid>c68a844e-5d8a-4f5c-a002-3e0c28265c81</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jinek'])[1]/preceding::h1[1]</value>
       <webElementGuid>84e9f26c-c4f3-49eb-8be6-a586eb653ab1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Nu op tv']/parent::*</value>
-      <webElementGuid>25440795-d623-4538-9fb6-73a9f724aaa6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//header/h1</value>
-      <webElementGuid>8e8c074b-110a-4f2e-a1b0-6dc0adeed570</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//h1[(text() = 'Nu op tv' or . = 'Nu op tv')]</value>
-      <webElementGuid>7d7c5afb-da46-4ed9-9c04-23c6343635c5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

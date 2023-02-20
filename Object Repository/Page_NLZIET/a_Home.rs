@@ -6,16 +6,64 @@
    <elementGuidId>beed8cfc-d5dc-443a-aa62-b8b09a691d11</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.c9AG7.xJ-Y4</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/header/nav/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.c9AG7.xJ-Y4</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d114e534-3b00-47f3-87f7-aff5f7bd52c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>e8f6907a-a899-4dfe-9359-a4ca3f5eebe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c9AG7 xJ-Y4</value>
+      <webElementGuid>b6318c89-d74e-4ef9-aa19-7050d2bd4007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>fbea64bf-876c-43cc-b9a0-e8d1ba521918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>1ff72671-de13-4727-b874-9d99a760fb7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/header[@class=&quot;-XCvm&quot;]/nav[@class=&quot;LR3tA SLFN1&quot;]/ul[@class=&quot;TlGoA&quot;]/li[@class=&quot;KhBDG&quot;]/a[@class=&quot;c9AG7 xJ-Y4&quot;]</value>
+      <webElementGuid>d470cb73-8b51-4d8a-b99a-a4c21473ed72</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -41,7 +89,7 @@
       <webElementGuid>479a2089-0f24-4aa8-ad40-7dd822f2bfc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
@@ -49,7 +97,7 @@
       <webElementGuid>6253b9da-174b-4381-90e3-2dad183b24bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -118,7 +166,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/header/nav/ul/li/a</value>
-      <webElementGuid>872dc3d4-e991-4857-b3dc-79556d561c2c</webElementGuid>
+      <webElementGuid>d0364a03-1bea-48b5-9887-73767b4f5dbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +174,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Home')]</value>
-      <webElementGuid>0b9718cc-c79e-45a5-8ffe-dc2a1a4f4d41</webElementGuid>
+      <webElementGuid>3310c77b-9ee6-4e78-93ea-d11e569c140b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +182,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Door naar content'])[1]/following::a[1]</value>
-      <webElementGuid>1586d9dc-0fbb-451f-a79f-f02c71e4e227</webElementGuid>
+      <webElementGuid>0326d35a-87a0-49d9-b04f-a8a3fd1ff415</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +190,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lees hier welke browsers er worden ondersteund'])[1]/following::a[2]</value>
-      <webElementGuid>00e6fabe-795b-4217-af53-93b8d1d27b05</webElementGuid>
+      <webElementGuid>5573643a-394a-4198-982c-2ad243a5a98e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +198,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tv &amp; gids'])[1]/preceding::a[1]</value>
-      <webElementGuid>e565919b-07e7-425d-9608-9f2568dcf30d</webElementGuid>
+      <webElementGuid>3a370585-9e29-4f0e-9906-510583322817</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +206,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kijk later'])[1]/preceding::a[2]</value>
-      <webElementGuid>361a60d0-6317-4bc0-9be5-d75b78c690e0</webElementGuid>
+      <webElementGuid>7a6f17d9-5015-4f95-83de-41425dda2b10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +214,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Home']/parent::*</value>
-      <webElementGuid>f4fa647f-a418-4ffc-81d5-7753a173eef1</webElementGuid>
+      <webElementGuid>49b91225-a2ad-46c7-a8ce-6f6d4863883b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +222,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/')])[3]</value>
-      <webElementGuid>55319ef8-a4e6-43d6-b91c-9eb3037faf8e</webElementGuid>
+      <webElementGuid>b525dadf-f810-456d-aeb2-b4ed2040ca35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +230,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>663e9478-1095-4e79-bcc8-4c91308e2252</webElementGuid>
+      <webElementGuid>ea4b13df-b720-4ed7-b154-40a1ea2f5b33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,6 +238,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/' and (text() = 'Home' or . = 'Home')]</value>
-      <webElementGuid>940bff9e-7ef9-4111-8eb7-0557954d6c4a</webElementGuid>
+      <webElementGuid>b6dc6fde-ed96-4596-80ef-3daf978bf9d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

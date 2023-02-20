@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Strawberry Shortcake_P9fEf_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>5e9325fe-f684-4a5c-a0ae-f4ca9630c9bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section[2]/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>14214cea-d57f-43f8-b4d2-e2e8a2ea6592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Link naar overzichtspagina regionale zenders</value>
+      <webElementGuid>79284ef3-512b-4935-a2af-c243008f589c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>P9fEf</value>
+      <webElementGuid>f864559c-e239-4ec9-9059-2d035133fe3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/aanbieder/rpo</value>
+      <webElementGuid>39edb555-9493-4b81-a429-0c8f0b024278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
+      <webElementGuid>61826fad-1ca3-4b23-a9d0-dc6856365c94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/section[2]/ul/li[4]/a</value>
+      <webElementGuid>2a5d7c1b-52d2-42d3-bb53-4e3b1a28d3aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Strawberry Shortcake'])[1]/following::a[4]</value>
+      <webElementGuid>d42db84a-3dda-4cae-8faa-0b74a16e74be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='House Vision'])[1]/following::a[5]</value>
+      <webElementGuid>4d6007be-fcb0-428c-9ad7-1d496be432b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nu op tv'])[1]/preceding::a[1]</value>
+      <webElementGuid>6cf2f44f-e0f2-41e6-8370-4c7363b059e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meest bekeken'])[1]/preceding::a[2]</value>
+      <webElementGuid>8770e01b-81b7-4519-96e0-3c0f88164997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/aanbieder/rpo')]</value>
+      <webElementGuid>a8ea620a-01fe-4546-a75d-226ce9b8c9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/ul/li[4]/a</value>
+      <webElementGuid>5b4d0978-78d7-465e-a303-8b3f1ba721d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/aanbieder/rpo']</value>
+      <webElementGuid>e5b4cd2e-a916-43cf-93fa-b040ae3aed29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
