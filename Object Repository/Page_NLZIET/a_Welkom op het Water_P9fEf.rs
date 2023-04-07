@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Welkom op het Water_P9fEf</name>
+   <tag></tag>
+   <elementGuidId>bb805ec7-c7f1-4267-aec8-dae1e28946cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section[2]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.P9fEf</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dd899b43-1fb1-4107-afea-b76408149acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Link naar overzichtspagina NPO Plus</value>
+      <webElementGuid>b2e4299d-c799-4a24-be46-af41fc57123e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>P9fEf</value>
+      <webElementGuid>600201c0-4187-4dfe-a90c-56a3a7660746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/aanbieder/npo</value>
+      <webElementGuid>ef2d1da8-7474-4285-ab12-6d1efbac69d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
+      <webElementGuid>dd4ad583-5c5e-4ed8-8e90-b2a287e99be2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/section[2]/ul/li/a</value>
+      <webElementGuid>0391a5d9-db81-48a9-9584-2b60de4019fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welkom op het Water'])[1]/following::a[1]</value>
+      <webElementGuid>c75bbd7d-bb88-4221-a990-50e3c16fc15d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tweeling'])[1]/following::a[2]</value>
+      <webElementGuid>ab0350ce-86fe-4612-8391-a6582446b47e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nu op tv'])[1]/preceding::a[4]</value>
+      <webElementGuid>6a5ffe78-b03e-4e9e-9f06-aae0a0f7b1f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meest bekeken'])[1]/preceding::a[5]</value>
+      <webElementGuid>a4465f26-eb63-4f12-bbc2-f9bb030867da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/aanbieder/npo')]</value>
+      <webElementGuid>fa3a8c56-c5d7-4c18-a5f2-60874be50f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/ul/li/a</value>
+      <webElementGuid>18dd1056-771f-4e50-b07f-ec5a554b4648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/aanbieder/npo']</value>
+      <webElementGuid>53204357-9715-4f39-9ce1-398d99f5f624</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
