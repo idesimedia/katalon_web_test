@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Het volgende wordt er gecheckt:
+
+- Kloppen alle rij titels
+- Zijn alle live zenders aanwezig
+- Zijn de linkjes in de footer aanwezig
+- Zijn alle items in de header menu aanwezig
+- Is het 'zoeken' en 'account' icoon aanwezig
+- Zijn de buttons van de deelenemers aanwezig</description>
+   <name>Homepage checks</name>
+   <tag>live tv, rij titels</tag>
+   <comment></comment>
+   <testCaseGuid>ce4933de-3b36-4788-99bd-6a1672fc7892</testCaseGuid>
+</TestCaseEntity>

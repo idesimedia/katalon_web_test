@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Logo RTL 5</name>
+   <tag></tag>
+   <elementGuidId>213331fe-ee82-40f9-956b-9e30063906a1</elementGuidId>
+   <imagePath>Screenshots/Targets/Object Repository/Page_NLZIET  Tv  gids/Logo RTL 5.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/ul/li[5]/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Object Repository/Page_NLZIET  Tv  gids/Logo RTL 5.png</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = 'RTL 5']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7b739f4c-5b74-43aa-a188-508e07a2d09e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>R1KLd</value>
+      <webElementGuid>bc66d0de-0f28-4c82-af62-1c7e874b2f77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.nlziet.nl/static/assets/channels/rtl5.png</value>
+      <webElementGuid>2eff8a7e-8b76-4935-8e84-612bb05d627c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>RTL 5</value>
+      <webElementGuid>8da391ce-254d-4e27-8fce-5a563ae5638b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>RTL 5</value>
+      <webElementGuid>5a93a9c3-0055-4140-ba00-c1810d58e376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[5]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
+      <webElementGuid>18733267-3bc3-4fc1-99d6-054d08fdb1ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/ul/li[5]/div/div/img</value>
+      <webElementGuid>74b1e300-49fa-489f-b573-cc0f51ddf1a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='RTL 5']</value>
+      <webElementGuid>80a1289f-6c7b-4517-a0fe-51dfaa696aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/div/img</value>
+      <webElementGuid>43e1d330-a3db-4d7d-8cef-f664c6fbb3fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/rtl5.png' and @title = 'RTL 5' and @alt = 'RTL 5']</value>
+      <webElementGuid>6b674f59-ad64-49c1-8292-0e57f990348d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

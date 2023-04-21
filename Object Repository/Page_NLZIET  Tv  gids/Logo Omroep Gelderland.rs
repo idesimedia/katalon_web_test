@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Logo Omroep Gelderland</name>
+   <tag></tag>
+   <elementGuidId>ead54bb7-0120-44b6-87f9-4c9d602ba1f8</elementGuidId>
+   <imagePath>Screenshots/Targets/Object Repository/Page_NLZIET  Tv  gids/Logo Omroep Gelderland.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>c</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Object Repository/Page_NLZIET  Tv  gids/Logo Omroep Gelderland.png</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fdb28c35-e397-4197-8e1d-4d6f5ade1f8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>R1KLd</value>
+      <webElementGuid>4ee5452f-6e1b-4f3d-955b-5a44f14be77a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.nlziet.nl/static/assets/channels/tvgelderland.png</value>
+      <webElementGuid>39fab42d-454f-46ee-9e94-85a3a8daff50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>TV Gelderland</value>
+      <webElementGuid>dcdfee80-b545-4c4f-a0b7-6dc03b143421</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>TV Gelderland</value>
+      <webElementGuid>9fb7805e-0f3c-443a-98e3-55fc8f64ad6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[39]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
+      <webElementGuid>f72d992e-1008-4278-a627-96e1a51c6da2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/ul/li[39]/div/div/img</value>
+      <webElementGuid>27fa587e-8648-4975-aa41-1d7450d74445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='TV Gelderland']</value>
+      <webElementGuid>85784f92-37e3-40db-8455-a93f0ec32980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[39]/div/div/img</value>
+      <webElementGuid>ec6d45fc-5914-4d27-a2f8-3223bb1f8c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/tvgelderland.png' and @title = 'TV Gelderland' and @alt = 'TV Gelderland']</value>
+      <webElementGuid>d3dc537e-92a0-40a0-b454-d43ba5142016</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
