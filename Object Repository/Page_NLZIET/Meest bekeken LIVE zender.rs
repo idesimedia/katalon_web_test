@@ -13,6 +13,10 @@
          <key>CSS</key>
          <value>li.qh3dC._6IcZj > a.Xn0kv</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/div[@class=&quot;M0CZm&quot;]/div[@class=&quot;Wft7u&quot;]/ul[@class=&quot;wXh5F&quot;]/li[@class=&quot;qh3dC _6IcZj&quot;]/a[@class=&quot;Xn0kv&quot;]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>788c44e9-1d16-4a4f-b282-bcda67b04e4c</webElementGuid>
+      <webElementGuid>40d4cc0a-d24b-4050-b1b4-2b3c4c70fefb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Nu live op NPO 1: NOS Journaal. Daarna Tekst-TV om 12:47.</value>
-      <webElementGuid>64ef65bf-bad9-4c23-8ba8-ce9a92e4e2f6</webElementGuid>
+      <webElementGuid>8ae3ccd3-9c70-4e24-98c9-981814adca78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Xn0kv</value>
-      <webElementGuid>28ae9271-08ae-4143-b6a1-1a630a083dcb</webElementGuid>
+      <webElementGuid>9552c6bb-b24b-492a-9df7-973cbe3405b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/live/npo1</value>
-      <webElementGuid>ff39eabf-f0e5-4038-bd05-b2015887ea08</webElementGuid>
+      <webElementGuid>677cc731-29ba-451d-8a8c-d82c424cf73d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/div[@class=&quot;M0CZm&quot;]/div[@class=&quot;Wft7u&quot;]/ul[@class=&quot;wXh5F&quot;]/li[@class=&quot;qh3dC _6IcZj&quot;]/a[@class=&quot;Xn0kv&quot;]</value>
-      <webElementGuid>2750fda9-9691-47fe-bf37-c178f4c7870e</webElementGuid>
+      <webElementGuid>c438edbf-55ed-4a3a-9ba4-5604907d9831</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[3]/a</value>
-      <webElementGuid>3672df20-7043-4425-a092-a0a937b1a23d</webElementGuid>
+      <webElementGuid>aada9b09-a4b2-4698-abc8-87f18fc2b49e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/live/npo1')])[2]</value>
-      <webElementGuid>84f5acf0-afc7-461f-854b-5aec3edc637f</webElementGuid>
+      <webElementGuid>8dae5ad1-6c50-461f-8744-c8ea0771cd2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[3]/div/div/ul/li[3]/a</value>
-      <webElementGuid>70344df6-a269-4fed-892d-4fd3051b84b3</webElementGuid>
+      <webElementGuid>11af82ca-4933-4351-984b-2acc5c75f755</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/live/npo1']</value>
-      <webElementGuid>e8f3c7cf-9dea-49f2-a64e-9beded6984a2</webElementGuid>
+      <webElementGuid>c5f4c7fb-3dcd-41d0-b44e-acc738f55480</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a2c9a2de-3af2-4365-9b2f-1a5aa5dafc89</webElementGuid>
+      <webElementGuid>dd5bc984-3aba-4bbf-9084-d20f6773513d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Dxzbt</value>
-      <webElementGuid>fe689f7e-52d3-468c-b346-16de9a5e638a</webElementGuid>
+      <webElementGuid>11ce6d1a-733d-44dc-a5e2-6b7e03caad19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>d9fca654-e76b-42a7-93ec-20a254900221</webElementGuid>
+      <webElementGuid>fe070933-a7f5-4a8d-92f2-f5b2ad9de24c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>2c23a7c6-b7bc-48cb-ae8f-9771d02b8464</webElementGuid>
+      <webElementGuid>f31e33cd-47ab-407a-9993-486b5401d826</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.nlziet.nl/home/voorwaarden</value>
-      <webElementGuid>d0daf345-9be4-4a31-aeab-1d494d81a721</webElementGuid>
+      <webElementGuid>101674d5-d779-4ada-bb90-68504bbbb1a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Algemene voorwaarden</value>
-      <webElementGuid>3477f807-d4dc-4332-8aa4-042a370dfe83</webElementGuid>
+      <webElementGuid>43574352-9a71-440e-a7a5-4346ae6eea9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/footer[@class=&quot;GOdwA&quot;]/div[@class=&quot;fj-xB&quot;]/ul[@class=&quot;SC7OG&quot;]/li[@class=&quot;da4cg&quot;]/a[@class=&quot;Dxzbt&quot;]</value>
-      <webElementGuid>8b032e8a-75a1-48fd-a669-01ecfcbb9ee4</webElementGuid>
+      <webElementGuid>6e101a85-ea87-4090-97eb-44705392afd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3ccbbe18-7a27-4541-ba7d-4f5981b29cc7</webElementGuid>
+      <webElementGuid>4b1066d2-c7c1-4141-840c-4e8c01ae6972</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Dxzbt</value>
-      <webElementGuid>ccb91574-7260-4d97-9780-91bc34b71903</webElementGuid>
+      <webElementGuid>b40868b3-e181-4e41-a5c8-8fbbb28a1b11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>0ae434a9-e1f6-4941-867b-dbf6046b0dd5</webElementGuid>
+      <webElementGuid>23b37029-bf2f-4024-bb24-a92d4c3be2f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>1d97c9ef-0ef1-4d34-b74e-fafa7f22b756</webElementGuid>
+      <webElementGuid>b578e509-3762-49a5-b88d-0199984cdf0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.nlziet.nl/home/voorwaarden</value>
-      <webElementGuid>3c62e784-78e2-4a34-8e65-e5901810315c</webElementGuid>
+      <webElementGuid>2bfc5207-d342-4370-bf08-5423ca401c42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Algemene voorwaarden</value>
-      <webElementGuid>2b1103f7-e205-49cc-a5fb-ef1ae17b331c</webElementGuid>
+      <webElementGuid>2a0e1d4f-e8d3-4e06-919d-cfcf5aef878e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/footer[@class=&quot;GOdwA&quot;]/div[@class=&quot;fj-xB&quot;]/ul[@class=&quot;SC7OG&quot;]/li[@class=&quot;da4cg&quot;]/a[@class=&quot;Dxzbt&quot;]</value>
-      <webElementGuid>e70cb0d2-c697-436b-9729-6c314b416ca3</webElementGuid>
+      <webElementGuid>c43bc85b-c2ad-4658-8ed2-920d5b934fa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a248cebf-f7e0-40e0-bc3e-7860dfedb164</webElementGuid>
+      <webElementGuid>b6332ada-d043-4d50-aa62-b5cab59a5f9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Dxzbt</value>
-      <webElementGuid>bc13cfc2-e921-4223-8822-77cc9dc20bf1</webElementGuid>
+      <webElementGuid>958905d7-889b-45db-b12c-2c3b8526cb09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>991423d1-9298-46f2-8c26-37c86161f0d1</webElementGuid>
+      <webElementGuid>458ca6dc-7d94-4b6a-87a4-32cf2b527fea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>2343c7d4-16af-4e8e-8d53-456c05fc1b71</webElementGuid>
+      <webElementGuid>bae11224-bf79-4e77-b57b-e736bb071acc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -166,7 +166,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.nlziet.nl/home/voorwaarden</value>
-      <webElementGuid>8a2d6ca0-cadd-4d50-975a-842f3f1b627f</webElementGuid>
+      <webElementGuid>3f1e2085-8635-4352-a2fb-5a09a08274f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -174,7 +174,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Algemene voorwaarden</value>
-      <webElementGuid>6a5a6370-e3b7-4bbc-b2ed-6d686a68e56c</webElementGuid>
+      <webElementGuid>513d5f33-fd90-4645-a462-a1fe8b0fe69f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -182,7 +182,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/footer[@class=&quot;GOdwA&quot;]/div[@class=&quot;fj-xB&quot;]/ul[@class=&quot;SC7OG&quot;]/li[@class=&quot;da4cg&quot;]/a[@class=&quot;Dxzbt&quot;]</value>
-      <webElementGuid>fb1be330-0424-4027-851f-6e1600c55e2b</webElementGuid>
+      <webElementGuid>7aea3ac9-d918-467a-9bda-38a6908cd2a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -190,7 +190,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b3d1738b-0166-465f-8b85-c0ec79fb84d7</webElementGuid>
+      <webElementGuid>76681e56-2435-4583-889b-074f78c0140a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -198,7 +198,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Dxzbt</value>
-      <webElementGuid>0ef7adb9-fa60-4988-9d09-dee89104e442</webElementGuid>
+      <webElementGuid>6141d5c0-b7b9-43c6-9364-37a64329f104</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -206,7 +206,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>fb7e9e78-8069-4454-80d0-3979334b3f8c</webElementGuid>
+      <webElementGuid>6a98822a-4ac9-4a85-b7f7-fb4d12bbf6ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -214,7 +214,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>a8918c9d-4413-42f4-9b64-1984e0aed17c</webElementGuid>
+      <webElementGuid>d6e3a45f-09eb-4abb-b3a6-9a1e2720300e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -222,7 +222,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.nlziet.nl/home/voorwaarden</value>
-      <webElementGuid>65a06ac6-8a3b-4609-8311-6af97895f752</webElementGuid>
+      <webElementGuid>474667db-4ceb-41e0-b4ae-6be1bef1a273</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -230,7 +230,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Algemene voorwaarden</value>
-      <webElementGuid>30ebc020-9d3f-489a-9adc-b7b707315478</webElementGuid>
+      <webElementGuid>daae6528-11f2-4ced-95e6-45e07e4f2442</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -238,7 +238,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/footer[@class=&quot;GOdwA&quot;]/div[@class=&quot;fj-xB&quot;]/ul[@class=&quot;SC7OG&quot;]/li[@class=&quot;da4cg&quot;]/a[@class=&quot;Dxzbt&quot;]</value>
-      <webElementGuid>f5fe1ca4-b23b-4993-88cb-21e82cfda0fb</webElementGuid>
+      <webElementGuid>fd74858f-60d3-49f6-af7b-23f13e1316a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -246,7 +246,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>11822720-1d4d-454f-82f0-75014403d9b7</webElementGuid>
+      <webElementGuid>54087639-c05f-43e5-9316-06a372ff9e9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -254,7 +254,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Dxzbt</value>
-      <webElementGuid>7889d2c9-9acb-450a-956e-65475ff345f8</webElementGuid>
+      <webElementGuid>285daab9-be5a-4c8b-bf6e-9a22209f0874</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -262,7 +262,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>8007257b-324b-42bc-83cf-3da0bd529261</webElementGuid>
+      <webElementGuid>fae28e29-b6fe-49f5-92f7-903e8957ccbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -270,7 +270,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>aa16e27b-5064-4ed3-8b60-8c2c6ae77c65</webElementGuid>
+      <webElementGuid>61ae5172-f313-4fe9-a418-c8a6857370cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -278,7 +278,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.nlziet.nl/home/voorwaarden</value>
-      <webElementGuid>4f72edc3-ae6b-4f40-906d-7de53d67f291</webElementGuid>
+      <webElementGuid>c13960bf-8a6a-4e68-bf10-e6f34fc94e18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -286,7 +286,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Algemene voorwaarden</value>
-      <webElementGuid>90fe5ba3-40a0-448a-9b67-5b64193d3204</webElementGuid>
+      <webElementGuid>6818d9a6-478a-4139-91ca-798fe3004ed9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -294,7 +294,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/footer[@class=&quot;GOdwA&quot;]/div[@class=&quot;fj-xB&quot;]/ul[@class=&quot;SC7OG&quot;]/li[@class=&quot;da4cg&quot;]/a[@class=&quot;Dxzbt&quot;]</value>
-      <webElementGuid>f99e98b3-9003-4dbc-bd6f-e8bac3347824</webElementGuid>
+      <webElementGuid>6a77c868-4e8b-442f-aefa-71ddb21de538</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -302,7 +302,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4aac4469-1c8b-4f05-a186-3f068b644f0b</webElementGuid>
+      <webElementGuid>0bd7ffb4-aa40-47db-9cde-e60e473e27df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -310,7 +310,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Dxzbt</value>
-      <webElementGuid>8f9a25a7-20f1-4cd6-8c99-f65b158e0489</webElementGuid>
+      <webElementGuid>d7298cbc-0c62-4537-8bc8-70f153942fe2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -318,7 +318,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>a1b2fa19-6840-4717-83dc-0a27d33d8301</webElementGuid>
+      <webElementGuid>f020aa8f-8c42-467f-b7fc-b752926b1f4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -326,7 +326,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>fb39e2b2-83fc-40df-a434-87e5acdcb7dd</webElementGuid>
+      <webElementGuid>fb03f0ae-9880-4d9c-8ec5-527b645573ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -334,7 +334,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.nlziet.nl/home/voorwaarden</value>
-      <webElementGuid>1225b4de-0f0a-4edd-ae7a-048ef3a3b29b</webElementGuid>
+      <webElementGuid>206b7be0-4fe8-45a7-b5bb-e1ba09e37e54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -342,7 +342,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Algemene voorwaarden</value>
-      <webElementGuid>94972989-be4c-46c2-be73-dd5d2e3e8fe2</webElementGuid>
+      <webElementGuid>0f8eaafd-d1a0-477b-8204-fea964f60876</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -350,7 +350,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/footer[@class=&quot;GOdwA&quot;]/div[@class=&quot;fj-xB&quot;]/ul[@class=&quot;SC7OG&quot;]/li[@class=&quot;da4cg&quot;]/a[@class=&quot;Dxzbt&quot;]</value>
-      <webElementGuid>d2511286-990a-46b9-9075-031ac765db11</webElementGuid>
+      <webElementGuid>1075d0c8-3d71-48ed-876b-617ef9865e85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -358,7 +358,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>29ba83e6-f93f-422e-af66-6110b8e28d50</webElementGuid>
+      <webElementGuid>8c5de8ab-ddf4-4e06-9786-de2dce5e7b96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -366,7 +366,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Dxzbt</value>
-      <webElementGuid>689348e1-9498-4179-8f3c-cb6a4d34cd72</webElementGuid>
+      <webElementGuid>c91b6cbf-2cda-4a6c-aed0-584e60297dd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -374,7 +374,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>c6544008-55a9-469a-b0c9-6fbce0e27180</webElementGuid>
+      <webElementGuid>846634a0-e8b1-4a6a-80b5-5f421b521767</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -382,7 +382,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>1c30ab37-cf29-4858-86b5-b8d8af2bf1cb</webElementGuid>
+      <webElementGuid>e179796e-efe3-417d-8fdd-3d3f0d47a510</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -390,7 +390,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.nlziet.nl/home/voorwaarden</value>
-      <webElementGuid>4ac17ee7-fdf0-4d70-b6dd-2104660b006b</webElementGuid>
+      <webElementGuid>67e10abf-10c8-4fb3-859b-7e5f8a7f2960</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -398,7 +398,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Algemene voorwaarden</value>
-      <webElementGuid>e243daf6-9864-4237-88a0-769f5ada00f5</webElementGuid>
+      <webElementGuid>ccce255b-7cc8-4667-95a8-ceabfe6df894</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -406,7 +406,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/footer[@class=&quot;GOdwA&quot;]/div[@class=&quot;fj-xB&quot;]/ul[@class=&quot;SC7OG&quot;]/li[@class=&quot;da4cg&quot;]/a[@class=&quot;Dxzbt&quot;]</value>
-      <webElementGuid>8d4229fe-1dcc-4572-aa3f-8931334fe9cf</webElementGuid>
+      <webElementGuid>852e7a7c-0c2e-4c2e-b25f-4c1904352eee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -414,7 +414,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>04dc6add-7c17-421d-a997-3e72aeb74179</webElementGuid>
+      <webElementGuid>988b999d-a6e8-4baf-8ba7-9492581903b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -422,7 +422,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Dxzbt</value>
-      <webElementGuid>519d0d5a-296f-4477-af02-c05c0f7d0920</webElementGuid>
+      <webElementGuid>93127549-4f6b-496b-8a5e-3ca0754c4435</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -430,7 +430,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>dbb2b9f5-98e9-4676-a5e2-5e3456d7964f</webElementGuid>
+      <webElementGuid>a0dc4c90-6bdd-4271-a841-fcf98802de98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -438,7 +438,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>d82e91cc-ca3d-473e-8472-9bb0404f61f3</webElementGuid>
+      <webElementGuid>d8bf9699-afe5-4d18-bd73-511ae0a02276</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -446,7 +446,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.nlziet.nl/home/voorwaarden</value>
-      <webElementGuid>72855614-9b5a-4744-a29d-fb39f835dea5</webElementGuid>
+      <webElementGuid>1b4cc6aa-e3ba-4423-8774-1a357de2653f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -454,7 +454,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Algemene voorwaarden</value>
-      <webElementGuid>1491b268-ad1b-48a4-87cb-07aafd4d7bcf</webElementGuid>
+      <webElementGuid>2d16998f-e8ad-426d-8c51-6f33a7303cbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -462,7 +462,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/footer[@class=&quot;GOdwA&quot;]/div[@class=&quot;fj-xB&quot;]/ul[@class=&quot;SC7OG&quot;]/li[@class=&quot;da4cg&quot;]/a[@class=&quot;Dxzbt&quot;]</value>
-      <webElementGuid>29d7ca75-ede9-4c6e-99fa-f0d85403f393</webElementGuid>
+      <webElementGuid>842c7d24-bfad-4174-9c36-45bfbab880a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -470,7 +470,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>385bf386-7584-451f-ae46-32b16f6404c8</webElementGuid>
+      <webElementGuid>972b37d7-412b-447c-966f-ed26542cf5cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -478,7 +478,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Dxzbt</value>
-      <webElementGuid>d467ba45-13ad-4f87-9ca6-41715ef9cd00</webElementGuid>
+      <webElementGuid>96e37606-8eb7-4e50-8754-ef5a0ca5abbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -486,7 +486,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>a4de7ee4-ae4e-46b0-bdb5-c3bbcfe8ce29</webElementGuid>
+      <webElementGuid>8312b981-54c9-46c9-8eda-75878a0eac24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -494,7 +494,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>4ebe03be-29c9-48e6-a6f4-cf0db69a4bbc</webElementGuid>
+      <webElementGuid>263ca881-db00-47bb-b5a4-1e1168cb2cda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -502,7 +502,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.nlziet.nl/home/voorwaarden</value>
-      <webElementGuid>ff5ce809-3086-4230-b1c3-e13a803859f7</webElementGuid>
+      <webElementGuid>6ab03c44-4d62-4581-af43-2fd37fd2e216</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -510,7 +510,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Algemene voorwaarden</value>
-      <webElementGuid>e8bee9a1-0c3e-491f-b75e-7330f3b60b03</webElementGuid>
+      <webElementGuid>e473bc88-615a-4add-9777-af982e627242</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -518,7 +518,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/footer[@class=&quot;GOdwA&quot;]/div[@class=&quot;fj-xB&quot;]/ul[@class=&quot;SC7OG&quot;]/li[@class=&quot;da4cg&quot;]/a[@class=&quot;Dxzbt&quot;]</value>
-      <webElementGuid>46fdb322-b3f3-439d-b94d-21cdc82060d2</webElementGuid>
+      <webElementGuid>12b8c48e-33f1-4c74-b1ac-3072e8aa3304</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -526,7 +526,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e8274bfc-237a-407b-93d3-151f063ce273</webElementGuid>
+      <webElementGuid>83a6b209-f049-47a0-9c23-2a518574605e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -534,7 +534,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Dxzbt</value>
-      <webElementGuid>3a6d6ba9-3e8b-45f2-a36b-b5580a893052</webElementGuid>
+      <webElementGuid>6457e527-18b8-4b07-ac4e-3c2ae51b5ba1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -542,7 +542,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>0883d947-454b-4cf1-af98-d53da9bfc8e7</webElementGuid>
+      <webElementGuid>79ba409f-35d6-4ae6-b001-2d6fc1c3b317</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -550,7 +550,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>a54292b1-898a-4139-8cbc-2738698c8892</webElementGuid>
+      <webElementGuid>f6f58209-f30e-4511-ad1c-083d091e33c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -558,7 +558,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.nlziet.nl/home/voorwaarden</value>
-      <webElementGuid>d9ae10ff-728d-4f7a-bb78-752dd7b38275</webElementGuid>
+      <webElementGuid>d6217799-0f6b-4e36-bb31-345c88295ede</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -566,7 +566,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Algemene voorwaarden</value>
-      <webElementGuid>61ead133-4c38-4fb7-b1c7-7317f2eb65c1</webElementGuid>
+      <webElementGuid>24161fd7-8db7-41d7-9a21-ef3d56b3975c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -574,7 +574,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/footer[@class=&quot;GOdwA&quot;]/div[@class=&quot;fj-xB&quot;]/ul[@class=&quot;SC7OG&quot;]/li[@class=&quot;da4cg&quot;]/a[@class=&quot;Dxzbt&quot;]</value>
-      <webElementGuid>f5d84aa5-5f58-4a62-8a00-5f6790870317</webElementGuid>
+      <webElementGuid>6a18945e-8ad9-410a-a01c-c136dba9431a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -582,7 +582,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c876a385-b3a1-4179-9783-65dbeccb6cd1</webElementGuid>
+      <webElementGuid>e010d71a-a63d-4144-b1b0-de782b8da876</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -590,7 +590,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Dxzbt</value>
-      <webElementGuid>506d850e-5287-426d-b4da-fcfcfb5721ac</webElementGuid>
+      <webElementGuid>2f61e6c8-a4ab-45ba-bd6e-0f7dba57ff30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -598,7 +598,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>c8244a32-1bee-4acb-a132-360ee2cdac81</webElementGuid>
+      <webElementGuid>e4d83258-0f08-4abe-8130-41322a94b4ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -606,7 +606,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>fde64c80-37a3-462d-927c-a8ce27966f6c</webElementGuid>
+      <webElementGuid>eb8f5d80-a96b-48cb-8a32-180263d849bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -614,7 +614,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.nlziet.nl/home/voorwaarden</value>
-      <webElementGuid>0d74d2ba-c3d3-4af7-b05c-c4176f131951</webElementGuid>
+      <webElementGuid>15782644-5fab-4e2f-8b51-407b5f23a944</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -622,7 +622,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Algemene voorwaarden</value>
-      <webElementGuid>b78aa0df-fa4d-4a7c-87d0-614bd6d248bc</webElementGuid>
+      <webElementGuid>90670b82-3989-48a2-8e4a-047c469d099b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -630,7 +630,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/footer[@class=&quot;GOdwA&quot;]/div[@class=&quot;fj-xB&quot;]/ul[@class=&quot;SC7OG&quot;]/li[@class=&quot;da4cg&quot;]/a[@class=&quot;Dxzbt&quot;]</value>
-      <webElementGuid>a070e5d1-1871-4ae6-accb-312c80939a18</webElementGuid>
+      <webElementGuid>44a0522e-37e4-4201-bd10-c828ed3cac4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -638,7 +638,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0ed1bfe0-b882-45f5-be69-58e0a028af43</webElementGuid>
+      <webElementGuid>e1c0e57e-a1b7-4687-8b16-3bb6c9231dd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -646,7 +646,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Dxzbt</value>
-      <webElementGuid>899e1379-2a66-4f22-b010-7f705cb9b1c9</webElementGuid>
+      <webElementGuid>3564ac40-4417-40e8-bc25-9c4ebefcd7d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -654,7 +654,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>6b558fa6-ea2d-4d10-9106-bd669ac2a5ba</webElementGuid>
+      <webElementGuid>1a7231a1-46cf-4733-8050-aad4a2fba0be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -662,7 +662,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>56f9895f-5fdc-44e5-bb21-107469d5b1d0</webElementGuid>
+      <webElementGuid>222b8963-5986-4e6b-a857-6c9e99821f8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -670,7 +670,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.nlziet.nl/home/voorwaarden</value>
-      <webElementGuid>a959a615-d74d-4202-bb60-09330a61e015</webElementGuid>
+      <webElementGuid>9dccd0a2-1d6b-4e1b-8c0b-b998be1b28f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -678,7 +678,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Algemene voorwaarden</value>
-      <webElementGuid>2bf64752-f4eb-4099-9a02-57b0821ad3de</webElementGuid>
+      <webElementGuid>68a27eca-373a-4fe4-a8cf-835efe111e33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -686,7 +686,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/footer[@class=&quot;GOdwA&quot;]/div[@class=&quot;fj-xB&quot;]/ul[@class=&quot;SC7OG&quot;]/li[@class=&quot;da4cg&quot;]/a[@class=&quot;Dxzbt&quot;]</value>
-      <webElementGuid>b5ca8b2a-02db-40fc-b679-62908271a276</webElementGuid>
+      <webElementGuid>69bfcdee-5842-4e9c-8308-13e1a72cacab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -694,7 +694,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/footer/div/ul/li/a</value>
-      <webElementGuid>89056106-183d-4e0c-acd4-508b2ebf7609</webElementGuid>
+      <webElementGuid>c92aebeb-0cf4-4cbd-a3b7-45bc32e032b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -702,7 +702,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Algemene voorwaarden')]</value>
-      <webElementGuid>ca7081f8-34ed-4d36-ad3d-8b916d232617</webElementGuid>
+      <webElementGuid>d6091cb9-428d-4b7c-8d1b-c03b00cae3da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -710,7 +710,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toon alles'])[14]/following::a[2]</value>
-      <webElementGuid>fae40e04-67f4-43b0-9956-70fe3058d7fe</webElementGuid>
+      <webElementGuid>7d7a3948-a7ec-453f-b40b-774f5d1fc4d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -718,7 +718,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='HLF8'])[2]/following::a[3]</value>
-      <webElementGuid>a97d2104-3b8c-4345-8f82-8e7b071d7668</webElementGuid>
+      <webElementGuid>65440cbb-2881-4f66-ab70-df267b1cad82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -726,7 +726,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy &amp; cookies'])[1]/preceding::a[1]</value>
-      <webElementGuid>0d6acef0-1153-442c-b52e-a7c259098151</webElementGuid>
+      <webElementGuid>ae4dd349-7b1e-4113-8e0e-6f81ec76943a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -734,7 +734,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hulp'])[1]/preceding::a[2]</value>
-      <webElementGuid>d24be48e-7a5d-40d4-a121-fde2198f7980</webElementGuid>
+      <webElementGuid>8377421b-3795-4419-a474-d04b272ed0fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -742,7 +742,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Algemene voorwaarden']/parent::*</value>
-      <webElementGuid>bde58d6d-242c-44f7-a196-294a1a5baf21</webElementGuid>
+      <webElementGuid>fa54d471-a309-4b0d-9793-fe5cd203f7cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -750,7 +750,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://www.nlziet.nl/home/voorwaarden')]</value>
-      <webElementGuid>dea01a6d-f1bc-4d06-a4be-adbac9975219</webElementGuid>
+      <webElementGuid>02c52f17-6f40-4aa3-8868-1ed7f7275f63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -758,7 +758,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//footer/div/ul/li/a</value>
-      <webElementGuid>7ed4e2fb-9128-4db3-b453-2422b073c172</webElementGuid>
+      <webElementGuid>214fe83d-6696-4c4a-8f64-b1f3a4e74a3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -766,7 +766,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://www.nlziet.nl/home/voorwaarden' and (text() = 'Algemene voorwaarden' or . = 'Algemene voorwaarden')]</value>
-      <webElementGuid>ffe90588-8fcb-4cd9-ab2e-8549b8b0f9a8</webElementGuid>
+      <webElementGuid>fc542d39-24d3-40ac-8dba-3af12f068f33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -774,6 +774,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mr. Frank Visser: hoe is het nu met?'])[2]/following::a[3]</value>
-      <webElementGuid>3e2761f2-ef96-41ce-999f-1fb95ccd8892</webElementGuid>
+      <webElementGuid>9d82a513-6cbd-4b82-8be9-3656e8d267de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

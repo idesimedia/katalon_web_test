@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5cbe75dc-898f-4a70-ba45-5667843a832e</webElementGuid>
+      <webElementGuid>ea797836-e85d-4cd3-9048-ba256878f3fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>f37410b8-65c4-403b-8453-d66f0822f137</webElementGuid>
+      <webElementGuid>717c08d2-b2c7-4ec9-b903-f38d3f6129b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>79e40c2a-de5f-4178-887f-864305455482</webElementGuid>
+      <webElementGuid>b14fd0b0-9800-48aa-8a7f-631f18a5993b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>cf33a949-b82c-4509-8483-90fa31cd12b2</webElementGuid>
+      <webElementGuid>35163c3e-c666-4e1a-8046-db0497e78918</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>f0ad2e42-d757-49f8-8a22-31e7c895d3cd</webElementGuid>
+      <webElementGuid>15452140-4c48-4cf0-b781-5310c48f39cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ed2a87d6-4292-43c0-99b9-59c547c61307</webElementGuid>
+      <webElementGuid>0cff3bf2-60f0-4c1d-8d9c-a02a04734cd0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>039548a4-a328-4093-963a-242569f207ec</webElementGuid>
+      <webElementGuid>a2e05a4d-81a1-4f93-83e7-bb72626c1713</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>e5e8421d-4980-4ef4-a209-61467f863a7e</webElementGuid>
+      <webElementGuid>2cab885c-898d-4c2a-904d-67c0c61a40d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>95da2759-48dd-410a-adfd-eff84333b7e8</webElementGuid>
+      <webElementGuid>35460d39-293b-4531-8a65-a99867374bf8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>3fa8a040-d4d0-4dca-88a3-f90d49c88fa9</webElementGuid>
+      <webElementGuid>ef918bba-5bc9-482b-b053-c1784177c064</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5e7553d4-a038-40fb-a84b-a76efc1aa6ee</webElementGuid>
+      <webElementGuid>aab0f78d-519c-4903-a849-57f3c4fcc99b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>1f9cf395-8454-429f-9ff4-f16a5d16a768</webElementGuid>
+      <webElementGuid>5d6d267b-79d9-4080-b377-a5fa4110933f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>6e1cc4e1-dde3-4be8-80ec-55bc635567e7</webElementGuid>
+      <webElementGuid>cbab891c-62f8-46e2-912b-7ee2d3e407c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,7 +125,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>b16fe5a1-60f3-4504-9a98-51a921c828a8</webElementGuid>
+      <webElementGuid>bc3b29d4-2e67-4807-91b4-47850ea891b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -134,7 +133,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>409ec425-2c8a-4534-bc51-da6c43073760</webElementGuid>
+      <webElementGuid>b86ef4e0-78b6-4f52-855c-c5db4c650471</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -142,7 +141,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>73b75af1-ca0b-4bab-9428-182f2a8b8bad</webElementGuid>
+      <webElementGuid>b04090a5-35e6-4a9d-9325-79984f137e18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -150,7 +149,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>4b515757-0d88-4711-b58f-d96361d82796</webElementGuid>
+      <webElementGuid>8285fc65-c3fe-476e-aec2-e3cb285fdab8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -158,7 +157,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>8e7e50de-e50f-4274-83a3-2dafef9744f4</webElementGuid>
+      <webElementGuid>89025590-03cd-45fa-b6bc-b734bbbafbe4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -166,7 +165,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>c15bcd69-62f5-41ea-b076-1d445f688909</webElementGuid>
+      <webElementGuid>4a84fd8f-be0a-4147-a295-e140687120e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -174,7 +173,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>fb7c3cef-baa3-4268-8049-b5350fcf5754</webElementGuid>
+      <webElementGuid>cef33770-c46a-4dc5-ae49-e3bba5211e5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -182,7 +181,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>27f36c32-f57a-4ac5-a7b7-872ecf53f143</webElementGuid>
+      <webElementGuid>f5cd7564-9637-4ccb-9e8e-34cc8ab69edb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -190,7 +189,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>91b82423-b80b-4ed9-8b0e-c9e3de1ef0ff</webElementGuid>
+      <webElementGuid>8bb6dde4-6e68-4dd0-b3e5-350dfd30e439</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -198,7 +197,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>f5f5486e-b73d-4aca-aea5-1f3f1f49069a</webElementGuid>
+      <webElementGuid>98f63a1e-47ba-4fb3-8b85-be5d56969ccb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -206,7 +205,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>802ecba9-4abc-4876-b0dd-72e81f842c2e</webElementGuid>
+      <webElementGuid>aa51c318-87d4-49e3-968a-14692b93094a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -214,7 +213,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>e60fbe28-6a9b-4a67-88d0-5bfc000e5943</webElementGuid>
+      <webElementGuid>2f6d62a7-e218-48f5-bd08-a0762d182b9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -222,7 +221,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>bfb5562f-32ea-4cf4-bcdb-de4656afbdce</webElementGuid>
+      <webElementGuid>23eb2111-5a48-4018-92a8-712071377e9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -230,7 +229,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>13ad5c7c-3912-4089-a861-d4535b28c30a</webElementGuid>
+      <webElementGuid>5ba5aac6-2017-4fe9-b15e-e1515b6b26c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -238,7 +237,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>d0ec8b64-155f-4f95-8d59-592c9dd35b9d</webElementGuid>
+      <webElementGuid>d48196ba-3e57-4729-86c6-5442d13ddc6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -246,7 +245,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>220826cd-d1cb-4043-84d1-bc7a5f3c38fc</webElementGuid>
+      <webElementGuid>2529174d-dbf3-406c-93e3-8cec79e67320</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -254,7 +253,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>ad850939-ce97-444f-a534-2e6cfa2a4f59</webElementGuid>
+      <webElementGuid>c0b02b89-7ecb-4680-ae23-5725655c14ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -262,7 +261,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7334fc35-7fc1-48d0-82f4-c259c2e39fc6</webElementGuid>
+      <webElementGuid>c2f6a6b3-7831-4713-94f4-0fb36ea1afef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -270,7 +269,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>2f01d956-0a10-4649-af50-45f02a40bc20</webElementGuid>
+      <webElementGuid>c7ec162b-df0a-496a-a502-293f1a32c89f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -278,7 +277,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>e8a88011-2df5-4962-b0fa-136da313d086</webElementGuid>
+      <webElementGuid>dedf8f2a-f19f-4171-a2ac-f5d54a29b051</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -286,7 +285,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>e9275175-3d3c-43c9-975d-9a19ccfbed93</webElementGuid>
+      <webElementGuid>878ed2e3-8b14-4083-b443-2783dd7c3242</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -294,7 +293,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>a342bb9f-5791-4b74-8427-f32f64909a41</webElementGuid>
+      <webElementGuid>33007fb7-043d-48d1-a63f-62c897161d01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -302,7 +301,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e46db2e3-f733-4334-b06b-586d52180eb5</webElementGuid>
+      <webElementGuid>a4eaf95b-0470-4a1c-b64c-dbe40004c04d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -310,7 +309,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>d50e289f-48bd-4cf7-8489-a5b01a1f66a1</webElementGuid>
+      <webElementGuid>70a42faa-c2e3-4dfb-95de-385530ffc750</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -318,7 +317,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>b0ffad98-2a29-45e7-82c2-c1059bf5b341</webElementGuid>
+      <webElementGuid>5046d014-2e49-46e7-89da-138f4e05bea8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -326,7 +325,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>0d68f17a-ca83-49d0-8fe4-a04bf3317a6b</webElementGuid>
+      <webElementGuid>1c237161-d40e-4ed9-9c48-d78b107c6bfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -334,7 +333,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>76b1b47f-b914-438a-ac7c-680a1b7fbc0c</webElementGuid>
+      <webElementGuid>9c2e0bb3-9c96-4f0e-b916-d235b601cc10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -342,7 +341,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a0f113ca-a526-41c2-9b25-c28407d43f32</webElementGuid>
+      <webElementGuid>e596b917-6f79-49c4-8fc2-f8e837e42f5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -350,7 +349,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>f5b64d7f-7249-4871-9fe1-7bbd9cfa513c</webElementGuid>
+      <webElementGuid>724fa46f-9c84-4426-8c4d-049c8b65735a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -358,7 +357,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>cb95b29a-e85c-4b70-a6c4-e394fa607837</webElementGuid>
+      <webElementGuid>79831151-3eed-43b8-be76-7b4b61b82de0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -366,7 +365,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>bba6cfcb-2faa-4f7b-a1c4-405df38cd0e7</webElementGuid>
+      <webElementGuid>b58174ec-5b9f-4882-b99f-5f3914d9d731</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -374,7 +373,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>6d228e0b-7314-4fe6-a3fa-e1a99c685986</webElementGuid>
+      <webElementGuid>1de9d8e4-38b8-4cd7-8ed4-e6b3e6af1500</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -382,7 +381,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b6b41bf4-6c1b-4822-aab6-ede1c6d39bb5</webElementGuid>
+      <webElementGuid>1ca300c8-3e97-4241-95ae-9ea193a00015</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -390,7 +389,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>43e75c0c-7731-4c07-8848-ea83d7c8f047</webElementGuid>
+      <webElementGuid>bda79b5f-9c93-45f0-99c1-f59a0caf0fb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -398,7 +397,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>2ade4e24-3b84-44df-bb02-7394ec44f30f</webElementGuid>
+      <webElementGuid>3128ac2d-7d6f-4e9c-b2ea-879480995947</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -406,7 +405,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>4b92e1e5-2019-4cba-a2da-a75754ee5dc3</webElementGuid>
+      <webElementGuid>8625b48e-09c8-4ef0-916a-ff35cb1f14c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -414,7 +413,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>658dd50e-0433-4e76-86b4-fd8d89cdb518</webElementGuid>
+      <webElementGuid>70e6dab2-b3ce-4e10-b52e-727988928499</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -422,7 +421,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e6f2bcf1-b843-42c6-bd5c-b59b48c96c23</webElementGuid>
+      <webElementGuid>1c78c000-b248-42f5-b9aa-f0701b1848a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -430,7 +429,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>3b97d93e-4527-41ca-b746-76b7534fcf17</webElementGuid>
+      <webElementGuid>359fd320-e532-4059-9278-d909a978618a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -438,7 +437,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>0fb05a64-a6df-46c5-aaef-0327d2befb3f</webElementGuid>
+      <webElementGuid>ac697a03-90ac-48bb-a3fb-16d3f8fe3167</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -446,7 +445,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>674dfdba-787d-4322-a236-f0bbd66815b1</webElementGuid>
+      <webElementGuid>c8eb86ca-f2d6-463a-9aa7-110616422710</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -454,7 +453,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>c0ea9373-8d5b-477d-8a9c-cbbd692888e8</webElementGuid>
+      <webElementGuid>5be3c187-b000-4e0e-9bdf-304b9b6e9b35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -462,7 +461,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f70fd0de-2a47-43f7-b35e-d88cf78f1c7e</webElementGuid>
+      <webElementGuid>01360b5d-307f-42fa-94d8-41e3ee8f815f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -470,7 +469,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>3b5c4244-8162-479c-8c0a-11ca5169b055</webElementGuid>
+      <webElementGuid>ae1551a3-09d7-40d6-a04d-7f836e708434</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -478,7 +477,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>8721f661-4c08-4844-b191-b1e16df5a0e6</webElementGuid>
+      <webElementGuid>b7e7b69f-ceaa-4550-85bf-3acd3eb71e74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -486,7 +485,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>672e758b-c18f-4c48-9924-ab96ea181e60</webElementGuid>
+      <webElementGuid>e536d145-1bbf-4412-a82c-72c3d0859a09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -494,7 +493,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>50af36d7-e2b2-4a22-8b43-5430a1a69f4c</webElementGuid>
+      <webElementGuid>d7df6f68-6a0f-4ae3-9232-8714bf0bee0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -502,7 +501,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f55ab403-2d6b-4b59-80e6-fea2d8c7f9bc</webElementGuid>
+      <webElementGuid>8ce3b2a0-1143-424c-b167-e3781ecb7578</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -510,7 +509,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>90a1ec44-95ac-44ca-b94a-f7cfef868716</webElementGuid>
+      <webElementGuid>4d287637-f210-4dee-b677-387cc8608bf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -518,7 +517,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>f4250ec8-7763-4287-bd13-26269442587f</webElementGuid>
+      <webElementGuid>4f7c9f88-1c8e-44e8-bef1-c6f6b52ab00e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -526,7 +525,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>28b426ed-23ba-4276-a4af-aa9c0203b177</webElementGuid>
+      <webElementGuid>1631c159-0ea2-439d-9d8e-0b45869ad09f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -534,7 +533,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>d396dac8-a070-43d5-a97d-c1ca601b074b</webElementGuid>
+      <webElementGuid>95b0ae10-bc1c-4fe2-baac-cadde6ad9a3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -542,7 +541,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d386e422-d012-4df1-a726-e3b82f27486b</webElementGuid>
+      <webElementGuid>47cf32a2-4574-4cb7-8805-f504b3d9a413</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -550,7 +549,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>18863322-c198-45c1-87f3-b6f64cf4cb86</webElementGuid>
+      <webElementGuid>3e59cf67-ad80-4ff8-866f-907927c40988</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -558,7 +557,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>8ef6de01-0626-436a-9dcb-5f359e53cc11</webElementGuid>
+      <webElementGuid>562fc0b5-aaaf-4949-b726-8e7de9304ec2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -566,7 +565,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>ebd86b71-6d2b-49fb-b1bd-63f13a7c6ce2</webElementGuid>
+      <webElementGuid>4a1b071e-a6c1-4f7b-b6a2-340cf79a5b53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -574,7 +573,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>c4e31982-3378-4e8c-beeb-da67620669f6</webElementGuid>
+      <webElementGuid>bf7f3ee1-efc0-463a-9d95-156b8bd37a42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -582,7 +581,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>946a8df5-6dbe-419f-ad8b-16f6865c558a</webElementGuid>
+      <webElementGuid>c1ca7752-abec-4d51-9992-96217dac7763</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -590,7 +589,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>df487958-1ae3-46e3-8a03-57f60a328a49</webElementGuid>
+      <webElementGuid>9e9f4141-4b31-4933-977e-e2f090aa6f94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -598,7 +597,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>dc20d7de-02ff-4511-a7fb-9be25f0587d7</webElementGuid>
+      <webElementGuid>da2d8acd-03c0-4ee8-8f86-9ed6a08a6618</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -606,7 +605,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>729c4601-2986-4abf-a418-49d9571553d1</webElementGuid>
+      <webElementGuid>e7f19ccf-e295-40b3-9a1d-f3bf6f465b87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -614,7 +613,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>d79c93f0-43a1-48e0-b26b-9fbd4fe86196</webElementGuid>
+      <webElementGuid>0ae39b70-2caf-4068-96c5-f50a36501fc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -622,7 +621,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9503284e-c2a2-4e6b-98c9-4a6986e73072</webElementGuid>
+      <webElementGuid>640af665-cbc6-413d-8fcd-64cc191e0666</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -630,7 +629,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>accessibility_provider_item_talpa</value>
-      <webElementGuid>119f5812-aee1-42b8-9b42-12eccf06bca9</webElementGuid>
+      <webElementGuid>6ea46c2c-99b5-4e85-b2e6-9b28d46c1e88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -638,7 +637,7 @@
       <name>class</name>
       <type>Main</type>
       <value>P9fEf</value>
-      <webElementGuid>b8f52fc2-8cb9-4ae2-b451-b14f820320e2</webElementGuid>
+      <webElementGuid>0c53a082-8e6d-4118-b079-7d1c0a9dce11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -646,7 +645,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/aanbieder/talpa</value>
-      <webElementGuid>f1795a1f-c1a7-4f95-b63a-e26623bf068e</webElementGuid>
+      <webElementGuid>a9a334d3-f66c-44ea-8be3-2f17ad0b6449</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -654,7 +653,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]</value>
-      <webElementGuid>93a9e820-d380-4417-bd3a-5e961c385586</webElementGuid>
+      <webElementGuid>07261e63-2fec-4cfb-9d2a-27a870a8ce8b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -662,7 +661,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/section[2]/ul/li[3]/a</value>
-      <webElementGuid>b77ebc89-8673-4b67-890a-7408a6836402</webElementGuid>
+      <webElementGuid>cdb6ce83-a86d-42d3-abd3-53886603975f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -670,7 +669,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='De Deurwaarders'])[1]/following::a[3]</value>
-      <webElementGuid>ca074ec5-8aa2-48f7-a735-cb9bdb671191</webElementGuid>
+      <webElementGuid>490213c9-1365-4ecb-8b3f-8ae8d4afa086</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -678,7 +677,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AlpenHaus!'])[1]/following::a[4]</value>
-      <webElementGuid>cacb6fb9-1675-4283-926e-eb3fd2a0b001</webElementGuid>
+      <webElementGuid>05d18c3c-8dfb-4cf3-8e64-446ee6d90516</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -686,7 +685,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nu op tv'])[1]/preceding::a[2]</value>
-      <webElementGuid>4d58db86-7cf0-43f4-ae15-377f9580a7af</webElementGuid>
+      <webElementGuid>a844a676-29b8-4b18-9ed5-c7a9f197087e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -694,7 +693,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Meest bekeken'])[1]/preceding::a[3]</value>
-      <webElementGuid>6210bd79-85c3-4522-a6fe-a1f73f4ba8d6</webElementGuid>
+      <webElementGuid>22e17139-590c-48c4-a346-fda95c456ab7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -702,7 +701,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/aanbieder/talpa')]</value>
-      <webElementGuid>e4035189-5c93-425f-8071-fd9f2731265d</webElementGuid>
+      <webElementGuid>11414150-45cd-43e7-bed1-5de8eb08a278</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -710,7 +709,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[2]/ul/li[3]/a</value>
-      <webElementGuid>4b44fd3f-5209-46f5-b9f0-edcf840ce93e</webElementGuid>
+      <webElementGuid>135a4526-ad27-4bcd-8a3f-54a340b3096f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -718,6 +717,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/aanbieder/talpa']</value>
-      <webElementGuid>a8bb8d0a-151f-48a7-9c9a-8333b45ccd8b</webElementGuid>
+      <webElementGuid>36386387-b304-4bf6-85c2-32b2382db32c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1275fb5a-8ab6-40e5-8aba-dd7277aea193</webElementGuid>
+      <webElementGuid>b0602ddb-ed8a-4b05-ac13-1322038ba12c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Nu live op NPO 1: Tekst-TV. Daarna NOS Journaal om 13:00.</value>
-      <webElementGuid>cae961db-a35a-4d2a-99a9-d2c853e42300</webElementGuid>
+      <webElementGuid>1b62f9f7-0c2a-4d77-9381-60f3817024d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Xn0kv</value>
-      <webElementGuid>f6365037-d1cd-409a-b187-405043cf299d</webElementGuid>
+      <webElementGuid>e780fcad-450b-40ab-9a47-21ceed075514</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/live/npo1</value>
-      <webElementGuid>b0ab1855-ad35-49bc-b315-f220a404e8cc</webElementGuid>
+      <webElementGuid>adb11a55-c224-47f8-809a-a824760b3d22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/div[@class=&quot;M0CZm&quot;]/div[@class=&quot;Wft7u&quot;]/ul[@class=&quot;wXh5F&quot;]/li[@class=&quot;qh3dC _6IcZj&quot;]/a[@class=&quot;Xn0kv&quot;]</value>
-      <webElementGuid>a98d1a82-6c4b-4157-ad1d-698716c87693</webElementGuid>
+      <webElementGuid>f1772b57-d44f-43d6-b039-11f3cbc33db7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[3]/a</value>
-      <webElementGuid>12f12896-2495-4041-9a35-a00992cac8c8</webElementGuid>
+      <webElementGuid>f18f04cf-b30e-46e3-bfa7-7f77dbf556f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/live/npo1')])[2]</value>
-      <webElementGuid>ad585ff2-5e5e-448c-bd6c-918a4051cd55</webElementGuid>
+      <webElementGuid>f24a1698-6dd4-4363-adc7-11f14625ff79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[3]/div/div/ul/li[3]/a</value>
-      <webElementGuid>9292d3dc-64c4-42f1-a81d-4c53bc558aa4</webElementGuid>
+      <webElementGuid>13546176-ed8d-4f4d-ac6a-423bd491ed1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/live/npo1']</value>
-      <webElementGuid>22c916b8-8a33-4977-bec5-d10eef28ae02</webElementGuid>
+      <webElementGuid>b42738b0-6505-4dcd-86c4-5dd57d557e56</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
