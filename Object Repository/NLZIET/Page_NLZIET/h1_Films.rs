@@ -10,11 +10,14 @@
          <value>//div[@id='root']/div/main/div/section[10]/header/h1</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;][count(. | //*[@aria-label = 'Contentrij: Uitgelicht' and (text() = 'Films' or . = 'Films')]) = count(//*[@aria-label = 'Contentrij: Uitgelicht' and (text() = 'Films' or . = 'Films')])]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +25,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>40b2f4b6-d028-4a12-aa63-12dca2d6fd95</webElementGuid>
+      <webElementGuid>b53fbc14-b09a-43b3-9954-84d85440e700</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
       <value>Contentrij: Uitgelicht</value>
-      <webElementGuid>b31a4fd6-9ee5-4219-b5e6-632e30a0514f</webElementGuid>
+      <webElementGuid>7505f351-5b4c-4646-99a4-b44c9d110c69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>yOo9W</value>
-      <webElementGuid>02a93275-1125-4594-9874-ed92d424a7ac</webElementGuid>
+      <webElementGuid>62e2b358-38c8-4bfc-a433-1201b22ca22d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +49,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Films</value>
-      <webElementGuid>676aca41-af14-4bb2-94d9-721e5fc5e56b</webElementGuid>
+      <webElementGuid>c83c9f38-161a-4543-94ce-4ec85482e4b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
-      <webElementGuid>146dd811-e794-4fc2-b198-bfc5a47d558c</webElementGuid>
+      <webElementGuid>b459537f-b4a9-421a-89a0-77fce332c850</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +65,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/section[10]/header/h1</value>
-      <webElementGuid>f2ae6c1d-e7d8-429e-8ee7-5fb91cf86e36</webElementGuid>
+      <webElementGuid>d90247a5-e016-48d5-9cf6-c36602e797af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toon alles'])[8]/following::h1[1]</value>
-      <webElementGuid>57e860fa-2746-4b9f-88db-c4a434174197</webElementGuid>
+      <webElementGuid>b535b09c-4936-455c-8b1d-c0e913bc4992</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Girl'])[1]/following::h1[1]</value>
-      <webElementGuid>0306650f-ca3f-439c-b22d-47dbd2ad7a29</webElementGuid>
+      <webElementGuid>45c0b8b2-32f4-4ed7-86a9-615a7bfb4f9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toon alles'])[9]/preceding::h1[1]</value>
-      <webElementGuid>d159f568-c83b-4eb5-8021-785073ecbcd7</webElementGuid>
+      <webElementGuid>84c440ad-1bd8-4b14-900c-58ca816b3e5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Film'])[15]/preceding::h1[1]</value>
-      <webElementGuid>2de40f11-2dfa-4fe3-adfb-f6b7da1e523f</webElementGuid>
+      <webElementGuid>7fc7e150-c267-49a2-8109-0bbeaf3a6d8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Films']/parent::*</value>
-      <webElementGuid>96af241f-f896-46dc-80ef-fc3a49c53144</webElementGuid>
+      <webElementGuid>749c809e-6806-46ef-8f64-594da447e044</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +113,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[10]/header/h1</value>
-      <webElementGuid>7b546254-4344-47a6-8378-3643e436fca7</webElementGuid>
+      <webElementGuid>85f2b937-01b0-4fb0-a460-8062acfa51fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +121,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Films' or . = 'Films')]</value>
-      <webElementGuid>ddafb482-6812-4783-b51a-a0037f0e174b</webElementGuid>
+      <webElementGuid>65c555ba-4410-4ed7-bfca-7e0b89114633</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -10,11 +10,14 @@
          <value>//div[@id='root']/div/main/div/section[12]/header/h1</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;][count(. | //*[@aria-label = 'Contentrij: Uitgelicht' and (text() = 'Series' or . = 'Series')]) = count(//*[@aria-label = 'Contentrij: Uitgelicht' and (text() = 'Series' or . = 'Series')])]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +25,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>9b4d8533-2461-4846-892e-c66554b51af2</webElementGuid>
+      <webElementGuid>343d3b1f-c9fa-426c-8297-d23d561c4b74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
       <value>Contentrij: Uitgelicht</value>
-      <webElementGuid>ce7ff390-0486-4cb4-82ac-7ad83aa92cbe</webElementGuid>
+      <webElementGuid>735dbbe9-81cb-4d01-852c-af8f48de1265</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>yOo9W</value>
-      <webElementGuid>b95922fd-1a05-4a1c-95c8-0123a052b694</webElementGuid>
+      <webElementGuid>06ecd1a3-137e-4c56-91f7-1fb5452481e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +49,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Series</value>
-      <webElementGuid>3429e393-3f2f-43a7-9a2d-d95630253964</webElementGuid>
+      <webElementGuid>69838df6-f7a0-4534-b4e7-b4d5f0eea23b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
-      <webElementGuid>85039db8-b2ef-479f-b886-c348545d6679</webElementGuid>
+      <webElementGuid>d119b772-f49b-4900-94cb-ca6001a5ab23</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +65,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/section[12]/header/h1</value>
-      <webElementGuid>7beb7113-26b7-4840-baf8-4aa3036fadb4</webElementGuid>
+      <webElementGuid>8e7db6c8-a9dd-49c2-b119-59fb74d5a8ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toon alles'])[12]/following::h1[1]</value>
-      <webElementGuid>db3b370d-2601-43c8-927a-425b336c0a02</webElementGuid>
+      <webElementGuid>988c6e7f-dd42-4839-b5b5-6ff457bc1d7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Khalid &amp; Sophie'])[3]/following::h1[1]</value>
-      <webElementGuid>fd233752-2abc-42b4-bb29-aab1320e1c59</webElementGuid>
+      <webElementGuid>5cdb5a91-faa2-48a2-89b6-b70b0434669e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toon alles'])[13]/preceding::h1[1]</value>
-      <webElementGuid>4b8b87ad-eaf6-4ac0-ba43-6ac6891b8729</webElementGuid>
+      <webElementGuid>d25e4f3b-db1e-4554-881c-df62f16cc183</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Married At First Sight'])[4]/preceding::h1[1]</value>
-      <webElementGuid>140aec7f-8d59-48eb-b970-63577aabfc77</webElementGuid>
+      <webElementGuid>3902fb67-f338-4a37-be6d-b31ed13b3110</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Series']/parent::*</value>
-      <webElementGuid>1e734813-855c-4dba-843a-854202489a52</webElementGuid>
+      <webElementGuid>c955bc02-d788-4c58-89e2-69944766e029</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +113,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[12]/header/h1</value>
-      <webElementGuid>ea44308a-d459-4e54-a51d-ff692898fb62</webElementGuid>
+      <webElementGuid>3c33f730-f4fa-4607-ab1a-fb9b76329566</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +121,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Series' or . = 'Series')]</value>
-      <webElementGuid>bb90a442-8d55-4fcd-bf7e-04a4442a7ac7</webElementGuid>
+      <webElementGuid>ceb3bf2b-2d57-46f9-8583-a41bd31a2acc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -10,11 +10,15 @@
          <value>//div[@id='root']/div/main/div/section[3]/header/h1</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;][count(. | //*[@aria-label = 'Contentrij: Nu op tv' and (text() = 'Nu op tv' or . = 'Nu op tv')]) = count(//*[@aria-label = 'Contentrij: Nu op tv' and (text() = 'Nu op tv' or . = 'Nu op tv')])]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>h1.yOo9W</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>34f6c384-7c13-456c-9320-66405c12223c</webElementGuid>
+      <webElementGuid>3ed21fc7-c579-4891-9f93-72ea43c30d8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
       <value>Contentrij: Nu op tv</value>
-      <webElementGuid>b9a0c2de-523c-4bea-ad7d-5fb87217cfdb</webElementGuid>
+      <webElementGuid>190804ad-720e-4e3f-b3b3-b1be2a7a73b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>yOo9W</value>
-      <webElementGuid>8929e260-0a9c-4296-855e-e18f15ca079e</webElementGuid>
+      <webElementGuid>3eab6ad7-2217-496d-883c-9bbf7014fbab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +50,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Nu op tv</value>
-      <webElementGuid>d59951b7-ad98-419c-9c3d-c695a49ceae3</webElementGuid>
+      <webElementGuid>500b6238-bdad-492a-b325-a4f3f52a300f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
-      <webElementGuid>87d8d209-2e1e-4247-91a6-4a67538f0e6f</webElementGuid>
+      <webElementGuid>b5a49012-fea5-4263-bada-006b02741f9c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/section[3]/header/h1</value>
-      <webElementGuid>dead75cf-1907-46b6-8bae-7d653ec84994</webElementGuid>
+      <webElementGuid>9091e13c-fcbf-42b8-a18e-a225f422c074</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Border Security'])[1]/following::h1[2]</value>
-      <webElementGuid>77ed8d52-0632-46dc-b6b2-5456f4816095</webElementGuid>
+      <webElementGuid>26728f52-228a-46b5-833b-607fe4930da4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Over Mijn Lijk de Reünie'])[1]/following::h1[3]</value>
-      <webElementGuid>179ddbcc-0a56-4270-8bbd-6e981dcc0126</webElementGuid>
+      <webElementGuid>dfcb0473-4f03-4d84-a2e9-5630ffa56af5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Meest bekeken'])[1]/preceding::h1[1]</value>
-      <webElementGuid>09c1bf7f-5e3b-47a0-8313-2f95d0c76ae6</webElementGuid>
+      <webElementGuid>457ccb1a-4a9b-4a96-9306-e26143f0bd7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jinek'])[1]/preceding::h1[1]</value>
-      <webElementGuid>ea50b03e-9690-42a0-99af-88f382c9543d</webElementGuid>
+      <webElementGuid>86fa54d8-a784-4b92-a8a4-aa11888a2128</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Nu op tv']/parent::*</value>
-      <webElementGuid>b7796e87-6bbe-4f0f-9c6f-284b3602b783</webElementGuid>
+      <webElementGuid>db483a8a-31c2-433a-806c-2eed7977777f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//header/h1</value>
-      <webElementGuid>251eed13-2b34-4c55-a690-3dec5f66fce7</webElementGuid>
+      <webElementGuid>1cee5a15-50b0-4b9f-9ec6-9840f79e9bd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +122,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Nu op tv' or . = 'Nu op tv')]</value>
-      <webElementGuid>daf269fe-78ea-4b30-b1d7-723961364e6d</webElementGuid>
+      <webElementGuid>f79640f2-1c70-4b35-b38d-4e68434633c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

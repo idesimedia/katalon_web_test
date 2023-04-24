@@ -18,18 +18,4 @@
       <testCaseId>Test Cases/NLZIET - WEB/Rondkijk modus/Homepage checks</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>b1718204-6bdc-4be4-a95f-22b0f07acd2f</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/NLZIET - WEB/Rondkijk modus/Homepage checks</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>6ed5de0a-1510-4cc1-b49c-55f940388a17</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/NLZIET - WEB/Rondkijk modus/Tv en Gids checks</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>

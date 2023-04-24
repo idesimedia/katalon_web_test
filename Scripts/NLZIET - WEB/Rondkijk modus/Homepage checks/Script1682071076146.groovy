@@ -77,7 +77,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Vooruit
 
 WebUI.scrollToElement(findTestObject('Object Repository/Page_NLZIET/h1_Vooruitkijken'), 0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET/h1_Vooruitkijken'), 'Vooruitkijken')
+WebUI.verifyElementText(findTestObject('Page_NLZIET/h1_Vooruitkijken'), 'Vooruitkijken')
 
 WebUI.scrollToElement(findTestObject('Object Repository/Page_NLZIET/h1_Aanbevolen NPO Plus'), 0)
 
