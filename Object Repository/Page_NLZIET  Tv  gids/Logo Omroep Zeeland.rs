@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>8766f7ae-3b20-4407-bca8-f37935e43fe0</webElementGuid>
+      <webElementGuid>19a1f2ec-9aaa-4941-b147-33e8fbe11681</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>c6c4a46a-f812-48a3-b61c-b11beb8f6d73</webElementGuid>
+      <webElementGuid>731d1022-d710-48a4-b89b-9dffcd05774a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/omroepzeeland.png</value>
-      <webElementGuid>23e1494c-0197-496c-8fd8-d5ede0a8f711</webElementGuid>
+      <webElementGuid>c0c208dc-6283-4eb5-8c61-bbd6fa5f82b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Omroep Zeeland</value>
-      <webElementGuid>11d29b53-ca55-45a7-8223-d709814561d9</webElementGuid>
+      <webElementGuid>3f58d857-40e2-4c4c-b939-dab23649742f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Omroep Zeeland</value>
-      <webElementGuid>f03e186a-53b8-4a9e-80b8-30bb2c59753e</webElementGuid>
+      <webElementGuid>a83fc95f-90eb-48a3-bec1-d1b82cbf8056</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[45]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>5be21704-b9e1-43fd-8efb-30b02bfdfec4</webElementGuid>
+      <webElementGuid>9640990e-2ed4-46df-b6a8-a3921b550f92</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[45]/div/div/img</value>
-      <webElementGuid>1a805350-37d3-4737-aa0a-c49bf70c6fe5</webElementGuid>
+      <webElementGuid>f81ff5c2-a986-4412-93ec-1af64ed1b803</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Omroep Zeeland']</value>
-      <webElementGuid>083898cd-5aac-4791-adb9-9582273a2b7a</webElementGuid>
+      <webElementGuid>9d8797d4-a09b-4a96-a266-3aebb03911ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[45]/div/div/img</value>
-      <webElementGuid>d52465d7-4539-4705-ae89-91573df5a96f</webElementGuid>
+      <webElementGuid>fbfd0da6-c8ea-48ee-840f-16bf79d5ffb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/omroepzeeland.png' and @title = 'Omroep Zeeland' and @alt = 'Omroep Zeeland']</value>
-      <webElementGuid>9ea0215a-23d8-4ee7-924e-fadc8c491a6c</webElementGuid>
+      <webElementGuid>26f7fd13-6206-4579-a509-cb8611fbbe66</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

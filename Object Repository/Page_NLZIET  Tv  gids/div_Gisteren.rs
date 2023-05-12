@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>33d1e5ff-0619-4137-a0f8-e74a262c88c4</webElementGuid>
+      <webElementGuid>3c6f8717-2787-4b0d-be42-695f5307a894</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>G7jhL</value>
-      <webElementGuid>533a6c77-61a3-4a21-a6b3-ab3b743526dc</webElementGuid>
+      <webElementGuid>79ca9d50-52e5-41bf-961f-c3aac8ca2f4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Gisteren</value>
-      <webElementGuid>58e8574b-52f4-440e-a417-424a99f26e75</webElementGuid>
+      <webElementGuid>fb8bfe72-3d76-400c-aff3-55bd66ff29e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/nav[@class=&quot;LS3wy&quot;]/div[@class=&quot;_0nfEU&quot;]/div[@class=&quot;D6fTg&quot;]/div[@class=&quot;B77d0&quot;]/span[1]/button[@class=&quot;ncw4h XVCwg&quot;]/div[@class=&quot;G7jhL&quot;]</value>
-      <webElementGuid>af24a006-8960-487c-ba81-5c1fbf1874c0</webElementGuid>
+      <webElementGuid>0f9f6996-5621-4864-904d-3f4c84242a0b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/nav/div/div[2]/div/span/button[7]/div</value>
-      <webElementGuid>7c235d2e-0ec3-4c0e-a712-d06ff07ce0ec</webElementGuid>
+      <webElementGuid>56b9b0ed-c694-4b31-b729-ef9bf94ec10c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='wo 19 apr'])[1]/following::div[1]</value>
-      <webElementGuid>bd13f2a4-fdf3-4c7f-a04b-d3f6f3fbf814</webElementGuid>
+      <webElementGuid>f0331df2-9716-4b9f-8b90-1546656bc4a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='di 18 apr'])[1]/following::div[2]</value>
-      <webElementGuid>0cd39b77-4c9b-4d80-a909-b8155f95ead5</webElementGuid>
+      <webElementGuid>6edc83f6-6266-4084-a0dd-f9811b3b3d75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vandaag'])[2]/preceding::div[1]</value>
-      <webElementGuid>300e2d3f-15e3-466c-a810-787d84f611e3</webElementGuid>
+      <webElementGuid>4ff64418-3619-41bc-b939-28a737abeb3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Morgen'])[1]/preceding::div[2]</value>
-      <webElementGuid>3b245331-3265-48be-aec5-840451203d83</webElementGuid>
+      <webElementGuid>8584b438-ad0c-442b-a697-ad8bc405fbb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Gisteren']/parent::*</value>
-      <webElementGuid>f4c9ec8d-88fd-43bf-90ad-04eff005333e</webElementGuid>
+      <webElementGuid>c4547223-9f18-49e1-8cca-fa7976ef9e07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[7]/div</value>
-      <webElementGuid>ba1261b9-f71f-4da7-8d62-8bb2ec35a735</webElementGuid>
+      <webElementGuid>310e5194-5ecd-4a29-a192-06fbcf7ab682</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Gisteren' or . = 'Gisteren')]</value>
-      <webElementGuid>2d840327-752f-4359-b3f9-0d5ece02f045</webElementGuid>
+      <webElementGuid>0b851995-cc6b-4aba-ae58-6afc088f3bf1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>b7fb3f11-370b-43cd-b055-1bbdf7eb40e2</webElementGuid>
+      <webElementGuid>a6d1bbbe-7cba-42a1-a180-1d01966b4313</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>2e7ca298-c2af-460b-af73-e233a3ad5ab6</webElementGuid>
+      <webElementGuid>a636eaf9-4077-43b2-b6cc-8572d53e21d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/bbcworldnewseurope.png</value>
-      <webElementGuid>9c4312fc-b162-4a40-a2da-d9c7c3c3541c</webElementGuid>
+      <webElementGuid>9916078f-9483-40a4-bc6e-ce0b4bb307f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>BBC World News Europe</value>
-      <webElementGuid>fdad3f5f-80b3-4f24-8c5f-e54400eafa1b</webElementGuid>
+      <webElementGuid>84ab8b85-0b70-455f-973b-d86a89438031</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>BBC World News Europe</value>
-      <webElementGuid>2944a1fa-fc78-41a6-9d68-cd1480bd51c3</webElementGuid>
+      <webElementGuid>ef5526e6-b96c-41b1-98bb-7e5a31233143</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[28]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>a01b5258-98a9-48f2-8c58-b412e67dad69</webElementGuid>
+      <webElementGuid>259ba7ef-730f-4f27-bc21-33a15bdf038a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[28]/div/div/img</value>
-      <webElementGuid>b63e1ec9-b923-4521-b2c2-26ad31279ac8</webElementGuid>
+      <webElementGuid>a485845b-96f2-41b6-adf0-f2b7a28261dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='BBC World News Europe']</value>
-      <webElementGuid>94b56208-637a-4abc-a62f-7eb97595dbae</webElementGuid>
+      <webElementGuid>9b1577cb-ae45-497e-9e0b-619b63d2ee15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[28]/div/div/img</value>
-      <webElementGuid>511eb438-660d-49de-8e93-248d4616cfed</webElementGuid>
+      <webElementGuid>65e3f8e3-1512-4bc9-8c16-8e0726967610</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/bbcworldnewseurope.png' and @title = 'BBC World News Europe' and @alt = 'BBC World News Europe']</value>
-      <webElementGuid>8534a2e3-2646-4207-bbed-bc73608c251a</webElementGuid>
+      <webElementGuid>c5f60d9d-1e13-4a94-9cc3-36f275194d07</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

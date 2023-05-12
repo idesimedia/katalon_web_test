@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>6274c79b-d419-4210-af19-3aa3337b3b0d</webElementGuid>
+      <webElementGuid>6372be45-756c-43a5-8243-16f983af25d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>20c2e418-bdfb-487a-9a95-c52c75b1f3b8</webElementGuid>
+      <webElementGuid>767fec89-44c6-4088-8562-359964bf520e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/euronews.png</value>
-      <webElementGuid>c35922fa-82db-4669-ba5f-0fc4fe8de5e5</webElementGuid>
+      <webElementGuid>191806e8-ef80-4589-afa8-9c0db09ce7b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Euronews</value>
-      <webElementGuid>cc31cc05-4ae8-498e-b4b5-af52171d8a26</webElementGuid>
+      <webElementGuid>5ac52a6c-40b1-42ef-83fa-db0fd418d395</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Euronews</value>
-      <webElementGuid>5a89fc78-4986-445e-9e46-3051ff1f14da</webElementGuid>
+      <webElementGuid>29993173-7cd2-41b2-9604-95e39fe05b7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[34]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>ef08244e-6c35-4c17-a765-4408a5d02f03</webElementGuid>
+      <webElementGuid>0c8cecc6-bbca-4a1f-acbf-475f54b9829b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[34]/div/div/img</value>
-      <webElementGuid>410aaa84-0ab0-4880-b6ec-3a1fac043dc6</webElementGuid>
+      <webElementGuid>a89b61f9-b01b-43a6-8377-dfe2f24b6d63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Euronews']</value>
-      <webElementGuid>8b7d87dc-747e-405e-b7d7-251e8c971934</webElementGuid>
+      <webElementGuid>a4ed9831-6e28-4f9e-9a88-2ee74af59c2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[34]/div/div/img</value>
-      <webElementGuid>b8380603-f36f-428d-9998-efc1e393e433</webElementGuid>
+      <webElementGuid>1ef51b6b-754b-44a2-ba49-65ab06897aa1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/euronews.png' and @title = 'Euronews' and @alt = 'Euronews']</value>
-      <webElementGuid>f358c711-c303-4ea4-ac1f-c1dc62fb4413</webElementGuid>
+      <webElementGuid>885500d2-d9c4-468b-af91-5fd04cd881d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

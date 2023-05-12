@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>dd3f96d8-a743-4a0c-832b-a9ec7b574ece</webElementGuid>
+      <webElementGuid>25dba8a9-0bf3-4ddd-b9f8-1bca113fe1b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>3ac15f39-16a0-436d-8ff5-5dcfe7b4d37d</webElementGuid>
+      <webElementGuid>19b17837-4695-4482-8320-e2b6aa33207d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/tvoost.png</value>
-      <webElementGuid>cf5a28dd-b782-49bb-86c3-dd2d2e2750da</webElementGuid>
+      <webElementGuid>c1e5c3aa-5add-47cc-829d-8832f64cfb21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>TV Oost</value>
-      <webElementGuid>c27eece2-2072-4339-b007-54417f379dd3</webElementGuid>
+      <webElementGuid>10967080-7b3b-4c48-9a40-7dbe6d35452c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>TV Oost</value>
-      <webElementGuid>b81e9e93-b05e-466f-b01d-65fc1bb4980f</webElementGuid>
+      <webElementGuid>e509fb0d-5be5-44ab-b21f-21aa29478bb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[38]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>64a1af22-e6b1-40e9-85f5-e8abd2b11fc8</webElementGuid>
+      <webElementGuid>1e9d8a77-72bb-4c4c-8227-d235595b1723</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[38]/div/div/img</value>
-      <webElementGuid>c3d42ac2-3446-4389-92a0-c0f56e51e058</webElementGuid>
+      <webElementGuid>de41fa11-a20f-4b13-8009-43f16f8c31a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='TV Oost']</value>
-      <webElementGuid>53b940f5-d1a9-4f78-9b14-47befce4f32d</webElementGuid>
+      <webElementGuid>fe90952d-fb22-4b36-b5de-553b038f797f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[38]/div/div/img</value>
-      <webElementGuid>935c5a4e-d37f-4e84-b5e6-cf54330cafd2</webElementGuid>
+      <webElementGuid>f00ab4db-c9bb-4055-9a0e-0228d4eb966d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/tvoost.png' and @title = 'TV Oost' and @alt = 'TV Oost']</value>
-      <webElementGuid>a0212504-57a6-466d-82cf-75743d03e1c7</webElementGuid>
+      <webElementGuid>45ed5d54-882d-4965-8a41-5d8ae1106f18</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

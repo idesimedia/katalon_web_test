@@ -6,16 +6,15 @@
    <elementGuidId>75b5d268-88b3-4541-9b5f-700c8c7bea40</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@title = 'RTL 4']</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/main/div/div/ul/li[4]/div/div/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@title = 'RTL 4']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>28e46d45-0ea6-48b8-aedc-5cb090e8308c</webElementGuid>
+      <webElementGuid>4c3c1d98-58d2-4a78-a396-ef0dbbbccad8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>83b26c3b-05ab-4c1e-9951-79e093efbf7c</webElementGuid>
+      <webElementGuid>3a62e7c5-41ee-4cd9-9009-8887ef93df1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +41,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/rtl4.png</value>
-      <webElementGuid>ceafc113-7ef1-4182-9679-663d4db35011</webElementGuid>
+      <webElementGuid>bf7d26a3-891c-44d0-b8bf-c7d167386021</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +49,7 @@
       <name>title</name>
       <type>Main</type>
       <value>RTL 4</value>
-      <webElementGuid>2f243c69-944e-42d6-aac1-b2a4b207abb1</webElementGuid>
+      <webElementGuid>1e86e0f2-9409-4a84-84e4-6678e2e903e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +57,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>RTL 4</value>
-      <webElementGuid>e869b0aa-a232-46b4-a1a6-861ff5a66cba</webElementGuid>
+      <webElementGuid>4fccfdf7-1fda-4834-b554-12c9fc3d7645</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[4]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>24f86920-d0e4-42b6-9f6d-27784977c4ef</webElementGuid>
+      <webElementGuid>301d2e46-6ed7-42ce-a9e1-8fe922fdc527</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[4]/div/div/img</value>
-      <webElementGuid>f5e82927-b89f-458b-bffa-476f208b07c9</webElementGuid>
+      <webElementGuid>bf30bb37-5ba6-412a-8970-8a3446b61cb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +81,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='RTL 4']</value>
-      <webElementGuid>97f444b6-df32-4c06-a602-d0cbd81c0933</webElementGuid>
+      <webElementGuid>90055721-31ef-462e-9ec6-3f79d3437a0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +89,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/div/div/img</value>
-      <webElementGuid>03f37078-b335-4353-a6e2-ca8c13a5d9e3</webElementGuid>
+      <webElementGuid>e91d6ee3-5b21-4408-9ace-6737a330abad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/rtl4.png' and @title = 'RTL 4' and @alt = 'RTL 4']</value>
-      <webElementGuid>88c87173-5fc3-4682-bcd3-345577d20b35</webElementGuid>
+      <webElementGuid>67c64467-d053-4e23-a2b7-2c9450441e6a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>4229873a-5a13-4cba-b41c-c3446c708fc2</webElementGuid>
+      <webElementGuid>7429f898-4423-42a6-808d-ffaee0c24c5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>aa18ac36-1631-49b2-b7d8-5ec16f8d1943</webElementGuid>
+      <webElementGuid>5ae06160-a305-459b-b0b1-64ef1b342f38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/omropfryslan.png</value>
-      <webElementGuid>49d3ed2e-c08e-4288-8758-c6b061ae6f37</webElementGuid>
+      <webElementGuid>0da4716f-d163-430f-b735-efbb132b1c38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Omrop Fryslân</value>
-      <webElementGuid>a2ab68ef-7611-4d5d-a5aa-92609cec3520</webElementGuid>
+      <webElementGuid>7ea72300-b51a-46d4-b79a-487f4ca891bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Omrop Fryslân</value>
-      <webElementGuid>4e366d54-22e5-43bd-9ee3-111a3d442230</webElementGuid>
+      <webElementGuid>dad0bc0f-90f7-4d20-93ef-63079878d6da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[35]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>64da6c0f-f95c-4736-ac8e-2a7fe17363e1</webElementGuid>
+      <webElementGuid>aaa5d648-89ae-4dc0-b341-a6304e398cb0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[35]/div/div/img</value>
-      <webElementGuid>df593790-a216-4ff7-9777-e9b6ce4ec7ad</webElementGuid>
+      <webElementGuid>713a50ec-abfc-4b7b-8a4f-2e45aa823e0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Omrop Fryslân']</value>
-      <webElementGuid>70104f75-d48b-4a80-b824-099cf77f4154</webElementGuid>
+      <webElementGuid>53dddd2f-56e9-4e4e-82d8-9c0038ecc3fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[35]/div/div/img</value>
-      <webElementGuid>e4ebd3b3-d8a1-4dfa-85dd-345b3bbd71c2</webElementGuid>
+      <webElementGuid>d33ba44c-6a79-4048-bc06-a6f776f7f425</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/omropfryslan.png' and @title = 'Omrop Fryslân' and @alt = 'Omrop Fryslân']</value>
-      <webElementGuid>b230f55e-2de3-4b33-8df7-5ccecac81976</webElementGuid>
+      <webElementGuid>73ef8e57-edbc-4940-a628-8646ce548f58</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

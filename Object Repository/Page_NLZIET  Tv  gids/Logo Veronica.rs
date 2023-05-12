@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>8a6b588a-cc8c-47d3-ae7f-458ca3de16fe</webElementGuid>
+      <webElementGuid>c0d487dd-319d-4b87-ae3f-5d8837ab9626</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>9f0fd71e-d40f-470e-8dc4-d03d699c3a74</webElementGuid>
+      <webElementGuid>38b82c24-786b-4bc1-92e8-438dc93363bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/veronica.png</value>
-      <webElementGuid>9c63882e-967d-48c1-80c8-134fcb9d73d5</webElementGuid>
+      <webElementGuid>51367e51-7d25-4a57-b8d3-008a31465303</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Veronica</value>
-      <webElementGuid>437f37a7-f5e2-4c6f-b928-d4b0a9825611</webElementGuid>
+      <webElementGuid>78be7d6c-2aed-46cd-8f6f-06b9fb6f93d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Veronica</value>
-      <webElementGuid>9d2488c2-0d97-4a6e-86d1-4371cbc8a02e</webElementGuid>
+      <webElementGuid>020a889a-257f-48f5-8ddd-9a975b4635b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[8]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>c1e7c07d-6d73-4c59-a5b3-43b6ad02e032</webElementGuid>
+      <webElementGuid>447e3ceb-acd6-45f2-ac8d-370022b2997f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[8]/div/div/img</value>
-      <webElementGuid>339fe8d3-50d7-40bf-b588-0dfc288f0842</webElementGuid>
+      <webElementGuid>d42ef206-bec0-4275-a915-7200ae92ec7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Veronica']</value>
-      <webElementGuid>a19331b2-88b0-4c29-9639-a228528d3899</webElementGuid>
+      <webElementGuid>11c9bf95-d902-4318-b440-12c7775083f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[8]/div/div/img</value>
-      <webElementGuid>49b70355-f429-47a0-821d-a756443515cf</webElementGuid>
+      <webElementGuid>5ed3170d-76ef-4be5-a3e1-faf1c0941279</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/veronica.png' and @title = 'Veronica' and @alt = 'Veronica']</value>
-      <webElementGuid>0efe5a5f-3e55-4a90-a326-60d2bcc6dbd6</webElementGuid>
+      <webElementGuid>f404e278-2cb3-4fa4-98fd-28320bfa3d7e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

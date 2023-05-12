@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>a5a66545-9f06-459a-a851-d23569b0218a</webElementGuid>
+      <webElementGuid>7898e2c9-db88-42e0-8174-1a40c41e90b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>2c5b33f7-56f4-42fe-94c6-b74ccfafaa21</webElementGuid>
+      <webElementGuid>52bbb763-ee3a-4fb1-9cca-301fa5bc5916</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/insighttv.png</value>
-      <webElementGuid>684063ab-74fa-436e-a250-b90da0c4f37f</webElementGuid>
+      <webElementGuid>7a5b67c2-2465-479c-b6b2-e3d92e8f1b78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>INPLUS</value>
-      <webElementGuid>2d3ffdba-c824-48f4-bcc3-b00a9d94917d</webElementGuid>
+      <webElementGuid>ed92b2c6-a4ca-4f24-84c0-d9945c20a139</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>INPLUS</value>
-      <webElementGuid>e8359395-e637-4736-a0c4-5c87839ef062</webElementGuid>
+      <webElementGuid>a7cfd1fa-d8f6-48a0-8b28-c32a2f141d05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[13]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>b50158cc-affa-403f-9d34-dbbcb0b2faf7</webElementGuid>
+      <webElementGuid>5fc66fec-7684-497c-bbee-0fa95e934ce7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[13]/div/div/img</value>
-      <webElementGuid>078b504d-b2c9-4934-ac2f-888f571a2a20</webElementGuid>
+      <webElementGuid>62d54ce6-cb9f-4952-b2f2-7050948b47c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='INPLUS']</value>
-      <webElementGuid>026057fc-1368-47f2-8392-066a8a5e2c62</webElementGuid>
+      <webElementGuid>31ae639d-0e22-47ca-85b7-2d31c399330b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[13]/div/div/img</value>
-      <webElementGuid>2c5bc5d9-f5cb-4569-a250-114e9273d729</webElementGuid>
+      <webElementGuid>51e6374f-51fd-46cf-91ed-f2bb77ffae84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/insighttv.png' and @title = 'INPLUS' and @alt = 'INPLUS']</value>
-      <webElementGuid>12f497fa-cf81-491d-8616-bd2369b9b9c9</webElementGuid>
+      <webElementGuid>e6bc492d-93ce-4228-9a46-711d02932e96</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

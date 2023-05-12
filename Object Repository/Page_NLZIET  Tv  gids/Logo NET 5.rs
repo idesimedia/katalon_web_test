@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>5f1fcc25-5afc-4e11-ae57-e1d86a75dbf3</webElementGuid>
+      <webElementGuid>b217c12c-cb86-4524-9271-36c1573675e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>72400939-07ac-4373-a110-87776ea4bdb3</webElementGuid>
+      <webElementGuid>6b1caae9-9260-47b9-a609-59215ad5ea0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/net5.png</value>
-      <webElementGuid>6a9df51e-79b4-46de-9068-cfee866be3d0</webElementGuid>
+      <webElementGuid>4b78e188-b5b7-451a-b92e-a74e74c89314</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>NET5</value>
-      <webElementGuid>f164f8ea-6db6-4e4b-a926-6439a0d1dcf4</webElementGuid>
+      <webElementGuid>64c23cab-fbe2-46b2-8029-171dd3c9652c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>NET5</value>
-      <webElementGuid>d98057a7-d606-42b3-9926-82a65b3d8cf9</webElementGuid>
+      <webElementGuid>bf8c15be-97f5-4734-b3e4-37e06ab87070</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[9]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>bf0dbbc6-1df1-443a-ba27-bbfc2582588d</webElementGuid>
+      <webElementGuid>ea9b5418-cdc9-49df-8b6f-5ccc780e82c5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[9]/div/div/img</value>
-      <webElementGuid>15bb5d10-3203-445e-8b60-a8e3fe1c714a</webElementGuid>
+      <webElementGuid>8ec81616-4c4f-48a6-aeb8-68c0dd9770ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>(//img[@alt='NET5'])[2]</value>
-      <webElementGuid>a9a06bde-94e7-4591-bb66-191b032fc473</webElementGuid>
+      <webElementGuid>2cc611d8-fbc2-4997-a80a-418e87fc10fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[9]/div/div/img</value>
-      <webElementGuid>d0cbfc76-07f6-4afa-b43a-85de05b1c1cd</webElementGuid>
+      <webElementGuid>b777bce1-3a1c-4d96-9383-e85856241876</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/net5.png' and @title = 'NET5' and @alt = 'NET5']</value>
-      <webElementGuid>32b0177a-b352-455d-9552-62199d69d182</webElementGuid>
+      <webElementGuid>1eeb6c0f-a85f-46f1-946a-653e9364f87d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

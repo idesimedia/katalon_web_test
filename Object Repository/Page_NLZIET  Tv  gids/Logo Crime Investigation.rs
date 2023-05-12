@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>4323353a-dfbc-42c9-9e9e-af0ccc44dc82</webElementGuid>
+      <webElementGuid>deea71e0-a8b2-4eca-a005-1b73571e4a02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>61e1bfb3-13b3-4373-aa28-a7c2467eb2b0</webElementGuid>
+      <webElementGuid>a90512d6-2258-4be3-b9fc-f52a0add646d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/crimeinvestigation.png</value>
-      <webElementGuid>1c53bbff-55a2-4563-abd1-1bf614dd7e50</webElementGuid>
+      <webElementGuid>98c78b58-a148-460b-b34e-108201d6494f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Crime + Investigation</value>
-      <webElementGuid>678c9bc5-3043-4c2e-86b7-0f79943f831a</webElementGuid>
+      <webElementGuid>a6225984-d898-4b74-a5cc-f0a9babf1235</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Crime + Investigation</value>
-      <webElementGuid>0f2e56d4-513c-4278-8574-6bd813788e6b</webElementGuid>
+      <webElementGuid>41dd47af-4ca8-41bc-a8ce-0247bcbc5417</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[31]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>4e3374e2-f518-4abc-9b80-96b15593923d</webElementGuid>
+      <webElementGuid>c816a947-1625-47d0-ae25-92b7a8d5b2b9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[31]/div/div/img</value>
-      <webElementGuid>d2f7bf5b-eb3f-4a9e-99b6-70ce06151412</webElementGuid>
+      <webElementGuid>08630eba-4aae-410c-bbe1-0876150b1fc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Crime + Investigation']</value>
-      <webElementGuid>4e4310c0-b8c6-4b2c-8c94-890249cd3b37</webElementGuid>
+      <webElementGuid>6615647d-af36-4266-8fe3-d5ea1d68a47a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[31]/div/div/img</value>
-      <webElementGuid>cf9c1a7a-1721-4846-8e37-3ffd1babc18e</webElementGuid>
+      <webElementGuid>e1312e1f-2b2d-4dd1-9ada-cfd1a24394f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/crimeinvestigation.png' and @title = 'Crime + Investigation' and @alt = 'Crime + Investigation']</value>
-      <webElementGuid>372e7447-6dfb-4f5c-84e2-9a44862e187f</webElementGuid>
+      <webElementGuid>71410102-404e-4de2-aed3-0ff5b037e04c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

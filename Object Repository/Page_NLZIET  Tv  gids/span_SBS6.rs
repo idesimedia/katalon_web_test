@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d57e56be-90d0-4fed-acd4-5ad00b15c29e</webElementGuid>
+      <webElementGuid>eb66b58d-7a3c-4ff3-be79-66fdb0c7d2a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fNXpq</value>
-      <webElementGuid>f2ef4ae2-f0aa-4b07-aba0-ce9e062b5d80</webElementGuid>
+      <webElementGuid>ee54e08b-646a-4eb3-b4d7-ce209ab7ba8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SBS6</value>
-      <webElementGuid>9ecbafea-588c-4410-9749-04f85d0de813</webElementGuid>
+      <webElementGuid>6fcbff38-25a7-49b2-b2e4-ce9ab7133bc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/nav[@class=&quot;LS3wy&quot;]/div[@class=&quot;JTPbn&quot;]/div[@class=&quot;_0nfEU&quot;]/div[@class=&quot;D6fTg&quot;]/div[@class=&quot;B77d0&quot;]/span[1]/button[@class=&quot;ncw4h&quot;]/div[@class=&quot;G7jhL&quot;]/p[@class=&quot;_2-VvZ&quot;]/span[@class=&quot;fNXpq&quot;]</value>
-      <webElementGuid>07a64368-23a0-4042-b9b7-8cb8e6faa956</webElementGuid>
+      <webElementGuid>ad6eee39-d00a-4eb7-9b53-db73883adb29</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/nav/div[4]/div/div[2]/div/span/button[6]/div/p/span</value>
-      <webElementGuid>046d4aa1-7356-45f0-bd73-d56607d1d903</webElementGuid>
+      <webElementGuid>fe3154b0-e892-4ad4-9c59-9ecb98ebca9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='RTL 5'])[1]/following::span[1]</value>
-      <webElementGuid>57edb216-64b4-4133-b4c1-4906e4c7ec89</webElementGuid>
+      <webElementGuid>b9963c35-f021-47ac-ad25-a4e9ea6f51f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='RTL 4'])[1]/following::span[2]</value>
-      <webElementGuid>bbdf77a4-ef96-4f23-8427-d50a1b899a74</webElementGuid>
+      <webElementGuid>190f6d7b-650c-4730-81e1-bb6b91f0d5ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='RTL 7'])[1]/preceding::span[1]</value>
-      <webElementGuid>947dc22a-3e47-4a2c-8c6f-0e3a0ad2f076</webElementGuid>
+      <webElementGuid>12f8539e-d380-410e-9127-122182ad25c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Veronica'])[1]/preceding::span[2]</value>
-      <webElementGuid>0ce20185-b4f1-4148-9f68-a6647d61683b</webElementGuid>
+      <webElementGuid>9cbd92af-5585-4b12-99dd-acfbbf4ff862</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='SBS6']/parent::*</value>
-      <webElementGuid>2525bc92-505c-4c87-8e5b-d67346961433</webElementGuid>
+      <webElementGuid>b968d431-f1f4-41ee-8d35-e1e79902b9b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[6]/div/p/span</value>
-      <webElementGuid>57a261b2-577f-4906-b29c-ec9df557967f</webElementGuid>
+      <webElementGuid>444aa23b-509e-4618-b2af-952c87ad44b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'SBS6' or . = 'SBS6')]</value>
-      <webElementGuid>2f1ffe0e-c2a1-43da-96e1-0b1c591420cc</webElementGuid>
+      <webElementGuid>331b73b6-995f-4812-a654-67fb3849e9bb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

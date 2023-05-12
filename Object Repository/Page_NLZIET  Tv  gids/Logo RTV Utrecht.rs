@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>2219a4b9-8718-4773-bdf2-dca91b9aed89</webElementGuid>
+      <webElementGuid>e78d7390-6e68-4ccb-8a04-723fa9d8cdaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>2bcc3d91-22c0-45be-aa96-3ca93bc66fae</webElementGuid>
+      <webElementGuid>9948b465-281c-468f-bf1d-1254b6fd62ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/rtvutrecht.png</value>
-      <webElementGuid>33d8c66c-3991-4fbc-89f5-df516d1f76b2</webElementGuid>
+      <webElementGuid>3b47ee2e-46a4-4607-aaba-939937bdd730</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>RTV Utrecht</value>
-      <webElementGuid>2fa89889-ed48-43b3-b7c4-32bba9598294</webElementGuid>
+      <webElementGuid>d199504c-8af1-496b-9bcc-a514f074bd5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>RTV Utrecht</value>
-      <webElementGuid>8e0e0ad3-15fd-4be7-b49f-b9e55b8543c0</webElementGuid>
+      <webElementGuid>4f16f9a1-613d-4e9a-8ab4-4c952186f728</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[42]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>9c0e1698-2290-4e4a-9f8c-752c97fc0e1f</webElementGuid>
+      <webElementGuid>8b59c429-c9c9-41de-b08d-28de136dc0d3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[42]/div/div/img</value>
-      <webElementGuid>8e629286-9e07-4f1c-92fd-7badae1178b7</webElementGuid>
+      <webElementGuid>307655c4-b9e8-40fa-829e-487cbc628624</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='RTV Utrecht']</value>
-      <webElementGuid>2ae05fe1-aa45-4f21-89e8-c18317c3bd61</webElementGuid>
+      <webElementGuid>9db1ad79-8817-44e4-8090-1373bbdad7db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[42]/div/div/img</value>
-      <webElementGuid>2fbd2da0-8585-4a78-b2a5-a157ac1b2a40</webElementGuid>
+      <webElementGuid>9c81d7cf-1a6f-4d67-bfb3-7db8fbe63db4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/rtvutrecht.png' and @title = 'RTV Utrecht' and @alt = 'RTV Utrecht']</value>
-      <webElementGuid>5e660e12-bd39-4a7d-8414-b5d8d7f03a6e</webElementGuid>
+      <webElementGuid>ea51e33d-931c-43c7-953f-4dd40e936398</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

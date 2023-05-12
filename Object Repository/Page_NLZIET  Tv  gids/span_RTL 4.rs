@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>62a7c9fd-10bb-4974-b58e-38c5896b0267</webElementGuid>
+      <webElementGuid>4f92e288-6a93-45b3-9335-c9accbe784be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fNXpq</value>
-      <webElementGuid>7acf27bf-f1b0-4a74-a047-23d2bded49db</webElementGuid>
+      <webElementGuid>5192243e-1b7e-4573-b929-dd790f523115</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>RTL 4</value>
-      <webElementGuid>15c42c42-6804-4d89-9fa6-c06ca1aa3705</webElementGuid>
+      <webElementGuid>388b4206-625d-4eb9-ac92-0db877c7da4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/nav[@class=&quot;LS3wy&quot;]/div[@class=&quot;JTPbn&quot;]/div[@class=&quot;_0nfEU&quot;]/div[@class=&quot;D6fTg&quot;]/div[@class=&quot;B77d0&quot;]/span[1]/button[@class=&quot;ncw4h&quot;]/div[@class=&quot;G7jhL&quot;]/p[@class=&quot;_2-VvZ&quot;]/span[@class=&quot;fNXpq&quot;]</value>
-      <webElementGuid>e4564432-56fa-455d-b48b-2b8b82e993ae</webElementGuid>
+      <webElementGuid>8210ca47-bd67-401f-b9e5-873c40db5629</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/nav/div[4]/div/div[2]/div/span/button[4]/div/p/span</value>
-      <webElementGuid>50ff830e-175e-48a2-8909-0d974bdf6d1e</webElementGuid>
+      <webElementGuid>d1f4e3d1-4373-401c-a9c9-97c5bcc3d6ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NPO 3'])[1]/following::span[1]</value>
-      <webElementGuid>96e323f1-9529-4add-8a02-1bf0224c41ed</webElementGuid>
+      <webElementGuid>f78f2559-33d9-496b-95e9-b71cda1d2b4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NPO 2'])[1]/following::span[2]</value>
-      <webElementGuid>61a69553-f497-4062-ae0b-8843fd9dce96</webElementGuid>
+      <webElementGuid>87c9bd2a-71a4-400e-8c3a-f900053e7567</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='RTL 5'])[1]/preceding::span[1]</value>
-      <webElementGuid>37ab1df4-0bba-442b-9be2-0b0cc45802b0</webElementGuid>
+      <webElementGuid>535b8831-56b8-4a11-9a85-8f1f89bdecab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SBS6'])[1]/preceding::span[2]</value>
-      <webElementGuid>a224f6b1-29a2-45c5-97af-1d6778ed4618</webElementGuid>
+      <webElementGuid>698c9e15-f3a7-4a7b-b796-e54c467efacb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='RTL 4']/parent::*</value>
-      <webElementGuid>663d4c9b-55a1-466f-820c-1a4c33e15fb7</webElementGuid>
+      <webElementGuid>112e0e56-8a8f-4ed9-8b08-fd13d40388db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[4]/div/p/span</value>
-      <webElementGuid>fe398d23-6af7-4e94-b779-4beddca2a9ad</webElementGuid>
+      <webElementGuid>ce7a1e02-1c70-423a-9f9f-a332777078ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'RTL 4' or . = 'RTL 4')]</value>
-      <webElementGuid>292b3721-578e-4fa5-829b-8486540a0617</webElementGuid>
+      <webElementGuid>8122b765-c72e-40df-8384-352decdbe568</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

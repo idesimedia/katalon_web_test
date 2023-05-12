@@ -7,16 +7,15 @@
    <imagePath>Screenshots/Targets/Object Repository/Page_NLZIET  Tv  gids/Logo Omroep Gelderland.png</imagePath>
    <selectorCollection>
       <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Object Repository/Page_NLZIET  Tv  gids/Logo Omroep Gelderland.png</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>c</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value>Screenshots/Targets/Object Repository/Page_NLZIET  Tv  gids/Logo Omroep Gelderland.png</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -27,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>fdb28c35-e397-4197-8e1d-4d6f5ade1f8f</webElementGuid>
+      <webElementGuid>70555bb6-135c-4261-bcb3-c3d492521cc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>4ee5452f-6e1b-4f3d-955b-5a44f14be77a</webElementGuid>
+      <webElementGuid>fc6a4548-cb1a-44da-a0f5-dbd138e7d925</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,7 +42,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/tvgelderland.png</value>
-      <webElementGuid>39fab42d-454f-46ee-9e94-85a3a8daff50</webElementGuid>
+      <webElementGuid>7dbe0d65-0675-4cef-a2da-d0727a827ecc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -51,7 +50,7 @@
       <name>title</name>
       <type>Main</type>
       <value>TV Gelderland</value>
-      <webElementGuid>dcdfee80-b545-4c4f-a0b7-6dc03b143421</webElementGuid>
+      <webElementGuid>4d7f02f5-be76-4c93-9b39-b0a1eafff259</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -59,7 +58,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>TV Gelderland</value>
-      <webElementGuid>9fb7805e-0f3c-443a-98e3-55fc8f64ad6b</webElementGuid>
+      <webElementGuid>29476269-5af3-48e7-8cdb-65d9e3bb755a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[39]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>f72d992e-1008-4278-a627-96e1a51c6da2</webElementGuid>
+      <webElementGuid>e3594013-f2f2-443c-80aa-3228f3a478a7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[39]/div/div/img</value>
-      <webElementGuid>27fa587e-8648-4975-aa41-1d7450d74445</webElementGuid>
+      <webElementGuid>7413c4d0-0c59-4500-9857-2a0fe2241969</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,7 +82,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='TV Gelderland']</value>
-      <webElementGuid>85784f92-37e3-40db-8455-a93f0ec32980</webElementGuid>
+      <webElementGuid>4fcfd29f-4697-4fa1-9328-f1c50b999a13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[39]/div/div/img</value>
-      <webElementGuid>ec6d45fc-5914-4d27-a2f8-3223bb1f8c4d</webElementGuid>
+      <webElementGuid>60f07682-6c92-4711-ae42-e767c4ef1530</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/tvgelderland.png' and @title = 'TV Gelderland' and @alt = 'TV Gelderland']</value>
-      <webElementGuid>d3dc537e-92a0-40a0-b454-d43ba5142016</webElementGuid>
+      <webElementGuid>479c24e3-98c1-4d4a-850a-df53658e4792</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

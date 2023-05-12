@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>1f349124-eb96-47bd-afd8-65272eaf41db</webElementGuid>
+      <webElementGuid>fceee881-be66-41b4-b02b-810379db9bf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>6a591728-fa6e-4044-b4b6-d0e490e255ad</webElementGuid>
+      <webElementGuid>02a10124-5b26-4046-b80a-b9e3fff6c240</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/tv538.png</value>
-      <webElementGuid>1f446224-4066-4537-979d-d21e7b96e17f</webElementGuid>
+      <webElementGuid>4630dd60-14eb-4348-911f-30082b4c749e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>TV 538</value>
-      <webElementGuid>f0ffe5e0-bc8b-4a75-9743-66bb39e8dbbb</webElementGuid>
+      <webElementGuid>74e76aca-bbcb-4709-9a3a-33e913c4d86e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>TV 538</value>
-      <webElementGuid>a19c2e3e-0d55-40a4-85cb-b29f3f181420</webElementGuid>
+      <webElementGuid>1b47329a-154b-42e1-9007-aedb009ea76e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[17]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>6c06abc7-dc80-4e26-a2f8-d39ee420711d</webElementGuid>
+      <webElementGuid>3f930a7b-c90a-4ab5-b064-ab791ca72723</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[17]/div/div/img</value>
-      <webElementGuid>d34c70dc-a442-45cb-856f-38f9de6e7ee2</webElementGuid>
+      <webElementGuid>ca0b3741-974f-431d-befe-d268857dd3fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='TV 538']</value>
-      <webElementGuid>e3311c9a-6236-40ea-b292-8baa8bc56011</webElementGuid>
+      <webElementGuid>ed592c6d-f4a5-4608-8e06-a4f87ad5a468</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[17]/div/div/img</value>
-      <webElementGuid>cffb6923-7a91-4b0a-bdf1-9d1861d287b1</webElementGuid>
+      <webElementGuid>a7180014-07c4-4428-b383-0e10035a8c5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/tv538.png' and @title = 'TV 538' and @alt = 'TV 538']</value>
-      <webElementGuid>df3bdfba-5cf1-4783-9f1b-b8ec847fe5e5</webElementGuid>
+      <webElementGuid>d03b2765-d04e-431c-a216-83ad84349b84</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

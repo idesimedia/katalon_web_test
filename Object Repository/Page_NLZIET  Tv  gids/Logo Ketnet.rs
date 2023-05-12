@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>e6afb7b1-84b8-451b-be84-7baf80796f13</webElementGuid>
+      <webElementGuid>5e2e07a1-d991-4b9f-b06e-d46374ef40a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>26863a89-a34a-49a8-a81f-5e9015450f94</webElementGuid>
+      <webElementGuid>fc94f6d6-4ad9-47eb-bb35-2c8142a915c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/ketnet.png</value>
-      <webElementGuid>a2c9ef55-5c6a-47ba-bffe-f343e769dca9</webElementGuid>
+      <webElementGuid>a53423e3-0d4f-4166-b2bf-6bc9c8f68e74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Ketnet</value>
-      <webElementGuid>fc2e4d4f-99d5-47f6-998f-4e792ebf297e</webElementGuid>
+      <webElementGuid>93caccad-6e51-4938-a950-019ffafb5ea6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Ketnet</value>
-      <webElementGuid>d956624b-62d0-4206-baeb-50f7c0476663</webElementGuid>
+      <webElementGuid>199adf6d-40e4-44f4-9652-4c1639e74cbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[16]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>97eca321-e73e-4874-81f1-417dd02f9b1a</webElementGuid>
+      <webElementGuid>c8647154-ea54-4b59-a962-5090aeedf104</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[16]/div/div/img</value>
-      <webElementGuid>8fd43f1f-faa2-4209-9e3a-27831d3518ba</webElementGuid>
+      <webElementGuid>cf99f0ce-da97-455a-944e-72c41c9eb650</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Ketnet']</value>
-      <webElementGuid>29eca8a3-6f88-4d70-88f3-2a0993105f51</webElementGuid>
+      <webElementGuid>e45dbdee-d153-44c0-8949-671928741dd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[16]/div/div/img</value>
-      <webElementGuid>8c0db9c8-d669-4517-bc38-25d003f4574d</webElementGuid>
+      <webElementGuid>f4c7f258-0643-46e4-ad03-b0095064a330</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/ketnet.png' and @title = 'Ketnet' and @alt = 'Ketnet']</value>
-      <webElementGuid>9ec53498-64e5-4b13-a418-7b9b4047a90c</webElementGuid>
+      <webElementGuid>ee8a29cf-e3b0-45a7-8988-348ca1dd6ae2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

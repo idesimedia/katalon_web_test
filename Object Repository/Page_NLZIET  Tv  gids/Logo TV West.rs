@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>dd019eb5-429e-4c95-9cd9-8b23cf5e2fe2</webElementGuid>
+      <webElementGuid>8da360cb-54c5-46dc-a35f-9c673e226697</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>cecab2f8-9ab8-4708-83ca-26ac3100df13</webElementGuid>
+      <webElementGuid>22ff99d1-103c-40fe-a41e-c23333fbf225</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/tvwest.png</value>
-      <webElementGuid>999d5c78-37bc-486b-8b00-7515fca77b4f</webElementGuid>
+      <webElementGuid>5c0f0c88-853e-48ee-a985-532a8d7ebced</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>TV West</value>
-      <webElementGuid>0af86ce0-0228-4459-9528-b25e9714da03</webElementGuid>
+      <webElementGuid>37b84048-d2f5-4bde-aa45-ffedc03ff302</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>TV West</value>
-      <webElementGuid>5d1963d4-8485-496f-b7ec-fe89b84ff94d</webElementGuid>
+      <webElementGuid>5c6cffff-632d-44a7-838a-0012d5149837</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[43]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>2578dec3-34aa-4843-8c86-f3d606a5edbc</webElementGuid>
+      <webElementGuid>1daf73f6-792b-486c-800f-db39b14e756d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[43]/div/div/img</value>
-      <webElementGuid>bba87292-1bf2-49aa-aabb-70616bd4f5d1</webElementGuid>
+      <webElementGuid>3c96376c-f4fd-4979-a30c-37093c6fe158</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='TV West']</value>
-      <webElementGuid>a3af9fc0-c542-4455-89a3-0454641c9e93</webElementGuid>
+      <webElementGuid>4eea8d95-351f-4d82-9dcd-b8f79d21cdb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[43]/div/div/img</value>
-      <webElementGuid>7665150a-388b-4a8d-8a76-3209a869eea0</webElementGuid>
+      <webElementGuid>7f09ece6-9e9b-492c-9c1b-2f4f1633b8af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/tvwest.png' and @title = 'TV West' and @alt = 'TV West']</value>
-      <webElementGuid>27ecf5ba-02ad-4a54-935f-4b5194ce39fc</webElementGuid>
+      <webElementGuid>320929ff-717e-4b70-b1c5-fbf5a2249cfd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

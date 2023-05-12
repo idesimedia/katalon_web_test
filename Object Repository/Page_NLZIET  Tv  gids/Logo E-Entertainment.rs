@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>1b894e6f-0dc4-4be9-a8fe-bb57c860be0a</webElementGuid>
+      <webElementGuid>9a127e33-544b-474a-b8f8-0832c8205325</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>ac84942e-8046-4e64-ad41-d0941025ca0a</webElementGuid>
+      <webElementGuid>a9b55f1f-eb93-430a-8e9e-827fa432367d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/eentertainment.png</value>
-      <webElementGuid>42a18ffd-1f71-476e-b57c-6cb7ad77bc95</webElementGuid>
+      <webElementGuid>d62756eb-b9b6-4aa4-bf1d-c396e09d3288</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>E! Entertainment</value>
-      <webElementGuid>7e70d4bb-8272-4076-8eb5-638e3f614ca6</webElementGuid>
+      <webElementGuid>e949be21-c779-4584-9586-6c79b3dd243f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>E! Entertainment</value>
-      <webElementGuid>17d72d5e-568b-4e81-b2f9-ea66e78a8e84</webElementGuid>
+      <webElementGuid>30c3c6fb-18cf-43ec-a567-e4185e02a689</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[33]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>6850ba77-b04d-4c04-a146-98a482fc5b02</webElementGuid>
+      <webElementGuid>701a739c-b99e-4a1c-95db-e190cbc42d72</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[33]/div/div/img</value>
-      <webElementGuid>a718d4f7-82cc-4ef6-bf88-ab791f79abe0</webElementGuid>
+      <webElementGuid>7d46cbab-1542-42e8-a14e-89554f1aa1e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='E! Entertainment']</value>
-      <webElementGuid>49c6c235-4dcc-40fd-acba-23b65186da19</webElementGuid>
+      <webElementGuid>240fb0d5-ee16-41a5-ba48-ec9010c77951</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[33]/div/div/img</value>
-      <webElementGuid>e93fa1b4-6849-402a-92d0-aaf8b8bda6ef</webElementGuid>
+      <webElementGuid>0b79d249-3199-412c-ab93-076829975071</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/eentertainment.png' and @title = 'E! Entertainment' and @alt = 'E! Entertainment']</value>
-      <webElementGuid>1aa51b79-08ea-42bd-9289-bff119ab4f2a</webElementGuid>
+      <webElementGuid>4e861b67-7856-4b7d-bf7b-2d04cee9bd59</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

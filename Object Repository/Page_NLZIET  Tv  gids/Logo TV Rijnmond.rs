@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>f04ff733-7008-45c9-8014-05bd7d120b87</webElementGuid>
+      <webElementGuid>54e8f861-b51b-4381-a409-9b551a51e314</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>c8982287-86bd-46e4-84f1-5356c8a59e85</webElementGuid>
+      <webElementGuid>1ee1c611-1036-494c-ab6b-1b4ddedbc5d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/tvrijnmond.png</value>
-      <webElementGuid>7d9b351a-d19d-42e0-a8b6-9950bc47871b</webElementGuid>
+      <webElementGuid>816fe98f-8aa7-460b-ad8d-1a75e09f3e89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>TV Rijnmond</value>
-      <webElementGuid>7ef4232b-5fa3-4492-9edf-1136fe35549f</webElementGuid>
+      <webElementGuid>73406104-a623-4179-aca6-d9c71cdca169</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>TV Rijnmond</value>
-      <webElementGuid>ce1ed6fd-d111-4e79-8245-bfaa2bf9bd38</webElementGuid>
+      <webElementGuid>7f7ac6ba-5d7b-455b-a172-8f9069e5763d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[44]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>84b70489-7a47-4dcc-9527-ea57dc978bc2</webElementGuid>
+      <webElementGuid>ddc052ec-6778-4757-af73-4b543a7c0e43</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[44]/div/div/img</value>
-      <webElementGuid>8873ba25-e9f5-4122-8544-11650429d37d</webElementGuid>
+      <webElementGuid>cf92b126-dbc5-4560-997a-e2d6cb35c274</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='TV Rijnmond']</value>
-      <webElementGuid>f9b2c431-2cc1-443a-ace4-5074097c5d93</webElementGuid>
+      <webElementGuid>ebf7998d-931d-43ab-a161-2ac194c0fcac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[44]/div/div/img</value>
-      <webElementGuid>b6cca6bc-1c1d-40d0-8c63-30636be5ee91</webElementGuid>
+      <webElementGuid>1a0560e4-1ae6-44fa-867e-ec7d1c97ca2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/tvrijnmond.png' and @title = 'TV Rijnmond' and @alt = 'TV Rijnmond']</value>
-      <webElementGuid>7d07aa2d-a480-424a-b781-c739812eea97</webElementGuid>
+      <webElementGuid>adaf9677-4c9f-4d7e-afd8-426d5c0c08cd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

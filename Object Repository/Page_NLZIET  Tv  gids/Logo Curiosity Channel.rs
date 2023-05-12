@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>9ff36d95-2bb7-4264-afbe-fff67b6f655c</webElementGuid>
+      <webElementGuid>a57d867c-4ee5-448d-9ede-6a1f6a786ae2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>25bb3e99-f945-4bff-86b4-fcd1c8836cab</webElementGuid>
+      <webElementGuid>3e5b88fe-dbbb-48b5-be81-37a094181449</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/curiosity.png</value>
-      <webElementGuid>b3565d12-5121-431e-b003-7001e57fce79</webElementGuid>
+      <webElementGuid>29367452-e5bb-4fd8-b8b4-8955709c9824</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Curiosity Channel</value>
-      <webElementGuid>9ea352cb-38d8-43e6-9d84-199c3d26878a</webElementGuid>
+      <webElementGuid>917e6661-a42a-44e8-afae-599421aa5e70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Curiosity Channel</value>
-      <webElementGuid>97a9ec20-0365-4149-85f2-d8001ddf3e26</webElementGuid>
+      <webElementGuid>39a99465-7457-45d4-8f46-ef1b86a57b9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[32]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>142f71eb-b097-40fd-955b-0538b153b4cf</webElementGuid>
+      <webElementGuid>9eb509b7-4bdb-4e17-ae6c-63c8ad6ed021</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[32]/div/div/img</value>
-      <webElementGuid>67e39352-b841-4615-a137-19984135d080</webElementGuid>
+      <webElementGuid>65aa2dbd-f6b2-4d5e-b338-f3c437432530</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Curiosity Channel']</value>
-      <webElementGuid>f9903a8c-b37e-43f5-b314-c724736877f4</webElementGuid>
+      <webElementGuid>4376fb53-8277-41ae-9b52-2f96159547f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[32]/div/div/img</value>
-      <webElementGuid>39c5b132-9352-417f-8cc0-210bf10213b9</webElementGuid>
+      <webElementGuid>cc1e7632-b037-4658-96c5-21ea014d9216</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/curiosity.png' and @title = 'Curiosity Channel' and @alt = 'Curiosity Channel']</value>
-      <webElementGuid>7fb7c68a-f927-4fec-9658-87e56b2dbe75</webElementGuid>
+      <webElementGuid>73217acd-5f4c-4c99-b9a8-1f46ade18b2e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>c654e70d-431c-4c73-89cc-539c2db96875</webElementGuid>
+      <webElementGuid>01edf8e4-2be0-426a-b474-f56250398bd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>5e5b04f0-041e-4d0d-93d7-04dd096c53ab</webElementGuid>
+      <webElementGuid>193ee4e0-a91d-4a35-81ab-0f87ae5830b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/npo1extra.png</value>
-      <webElementGuid>67357856-2d01-4d3c-86de-cce218876df4</webElementGuid>
+      <webElementGuid>f0e53fc8-7300-42b6-a512-8fd6e39c91e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>NPO 1 Extra</value>
-      <webElementGuid>45d61233-48e9-4332-8aa1-baa62572e7b4</webElementGuid>
+      <webElementGuid>78a9c39b-a6fd-4e4c-8524-2a9f0e0ea6ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>NPO 1 Extra</value>
-      <webElementGuid>c8e9b243-a790-4ecf-8e34-063ce6c362ef</webElementGuid>
+      <webElementGuid>2b57b965-aee8-4bfa-9715-4e9843cbfc57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[22]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>1b4f52c6-febc-4c0c-b763-dc7d199360f8</webElementGuid>
+      <webElementGuid>a172df3a-ede0-43c3-8ea6-3dd21a21495e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[22]/div/div/img</value>
-      <webElementGuid>86dac8ab-11e7-4bfb-b2c1-5f743da27416</webElementGuid>
+      <webElementGuid>33c278fa-76b8-44a8-b93c-7925524d35a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='NPO 1 Extra']</value>
-      <webElementGuid>73fbfc7a-5d81-4e72-9d84-4fd160413b57</webElementGuid>
+      <webElementGuid>a53001ac-df38-47db-b084-3c13a8bf4d98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[22]/div/div/img</value>
-      <webElementGuid>a4971815-7130-4bea-ae39-25b5c3e3a7b2</webElementGuid>
+      <webElementGuid>d5a0db8c-62d9-4acb-a9a1-591b6b41a897</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/npo1extra.png' and @title = 'NPO 1 Extra' and @alt = 'NPO 1 Extra']</value>
-      <webElementGuid>57dc7aad-55ac-4c81-8680-047e6babb9e5</webElementGuid>
+      <webElementGuid>0bf838b3-1d71-480d-ab84-f8b4260fb4cd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

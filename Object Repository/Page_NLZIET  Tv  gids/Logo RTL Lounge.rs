@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>e9a466c8-c01e-4b0f-ab2c-c8aa49c855bf</webElementGuid>
+      <webElementGuid>64ab8822-aeed-4374-a8f1-710abe70b83d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>9c0ee3a1-c107-49b7-a324-5e59b21826b4</webElementGuid>
+      <webElementGuid>dfdeec25-cf39-4555-a8a2-083663a5a6c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/rtlcrime.png</value>
-      <webElementGuid>c5805c84-7425-49ed-8e68-9e1a26f0e1a0</webElementGuid>
+      <webElementGuid>d264f11e-73f9-48ae-86b4-a5eb18aa7f5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>RTL Crime</value>
-      <webElementGuid>8d2ae02b-78c1-40dd-b8ea-4f4e28b3c2e3</webElementGuid>
+      <webElementGuid>8bc47e36-bbe4-4241-b295-703b63e4dafc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>RTL Crime</value>
-      <webElementGuid>d65d08c6-53ea-4f36-b309-f4e8e394e7ca</webElementGuid>
+      <webElementGuid>90cc37c2-7caf-4b61-90b2-09a877698228</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[18]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>747a57e5-61ff-46c3-a261-42674385b28e</webElementGuid>
+      <webElementGuid>57ce8e05-054f-4b9d-bd44-3de4867cd7bd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[18]/div/div/img</value>
-      <webElementGuid>21ba5aa5-8485-4a7f-ae4a-bf41ba55a131</webElementGuid>
+      <webElementGuid>280149aa-ed73-475b-8f21-f3b2f374b474</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>(//img[@alt='RTL Crime'])[2]</value>
-      <webElementGuid>a304e5d7-a3e5-4840-af1b-ad98be986060</webElementGuid>
+      <webElementGuid>92a74c1a-c703-4189-8495-a1f96827588a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[18]/div/div/img</value>
-      <webElementGuid>6891bfcc-f385-4293-9558-4efe0d69ac04</webElementGuid>
+      <webElementGuid>fbf685fa-e547-40b6-bb20-4d8f868b0121</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/rtlcrime.png' and @title = 'RTL Crime' and @alt = 'RTL Crime']</value>
-      <webElementGuid>48b1df54-4cb4-4581-ba3f-3c8a51243961</webElementGuid>
+      <webElementGuid>fd194030-7569-458d-af67-0792a1031b1d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

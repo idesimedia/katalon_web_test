@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>41005d07-9b94-4749-9b8e-2ca0f0f29733</webElementGuid>
+      <webElementGuid>89718e59-033f-4017-84e4-17bdc372017e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>173dc7cb-b63d-4799-bf70-7815f5c62405</webElementGuid>
+      <webElementGuid>3c2e00e1-bbc5-480f-99e1-c3df58923890</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/tvdrenthe.png</value>
-      <webElementGuid>df410e19-ce82-444c-b1ec-0ab5eafb806a</webElementGuid>
+      <webElementGuid>e309e481-f178-48c9-86d7-7619f25bb4b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>TV Drenthe</value>
-      <webElementGuid>ebeed78e-78c1-4d88-860b-ea7a85204b03</webElementGuid>
+      <webElementGuid>017dcffc-13b1-488d-a801-b28084120b97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>TV Drenthe</value>
-      <webElementGuid>ad68d8e1-3631-48fe-8bc2-38edfd14daf5</webElementGuid>
+      <webElementGuid>b091b9e9-da35-4490-bc75-4e89a83d1eb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[37]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>55610ecd-de15-4990-9731-7b14b4492e5f</webElementGuid>
+      <webElementGuid>a5e671bb-9399-47f5-a7a0-8518c7ff38aa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[37]/div/div/img</value>
-      <webElementGuid>918859d1-1c8e-4bb6-877b-4e390908a40b</webElementGuid>
+      <webElementGuid>87b4e961-33b6-4718-b1ee-3772825e8b77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='TV Drenthe']</value>
-      <webElementGuid>ed5a2e77-07a8-4606-8c85-24d4f0abd22d</webElementGuid>
+      <webElementGuid>a0305477-b5e0-4f28-baee-4569f809ede7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[37]/div/div/img</value>
-      <webElementGuid>3c02603d-35de-40f3-8ef5-e8ef34905c9a</webElementGuid>
+      <webElementGuid>fb07844e-a155-43fb-b79c-d7b518911bb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/tvdrenthe.png' and @title = 'TV Drenthe' and @alt = 'TV Drenthe']</value>
-      <webElementGuid>8406c571-a976-4025-8890-6eed585c3d42</webElementGuid>
+      <webElementGuid>57a0d287-c3cd-4f0e-ab9b-cfee1b6db974</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

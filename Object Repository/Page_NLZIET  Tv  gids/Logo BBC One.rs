@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>038f7680-1451-4d51-a402-b3498053d896</webElementGuid>
+      <webElementGuid>f90bbee6-f69f-42b9-9703-a21e486dcc8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>307d721d-9b68-4026-a9ec-b56d1096ce92</webElementGuid>
+      <webElementGuid>bcc86566-a9d3-4aa0-a6d3-de1f868b0dbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/bbcone.png</value>
-      <webElementGuid>366f2cf2-eb63-49b2-ac4b-a4c2cebe0647</webElementGuid>
+      <webElementGuid>29899011-750f-4543-8fa9-f8c83c450e16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>BBC One</value>
-      <webElementGuid>72a648ec-bd91-4f29-9cdd-141dfddf5409</webElementGuid>
+      <webElementGuid>e2b9bbd7-3050-4d05-a295-c4fe13865e46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>BBC One</value>
-      <webElementGuid>6900a2a4-8067-42b6-9bbe-605cb1ed34dd</webElementGuid>
+      <webElementGuid>b7ce3f8d-3e91-475e-a942-374703dc588c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[26]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>97f2c35d-6db6-439b-80e3-ebe7381d2782</webElementGuid>
+      <webElementGuid>8af998fd-4cfc-4751-b13d-5728957bd95c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[26]/div/div/img</value>
-      <webElementGuid>8928018c-edff-4efd-b596-603e138e3be1</webElementGuid>
+      <webElementGuid>5722e30d-0faf-4a6f-b7ca-8834dafc03a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='BBC One']</value>
-      <webElementGuid>2955de3c-b089-4ad8-9623-09fcce7e5c64</webElementGuid>
+      <webElementGuid>e697f40d-d1d7-4d3d-8ee7-51d910dced60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[26]/div/div/img</value>
-      <webElementGuid>76793bd2-3a48-4c43-9d80-01dcb1747851</webElementGuid>
+      <webElementGuid>05ff1ac6-5724-4b72-b120-ffac4a4d93b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/bbcone.png' and @title = 'BBC One' and @alt = 'BBC One']</value>
-      <webElementGuid>b4dd3a39-97f4-4416-8bf7-61ecd9ac2a8b</webElementGuid>
+      <webElementGuid>cf9ea60b-045b-4525-baf4-f7b87da2ed57</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

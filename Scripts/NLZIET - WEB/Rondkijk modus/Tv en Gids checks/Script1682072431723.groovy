@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://app.nlziet.nl/')
 
-WebUI.click(findTestObject('Page_NLZIET  Tv  gids/button_Alle cookies accepteren'))
+WebUI.click(findTestObject('Object Repository/Page_NLZIET  Tv  gids/button_Alle cookies accepteren'))
 
 WebUI.maximizeWindow()
 
@@ -161,15 +161,59 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET  Tv  gids/
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET  Tv  gids/span_SBS6'), 'SBS6')
 
-WebUI.scrollToElement(findTestObject('Page_NLZIET  Tv  gids/Dropdown - AT5'), 0)
+WebUI.scrollToElement(findTestObject('Object Repository/Page_NLZIET  Tv  gids/Dropdown - AT5'), 0)
 
-WebUI.click(findTestObject('Page_NLZIET  Tv  gids/Dropdown - AT5'))
-
-WebUI.click(findTestObject('Object Repository/Page_NLZIET  Tv  gids/Dropdown kanalen kiezer'))
-
-WebUI.click(findTestObject('Page_NLZIET  Tv  gids/Dropdown - NPO 1'))
+WebUI.click(findTestObject('Object Repository/Page_NLZIET  Tv  gids/Dropdown - AT5'))
 
 WebUI.click(findTestObject('Object Repository/Page_NLZIET  Tv  gids/Dropdown kanalen kiezer'))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_NLZIET  Tv  gids/Dropdown - NPO 1'))
+
+WebUI.click(findTestObject('Object Repository/Page_NLZIET  Tv  gids/Dropdown kanalen kiezer'))
+
+WebUI.click(findTestObject('Object Repository/Page_NLZIET  Tv  gids/Button Primetime'))
+
+'Checked of de starttijd wordt weergegeven in de EPG'
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_NLZIET  Tv  gids/div_1754'))
+
+'Checked of de starttijd wordt weergegeven in de EPG'
+WebUI.click(findTestObject('Object Repository/Page_NLZIET  Tv  gids/div_1754'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET  Aanmelden/h2_Je bent niet ingelogd'), 'Je bent niet ingelogd')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET  Aanmelden/p_Om programmas te kijken moet je ingelogd _4796e4'), 
+    'Om programma’s te kijken moet je ingelogd zijn met je NLZIET-account.')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_NLZIET  Aanmelden/button_Nog geen account Meld je aan'), 
+    'Nog geen account? Meld je aan.')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_NLZIET  Aanmelden/Inloggen button'), 0)
+
+WebUI.click(findTestObject('Object Repository/Page_NLZIET  Aanmelden/Inloggen button'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Inloggen - NLZIET/Input veld E-mailadres'), 'frank@nlziet.nl')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Inloggen - NLZIET/Input veld wachtwoord'), 'bAEV4ngw9siEiuLZIHeEfg==')
+
+WebUI.click(findTestObject('Object Repository/Page_Inloggen - NLZIET/Inloggen button'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Inloggen - NLZIET/strong_Er is een fout in het formulier'), 
+    'Er is een fout in het formulier')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Inloggen - NLZIET/li_Ongeldige e-mailadres of wachtwoord'), 
+    'Ongeldige e-mailadres of wachtwoord')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Inloggen - NLZIET/Input veld wachtwoord'), 'LxdBhhmndicc6tGmqyJo5w==')
+
+WebUI.click(findTestObject('Object Repository/Page_Inloggen - NLZIET/Inloggen button'))
+
+WebUI.click(findTestObject('Object Repository/Page_NLZIET/button_F R A N K'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_NLZIET  Tv  gids/Logo NPO 1'), 0)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_NLZIET  Tv  gids/Button Kijk later'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_NLZIET  Tv  gids/Omschrijving programma'))
+
+WebUI.click(findTestObject('Object Repository/Page_NLZIET  Tv  gids/Sluit X button van informatie popup scherm'))
 

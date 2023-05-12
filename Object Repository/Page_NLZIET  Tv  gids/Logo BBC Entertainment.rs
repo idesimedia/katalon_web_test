@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>be09aa84-4004-41fc-bb61-c5f3c449a96c</webElementGuid>
+      <webElementGuid>5e76d68b-f832-4201-8799-87668337240c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>c1bbc0d4-b639-476c-97e0-9670c5134a91</webElementGuid>
+      <webElementGuid>5b73170a-12dd-48ca-abf5-e4635f1a4b36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/bbcentertainment.png</value>
-      <webElementGuid>558bfe1a-e5f9-4011-80b1-12d41a5c3d89</webElementGuid>
+      <webElementGuid>9b8b4aa5-dcc5-4bae-b023-9da974437048</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>BBC Entertainment</value>
-      <webElementGuid>4883eb4a-2e96-43b9-b466-f44f47921b0e</webElementGuid>
+      <webElementGuid>abfbe24d-d496-4e5b-b2d6-d1f32ad0d791</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>BBC Entertainment</value>
-      <webElementGuid>73cadc69-6464-4320-a2dd-9ea6e1c7efbc</webElementGuid>
+      <webElementGuid>2460de3f-6b06-4463-af9b-a0bf3b59014a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[29]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>a610d3fb-40c1-4a98-a558-d268f32df3dc</webElementGuid>
+      <webElementGuid>4da5749a-d75f-4f25-a3f5-9d2e4653b34a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[29]/div/div/img</value>
-      <webElementGuid>f40ef413-2e16-4e4b-8211-874f4bc9cb7a</webElementGuid>
+      <webElementGuid>90cf53e8-93ff-46a5-9afa-a3f367f14da8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='BBC Entertainment']</value>
-      <webElementGuid>f415553a-1828-4014-9444-e84d34bb7384</webElementGuid>
+      <webElementGuid>6469cae4-b48a-4ddc-8521-bc678ae39c17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[29]/div/div/img</value>
-      <webElementGuid>73cc14c0-0442-4c35-9746-24a8d7fe76c4</webElementGuid>
+      <webElementGuid>54002f30-0503-4542-9f8c-4a6552b3002c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/bbcentertainment.png' and @title = 'BBC Entertainment' and @alt = 'BBC Entertainment']</value>
-      <webElementGuid>4ee4d347-662d-442f-8837-849e0efe393a</webElementGuid>
+      <webElementGuid>2fc5046c-fd1f-4f2b-971b-cf01ce38ca62</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

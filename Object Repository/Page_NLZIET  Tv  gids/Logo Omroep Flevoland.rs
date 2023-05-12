@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>daa88632-daf7-4289-ac37-f5619bceae3b</webElementGuid>
+      <webElementGuid>5825b706-88b4-49ca-8d2f-08ce61e6f9f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>a92b47a1-603a-4409-a066-a985ffacbbdc</webElementGuid>
+      <webElementGuid>f8b75d26-115f-434a-b35a-fd3826386970</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/omroepflevoland.png</value>
-      <webElementGuid>cf31df74-2032-4e7b-8d8a-334a5aece36a</webElementGuid>
+      <webElementGuid>45f02d66-f187-4425-b7eb-5b0e8fb33cc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Omroep Flevoland</value>
-      <webElementGuid>fb68ccdb-0a63-42b8-9035-04f3f1038bf5</webElementGuid>
+      <webElementGuid>54fb3b84-29ee-40c9-af4d-e04a527621b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Omroep Flevoland</value>
-      <webElementGuid>aeaf0f66-5951-4f5c-aa16-2c666dfbc2e7</webElementGuid>
+      <webElementGuid>5b1a9e8c-15d2-4462-8438-456cf4034119</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[40]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>edd3f8fe-2ceb-4617-bc96-c3b0e81aa560</webElementGuid>
+      <webElementGuid>525fbe64-ac55-4d76-90b4-7b81b346bfed</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[40]/div/div/img</value>
-      <webElementGuid>c584056f-098c-4979-8876-307dca103c3b</webElementGuid>
+      <webElementGuid>5d791225-94d0-43da-984d-cb31ac626ad6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Omroep Flevoland']</value>
-      <webElementGuid>74cca3b2-bf86-450b-a0c6-d7ad1a50a085</webElementGuid>
+      <webElementGuid>480c40bb-3d46-4293-89fb-9ae34a420f7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[40]/div/div/img</value>
-      <webElementGuid>8f32fe3e-90b0-4f66-9f75-448f3ac4749e</webElementGuid>
+      <webElementGuid>e2759cfe-8e3c-4f9c-8a6b-7f0d160b60be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/omroepflevoland.png' and @title = 'Omroep Flevoland' and @alt = 'Omroep Flevoland']</value>
-      <webElementGuid>9d8a95e9-c773-4b86-ae5c-fced1f996656</webElementGuid>
+      <webElementGuid>ab10b0b8-a230-42b5-be4f-f493fc1573a8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

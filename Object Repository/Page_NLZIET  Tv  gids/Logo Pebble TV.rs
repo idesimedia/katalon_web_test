@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>08deb7c3-1800-40b0-8a23-c639dec0dd22</webElementGuid>
+      <webElementGuid>530b8785-abc4-445b-bd93-659f06975ac5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>29f13ff5-8aac-4374-a163-3c433b40c5a7</webElementGuid>
+      <webElementGuid>dfb481bb-995b-4bc9-bbe3-bc091be0cbd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/pebbletv.png</value>
-      <webElementGuid>4ae01885-27ee-4de3-809c-1b2363f5712a</webElementGuid>
+      <webElementGuid>e51c320b-df16-4eba-b8ef-642f43188018</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Pebble TV</value>
-      <webElementGuid>11a1f9bd-f973-4559-8c12-e5921e9fa735</webElementGuid>
+      <webElementGuid>35fee0b7-99de-410e-bb52-59807c2f843f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Pebble TV</value>
-      <webElementGuid>2b2c2161-3a4a-47b0-b987-4ea4034ec610</webElementGuid>
+      <webElementGuid>18afe208-838d-4e71-a9b2-6368eae9dfe1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[21]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>69cb2c50-6b93-438f-a746-9b60ef44f76d</webElementGuid>
+      <webElementGuid>0b03ad44-7038-406b-a0e2-949dc86ef531</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[21]/div/div/img</value>
-      <webElementGuid>45ab1e7e-7d04-4e91-b189-ebda1efb0d14</webElementGuid>
+      <webElementGuid>39a071fd-cbf2-4e91-af27-46759d5fc9a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Pebble TV']</value>
-      <webElementGuid>cb6c9f81-5371-44af-86b9-ff3c62cd7867</webElementGuid>
+      <webElementGuid>f913f921-cb19-4271-9a2a-da57501e5a1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[21]/div/div/img</value>
-      <webElementGuid>bbc72f9d-323a-4851-baba-56acf3498ef3</webElementGuid>
+      <webElementGuid>ce982f7e-215a-44a8-821e-2373ea39f3da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/pebbletv.png' and @title = 'Pebble TV' and @alt = 'Pebble TV']</value>
-      <webElementGuid>316cc4c5-11f8-4f1e-aa39-3c51a2fdc51f</webElementGuid>
+      <webElementGuid>3683c965-11ee-4103-abf9-7e37e661b6c1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

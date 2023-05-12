@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>e7392560-3666-4521-9d24-bd9dd2944761</webElementGuid>
+      <webElementGuid>fd82b457-9825-4050-bf35-57a1d064334e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>a15e18df-b57d-4c6b-92bb-fa497ce4967d</webElementGuid>
+      <webElementGuid>b63a7c6f-39e6-46ab-9534-a13797743a8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/rtvnoord.png</value>
-      <webElementGuid>3f8c7b3c-c1da-4225-b49f-04e3239d8793</webElementGuid>
+      <webElementGuid>8bc6f87f-8488-4ddb-9938-c132c5185724</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>RTV Noord</value>
-      <webElementGuid>14ee09cd-0594-42fa-b14b-90da1875a0be</webElementGuid>
+      <webElementGuid>1d223c69-4d68-4800-9041-1f7cd2da554a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>RTV Noord</value>
-      <webElementGuid>066688d2-070d-495b-8fef-8e39d2fe7ab8</webElementGuid>
+      <webElementGuid>0f91db3d-53b5-4391-89dd-2fd88f23638d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[36]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>f7d0653e-9a9d-4f84-a84c-e7956d51d3aa</webElementGuid>
+      <webElementGuid>47b501dc-d7c9-400f-bba3-297cdb7b7d69</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[36]/div/div/img</value>
-      <webElementGuid>4eae81d6-2156-431b-b0fc-a66b1e3bdcf6</webElementGuid>
+      <webElementGuid>5e2247f8-1c79-4878-976c-f89a6bb82d8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='RTV Noord']</value>
-      <webElementGuid>ccbfc0df-acf5-4343-ba5d-fee7d90125c5</webElementGuid>
+      <webElementGuid>721630a1-8608-40ce-910a-e64db5d1b977</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[36]/div/div/img</value>
-      <webElementGuid>c342611c-c127-455f-961b-8e52e014b1ba</webElementGuid>
+      <webElementGuid>ea7c5207-209e-40e9-a81b-fbf0ddbd65ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/rtvnoord.png' and @title = 'RTV Noord' and @alt = 'RTV Noord']</value>
-      <webElementGuid>c386c640-9ece-4f9c-9531-f7f561a7a5ab</webElementGuid>
+      <webElementGuid>65f8af9d-7bdf-4b3f-9f58-c2b35972e951</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

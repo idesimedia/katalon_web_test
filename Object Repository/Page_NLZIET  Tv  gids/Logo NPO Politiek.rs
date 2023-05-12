@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>1ce34df5-2ef7-4e25-94a0-aec39c4ac464</webElementGuid>
+      <webElementGuid>7efedfa5-02d4-4870-8419-0ebd78f0cb83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>797edfa7-8c55-4776-9092-63efcac67417</webElementGuid>
+      <webElementGuid>b40a6615-d176-485e-a7dd-d63f52b013fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/npopolitiek.png</value>
-      <webElementGuid>551ec89b-40a4-4d63-ad68-52a07c37c1b5</webElementGuid>
+      <webElementGuid>0e34b3e8-4d71-4b28-a2b8-1b6d024f271e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>NPO Politiek</value>
-      <webElementGuid>fb5b646d-c481-45f6-aa64-7f4c95e53a1f</webElementGuid>
+      <webElementGuid>43494456-92ca-4a8b-a318-65e91176a319</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>NPO Politiek</value>
-      <webElementGuid>421a48b5-8fbd-4cbe-9aed-f173f37cc1a1</webElementGuid>
+      <webElementGuid>d18dffad-5c8d-482e-91f1-c416e9d3d774</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[24]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>2d11d167-0477-4fbd-bb5d-416f0083c907</webElementGuid>
+      <webElementGuid>8631d2a0-e303-4e97-805e-7c25e1f56740</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[24]/div/div/img</value>
-      <webElementGuid>5353a4de-04a1-444d-afc7-c3bad0aefe8c</webElementGuid>
+      <webElementGuid>88b5dcc4-32a4-4844-a803-9a291cb920ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='NPO Politiek']</value>
-      <webElementGuid>d814e92f-152b-430b-9026-4429a3e6c0ae</webElementGuid>
+      <webElementGuid>cda676ec-c071-4934-875f-ed98f47e1740</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[24]/div/div/img</value>
-      <webElementGuid>6b6a477f-b295-4c7d-afd6-c12857f413c9</webElementGuid>
+      <webElementGuid>d8620da6-e62f-4164-9123-9a0d97e064ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/npopolitiek.png' and @title = 'NPO Politiek' and @alt = 'NPO Politiek']</value>
-      <webElementGuid>d1edef67-035f-4ede-935a-eae80e6f8fde</webElementGuid>
+      <webElementGuid>4fb66b92-1913-424b-90f1-b59ef483b3ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

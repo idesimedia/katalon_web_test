@@ -6,16 +6,15 @@
    <elementGuidId>255b3d3e-9d18-4cce-8ef3-f0717c639ead</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@title = 'NPO 3']</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/main/div/div/ul/li[3]/div/div/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@title = 'NPO 3']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>71f64b8d-b73a-4081-8446-e554657b9ec8</webElementGuid>
+      <webElementGuid>017181e6-232f-464f-aa01-c85762b99a2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>4fa52dc1-868a-4512-8148-5a378963351b</webElementGuid>
+      <webElementGuid>01ea8e82-2a7a-4d12-8565-dfdf8e766a9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +41,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/npo3.png</value>
-      <webElementGuid>9828cbd2-cc0d-4d0b-b584-983188524931</webElementGuid>
+      <webElementGuid>3ec43635-93ee-419e-9b5f-917a0000fdf3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +49,7 @@
       <name>title</name>
       <type>Main</type>
       <value>NPO 3</value>
-      <webElementGuid>1c00c8b0-2dd8-4c20-b9b4-0d9dc0a6f5c4</webElementGuid>
+      <webElementGuid>412c91f3-50ca-44e2-b5f4-31f930f76113</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +57,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>NPO 3</value>
-      <webElementGuid>f2d62d0f-ab5a-4313-9dd9-aeeaa8d4c983</webElementGuid>
+      <webElementGuid>edfd705c-dd0e-4d43-8518-5101c0838630</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[3]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>cd83e001-fb23-4494-b36d-19629e037c2d</webElementGuid>
+      <webElementGuid>0f143b52-68d1-460b-8b09-9856b40e204d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[3]/div/div/img</value>
-      <webElementGuid>f71a0fd4-a776-4896-8255-53e98ba52b4a</webElementGuid>
+      <webElementGuid>72ca9c24-f650-461d-80c6-83aa3a8e1dd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +81,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='NPO 3']</value>
-      <webElementGuid>e4346127-d5a0-4443-8021-b593c5f58499</webElementGuid>
+      <webElementGuid>c3ec2da5-e3a0-43db-9f61-fdd517c2e265</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +89,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/div/img</value>
-      <webElementGuid>c85a69b1-2558-4e91-84d9-684ca84cb118</webElementGuid>
+      <webElementGuid>be157d8f-a61b-413b-a9ca-2e5d427948cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/npo3.png' and @title = 'NPO 3' and @alt = 'NPO 3']</value>
-      <webElementGuid>ee8fd1b2-c8f3-4b11-be35-78251d05ec6c</webElementGuid>
+      <webElementGuid>7ffa8c47-ad2a-46e5-95c8-4509bd4c79b6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

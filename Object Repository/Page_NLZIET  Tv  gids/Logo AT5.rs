@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>b9a29ffa-99d8-4bb3-a62e-bd3fec3f70d8</webElementGuid>
+      <webElementGuid>5497cf4f-b47e-4d4a-a873-7c9994b201ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>0f366364-3021-4858-b77b-641cb6fdf00f</webElementGuid>
+      <webElementGuid>70bf99ec-0f78-440f-8739-737d8c8d493c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/at5.png</value>
-      <webElementGuid>e706a84f-d1dc-4f1c-bfc0-62333c8cead7</webElementGuid>
+      <webElementGuid>fc9f9a96-bfdf-4095-87bf-aad177916deb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>AT5</value>
-      <webElementGuid>f7622747-0597-4d2a-84d8-30cfc2c029fe</webElementGuid>
+      <webElementGuid>ba7815aa-9df8-4056-b0c8-7ee07cf7b8c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>AT5</value>
-      <webElementGuid>87fbb887-610c-40ea-90da-1109cf061fd5</webElementGuid>
+      <webElementGuid>864df540-3a20-444b-9e1f-fbf084b78205</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[48]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>a2dbe8fc-3d57-4cda-a55d-ffb82caebcd8</webElementGuid>
+      <webElementGuid>467160b4-acb7-4add-8682-03edadd81d11</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[48]/div/div/img</value>
-      <webElementGuid>8c295f74-ecee-4b80-b986-f28f9acf2b94</webElementGuid>
+      <webElementGuid>5f89ba33-08fd-4431-a2bf-9a9193e2324e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='AT5']</value>
-      <webElementGuid>266f1f67-bec5-4f36-9a17-801ec1e3aac6</webElementGuid>
+      <webElementGuid>eace53b5-d315-4452-8959-2ad29fb72f3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[48]/div/div/img</value>
-      <webElementGuid>d58e4e43-95a2-475d-9e0d-82ed82db2723</webElementGuid>
+      <webElementGuid>1aae39b5-42f4-485b-9b86-122483756d16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/at5.png' and @title = 'AT5' and @alt = 'AT5']</value>
-      <webElementGuid>2b797e8d-90a5-4611-8124-09986360ebc6</webElementGuid>
+      <webElementGuid>4ec048ad-2342-4e57-b4f6-4bc615206231</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

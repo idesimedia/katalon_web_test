@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>4dd67965-6fb3-40b3-903f-da84ffe4c5e2</webElementGuid>
+      <webElementGuid>96c87913-ac2b-4965-bc50-09e6a376020d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>5d560181-ba1b-44d8-baad-fde92f22be53</webElementGuid>
+      <webElementGuid>68bbd903-5695-4b8b-9942-c0068e865b80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/canvas.png</value>
-      <webElementGuid>686e8172-b29f-4163-b9bc-1514efccf590</webElementGuid>
+      <webElementGuid>7c2b6468-2826-49f5-bfc7-55f59145fe1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Canvas</value>
-      <webElementGuid>2fe17c97-b317-4c8b-8e31-afeae9d4e377</webElementGuid>
+      <webElementGuid>62280498-e772-4a95-afa0-db335ff8642b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Canvas</value>
-      <webElementGuid>19ea50fb-1675-4672-9ccd-69bdb2cb77eb</webElementGuid>
+      <webElementGuid>e789e5b4-577d-4d29-b9c2-fb8c524571e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[15]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>5cfdc96b-7482-445b-bf5b-eab1c5872542</webElementGuid>
+      <webElementGuid>2b30e9fd-4ed8-4c1b-aecd-bbc4edbe2384</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[15]/div/div/img</value>
-      <webElementGuid>5700efae-cf78-487b-9ad3-c915270c926d</webElementGuid>
+      <webElementGuid>2c530386-ccc4-4d3f-9f69-b7e9590fb143</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>(//img[@alt='Canvas'])[2]</value>
-      <webElementGuid>773ba603-4864-4cab-a6d1-358870bab2e8</webElementGuid>
+      <webElementGuid>1b671c78-daa4-46c0-a597-128964bfcb48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[15]/div/div/img</value>
-      <webElementGuid>817f8e53-f7c5-49ad-8c64-9d250b4040dd</webElementGuid>
+      <webElementGuid>b10d90ed-4550-4b7c-b41a-35c7eabf3fc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/canvas.png' and @title = 'Canvas' and @alt = 'Canvas']</value>
-      <webElementGuid>003915ef-6824-4f04-8ccf-cd082d57e48d</webElementGuid>
+      <webElementGuid>ae8b795f-bc93-48d0-ab30-43b1c86c98c5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

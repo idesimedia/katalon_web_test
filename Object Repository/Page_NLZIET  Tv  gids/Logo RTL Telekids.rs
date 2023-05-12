@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>9e701e9d-56c6-4ffe-9ace-a7eebc354d8d</webElementGuid>
+      <webElementGuid>88e65273-3041-40cf-930c-c74b6bdf4f9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>dd041497-b677-4c13-ba23-9c2e71002daf</webElementGuid>
+      <webElementGuid>21ffed9f-3e6c-413b-ab29-bd9cf87c6bdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/rtltelekids.png</value>
-      <webElementGuid>ff21686d-65d4-4ea2-8736-51b4e946443c</webElementGuid>
+      <webElementGuid>c2eec256-9db3-413e-8ae0-5e9605f9fe21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>RTL Telekids</value>
-      <webElementGuid>289af560-ca6f-4163-adcf-85c273bcaffa</webElementGuid>
+      <webElementGuid>c9301765-f0a7-40e7-a3a7-f175dbe91987</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>RTL Telekids</value>
-      <webElementGuid>dc7802d2-b214-4328-b4c1-7feda68a35f9</webElementGuid>
+      <webElementGuid>52c6ec42-02fa-4348-89f2-790ab5436034</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[20]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>d45aca38-235d-44ba-8141-db20199169db</webElementGuid>
+      <webElementGuid>d7d25ba9-e470-4bf9-9b1b-882bf1b98543</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[20]/div/div/img</value>
-      <webElementGuid>894e7d4b-e50a-4c93-a3e0-1ed37811016b</webElementGuid>
+      <webElementGuid>8300ae50-0761-49c1-9828-b3219e621272</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='RTL Telekids']</value>
-      <webElementGuid>92ab5647-56da-42f0-bf1c-7597bc5cbaf9</webElementGuid>
+      <webElementGuid>72413025-57d5-4980-ac46-e6db87c71e29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[20]/div/div/img</value>
-      <webElementGuid>cb07b7b0-db59-474e-9623-5083f0bd0c71</webElementGuid>
+      <webElementGuid>36b115b8-f71b-4ec4-a87a-877715b34cda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/rtltelekids.png' and @title = 'RTL Telekids' and @alt = 'RTL Telekids']</value>
-      <webElementGuid>bd523f66-3346-4f70-86f6-7b369dc082b2</webElementGuid>
+      <webElementGuid>e001da35-fa98-4bf6-9741-64974c825432</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

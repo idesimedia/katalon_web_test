@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>c237f0d7-b908-4b83-bf03-9c84dac743cf</webElementGuid>
+      <webElementGuid>fa2d7e12-1299-448c-b577-4d8ad9aa52e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>36e1496b-dfb5-434b-af74-467281a630f1</webElementGuid>
+      <webElementGuid>baec0bf0-1167-4008-80e3-f7d7b0a2a167</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/rtl8.png</value>
-      <webElementGuid>e5e70f02-2cce-44e4-af0f-508f0f00d261</webElementGuid>
+      <webElementGuid>981cb76e-420b-4657-9eaf-4656157e1341</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>RTL 8</value>
-      <webElementGuid>792216d2-97dc-4504-bd92-cadca73e3361</webElementGuid>
+      <webElementGuid>75dde815-bb3a-4c4b-85b8-56729292fec3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>RTL 8</value>
-      <webElementGuid>24407846-6580-4bb6-a990-9d07c68c9829</webElementGuid>
+      <webElementGuid>734100d4-09bf-495f-b7ed-c13d2019f909</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[10]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>289bb7ab-a65e-490c-ace0-722edf223cf1</webElementGuid>
+      <webElementGuid>20e0d366-be11-4e00-8b92-8cca6c188bfe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[10]/div/div/img</value>
-      <webElementGuid>51e28c07-6412-4822-830e-9ceda90a628a</webElementGuid>
+      <webElementGuid>79b64a22-f035-4876-afbf-f06b7623abae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='RTL 8']</value>
-      <webElementGuid>e51a1274-63e8-4857-a92b-7d8a5dd6171d</webElementGuid>
+      <webElementGuid>3b8b293b-2ebe-4710-9e64-82711ad843c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[10]/div/div/img</value>
-      <webElementGuid>0c8e99ae-bbcb-4d58-9a89-6b45d29491e5</webElementGuid>
+      <webElementGuid>49c270c7-0455-4582-9e11-a393c0fa8716</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/rtl8.png' and @title = 'RTL 8' and @alt = 'RTL 8']</value>
-      <webElementGuid>74a9bf39-fb3f-4d11-b1e0-9a50230de375</webElementGuid>
+      <webElementGuid>5b6fe29a-d8f8-4173-bddc-f706b7f194ea</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

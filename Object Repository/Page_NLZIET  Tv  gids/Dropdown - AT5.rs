@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>5fe20a99-14d0-467c-ac41-45617052a342</webElementGuid>
+      <webElementGuid>dd633580-1d59-4250-82e1-d037f0e11539</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fNXpq</value>
-      <webElementGuid>74c3c856-7022-4672-9761-d109590d5204</webElementGuid>
+      <webElementGuid>5879690e-a6fe-4e24-b0e7-7cded942de56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>AT5</value>
-      <webElementGuid>9c0e1b19-52df-4b79-be6b-f8765fc3563c</webElementGuid>
+      <webElementGuid>ca665305-447d-43f2-910b-4dc16f4b169d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/nav[@class=&quot;LS3wy&quot;]/div[@class=&quot;JTPbn&quot;]/div[@class=&quot;_0nfEU&quot;]/div[@class=&quot;D6fTg&quot;]/div[@class=&quot;B77d0&quot;]/span[1]/button[@class=&quot;ncw4h&quot;]/div[@class=&quot;G7jhL&quot;]/p[@class=&quot;_2-VvZ&quot;]/span[@class=&quot;fNXpq&quot;]</value>
-      <webElementGuid>5519cc40-a92a-4edd-a6ec-1f892eecd4cb</webElementGuid>
+      <webElementGuid>51ebea0c-fe2e-4cd7-8f66-825b9b03178b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/nav/div[4]/div/div[2]/div/span/button[48]/div/p/span</value>
-      <webElementGuid>f356bfdd-4b5a-4986-9ae6-1a576e01011a</webElementGuid>
+      <webElementGuid>4c409091-844b-4887-acdd-301c8a853394</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='L1 TV'])[1]/following::span[1]</value>
-      <webElementGuid>c4a5cc38-1b51-4775-80ff-a87ed3a549d0</webElementGuid>
+      <webElementGuid>37087f86-99b5-462e-b91e-b5f2af5959fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Omroep Brabant'])[1]/following::span[2]</value>
-      <webElementGuid>6a25e172-f9e0-44d4-adbc-67eb499b22ac</webElementGuid>
+      <webElementGuid>7399f576-ff9f-47a6-8fab-75578862f57e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NOS Journaal'])[1]/preceding::span[1]</value>
-      <webElementGuid>34b1c54e-b3e8-4c23-9219-9fc64ac021c5</webElementGuid>
+      <webElementGuid>c4dddacf-38d1-4f54-b342-f4c8748bc0b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EenVandaag'])[1]/preceding::span[1]</value>
-      <webElementGuid>952ec7c8-c9e8-4afa-b331-6e59c5c18339</webElementGuid>
+      <webElementGuid>0130e22e-2c41-4f07-ad4b-470763c5360c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='AT5']/parent::*</value>
-      <webElementGuid>562dd1dd-229f-4ae3-bdb7-ce4502baf894</webElementGuid>
+      <webElementGuid>e2fc0fd7-9508-4d82-9d98-4ef9f6bd5762</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[48]/div/p/span</value>
-      <webElementGuid>26460c1b-d0ac-463c-899e-3f334b9f6995</webElementGuid>
+      <webElementGuid>489e9367-70f7-44de-83fe-2ae96614cbc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'AT5' or . = 'AT5')]</value>
-      <webElementGuid>7eb0bc22-d527-4313-8a39-cb7a1e83f4d8</webElementGuid>
+      <webElementGuid>5a259743-c9dc-4297-92c2-a7cc057028af</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

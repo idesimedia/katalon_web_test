@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>ee96312b-286c-4099-8421-a8533f455883</webElementGuid>
+      <webElementGuid>4a3debf1-4c7c-4703-bc4e-a3b6ae449c14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>R1KLd</value>
-      <webElementGuid>2ea54e4c-f2ab-4e42-986c-8bb67093fd7e</webElementGuid>
+      <webElementGuid>f8025393-3823-46e3-aa2e-cb5c564609e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://cdn.nlziet.nl/static/assets/channels/sbs9.png</value>
-      <webElementGuid>f9462314-9e2b-4c13-9df9-8551ee124604</webElementGuid>
+      <webElementGuid>44a9ed2f-75d9-4b1e-b561-850bf0f9a13b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>SBS9</value>
-      <webElementGuid>aafdf0cf-e4e6-4ff9-af9c-f5ab06123109</webElementGuid>
+      <webElementGuid>e72cccc8-c96d-44be-8231-435d38f6683d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>SBS9</value>
-      <webElementGuid>3a1647e6-ef38-40f3-b87a-9673ad309286</webElementGuid>
+      <webElementGuid>99f18dbc-2ff7-47e9-81e9-d4dfc95f52d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/div[@class=&quot;dCx4m&quot;]/ul[@class=&quot;_1fJOR&quot;]/li[12]/div[@class=&quot;WfofP&quot;]/div[@class=&quot;yNHua&quot;]/img[@class=&quot;R1KLd&quot;]</value>
-      <webElementGuid>57b43ed6-6d31-4747-a386-da07ba01669b</webElementGuid>
+      <webElementGuid>03aef501-31ea-4059-b42b-2d835d03f1b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div/ul/li[12]/div/div/img</value>
-      <webElementGuid>05d7b2b3-cd90-4f6a-8e21-87c5a601f743</webElementGuid>
+      <webElementGuid>d6635982-cdfc-477d-ba88-ebde84cdc51c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>(//img[@alt='SBS9'])[2]</value>
-      <webElementGuid>348f98ca-9374-411e-9c89-a42e6004c6d2</webElementGuid>
+      <webElementGuid>5425c4bf-bcb4-4add-b3eb-599fc50e12ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[12]/div/div/img</value>
-      <webElementGuid>ab251a45-5fa5-45e3-81fb-e7c17e59e8c9</webElementGuid>
+      <webElementGuid>299d5407-5250-4586-8f52-4120bde29fdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://cdn.nlziet.nl/static/assets/channels/sbs9.png' and @title = 'SBS9' and @alt = 'SBS9']</value>
-      <webElementGuid>d7dcd009-69b0-435e-ba43-d8814622e377</webElementGuid>
+      <webElementGuid>34e287a1-ad57-4a62-87e5-faae631a4bc2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

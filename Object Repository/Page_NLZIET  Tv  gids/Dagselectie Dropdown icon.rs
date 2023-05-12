@@ -6,16 +6,16 @@
    <elementGuidId>f9dcd711-7401-48bf-9f84-34926ce2e28d</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/nav[@class=&quot;LS3wy&quot;]/div[@class=&quot;_0nfEU&quot;]/div[@class=&quot;Ws6ad&quot;]/span[@class=&quot;Cfqky&quot;]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/main/div/nav/div/div/span</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>span.Cfqky</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/nav[@class=&quot;LS3wy&quot;]/div[@class=&quot;_0nfEU&quot;]/div[@class=&quot;Ws6ad&quot;]/span[@class=&quot;Cfqky&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>001415b9-1af4-4b3d-8d14-5143f7cc7959</webElementGuid>
+      <webElementGuid>9dd7e505-1fab-4658-95b2-26d3fe6e6346</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Cfqky</value>
-      <webElementGuid>74d13c6c-491e-4a21-83a3-6596dc436ba5</webElementGuid>
+      <webElementGuid>ba03cc83-f466-4155-b3de-83cbd6a9570b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/nav[@class=&quot;LS3wy&quot;]/div[@class=&quot;_0nfEU&quot;]/div[@class=&quot;Ws6ad&quot;]/span[@class=&quot;Cfqky&quot;]</value>
-      <webElementGuid>94e7a5b2-dc61-4e28-b720-65d4f7f2e67d</webElementGuid>
+      <webElementGuid>cf72b8b4-54a2-47c0-9acf-5bff70e1217d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/nav/div/div/span</value>
-      <webElementGuid>2e5f16b2-1278-4804-848d-304ab07dc963</webElementGuid>
+      <webElementGuid>59179212-68ed-4320-af79-8b02bcccf9e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -58,6 +58,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span</value>
-      <webElementGuid>4ac3b753-d21f-4585-ad27-efaa8d48d19b</webElementGuid>
+      <webElementGuid>7237c364-601c-4df2-9afc-daf19df2c234</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

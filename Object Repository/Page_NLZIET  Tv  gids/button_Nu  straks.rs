@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>78a9d7fc-4d32-4e04-9940-3c6e8d5e7a56</webElementGuid>
+      <webElementGuid>d0ee4edc-a5b2-45f3-8629-a8152b6e79bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3320a28c-2325-4344-bf6a-90797be29664</webElementGuid>
+      <webElementGuid>8addded1-3c94-41df-92bd-6fef90bbf6e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Selecteer tijdvak Nu en straks</value>
-      <webElementGuid>08549307-48f7-4eff-80b6-52f6c7205d68</webElementGuid>
+      <webElementGuid>285e1489-7c0c-4342-9882-9f21ac26b810</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>kB1Xz</value>
-      <webElementGuid>00290e3f-e346-402e-a2ec-e9417ebcca79</webElementGuid>
+      <webElementGuid>02d1c7ae-9458-4425-894b-7f0c08351081</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Nu &amp; straks</value>
-      <webElementGuid>d503a045-1fca-4801-a40e-a406b701c657</webElementGuid>
+      <webElementGuid>c846f73e-1c2c-4fbd-a7b1-301509933196</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;RK2ul&quot;]/nav[@class=&quot;LS3wy&quot;]/div[@class=&quot;oAddb&quot;]/section[@class=&quot;bLCy0&quot;]/button[@class=&quot;kB1Xz&quot;]</value>
-      <webElementGuid>27b18d26-685f-46b5-8d54-f25b15e0190b</webElementGuid>
+      <webElementGuid>a28a7620-6dd4-460f-9c18-da211815c2e6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>f085e8ec-4286-40af-ab1d-8e9e4076c9cc</webElementGuid>
+      <webElementGuid>f28cde6d-af55-4b69-b42e-1899cf150804</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/nav/div[2]/section/button</value>
-      <webElementGuid>d8d3e1f7-7bfc-4620-a921-4081b0e89dea</webElementGuid>
+      <webElementGuid>16646cc5-75d2-4ad6-9014-b482fd9b6787</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vandaag'])[1]/following::button[1]</value>
-      <webElementGuid>a808b2b9-7eed-43fa-9eb1-0c7b698d8872</webElementGuid>
+      <webElementGuid>f7367025-72d9-4aee-946b-e796a2d510ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mijn series'])[2]/following::button[2]</value>
-      <webElementGuid>9d0fe147-e5a8-4827-a263-418d1214d47a</webElementGuid>
+      <webElementGuid>dacc602b-9a30-4722-8c82-c7a1119366d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Primetime'])[1]/preceding::button[1]</value>
-      <webElementGuid>78b02404-e5bb-4c2a-8721-699c36a995e5</webElementGuid>
+      <webElementGuid>cc9ea724-fc2e-4f57-bf36-578865f73f2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NPO 1'])[1]/preceding::button[2]</value>
-      <webElementGuid>0a2308d4-031d-4f0e-be64-ab86b7f2a9fc</webElementGuid>
+      <webElementGuid>3b509273-7459-495a-97ca-d60f9861e2b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Nu &amp; straks']/parent::*</value>
-      <webElementGuid>9e23baf3-f4f6-4481-898e-bdce42511b6e</webElementGuid>
+      <webElementGuid>b2378a20-2b9d-44bf-ae00-ca921992b5c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/button</value>
-      <webElementGuid>78f8daf9-7be1-4781-9aed-5e53e3215ade</webElementGuid>
+      <webElementGuid>81a461a1-05d9-49d4-bc01-3a3f5930a959</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Nu &amp; straks' or . = 'Nu &amp; straks')]</value>
-      <webElementGuid>88cc0919-74cf-4224-b51c-132d3f0cb37f</webElementGuid>
+      <webElementGuid>863a75f6-3455-4f99-a62c-268f39bded16</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
