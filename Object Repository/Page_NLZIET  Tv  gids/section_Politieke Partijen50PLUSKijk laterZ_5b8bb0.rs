@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_Politieke Partijen50PLUSKijk laterZ_5b8bb0</name>
+   <tag></tag>
+   <elementGuidId>47dad535-aafc-4c9e-86c3-23cead161450</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/div/section</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.gYjx2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>19857606-3260-4bfc-88b0-2eab83c63037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>13f383b0-0d67-4eec-bad5-908c4de79118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Extra informatie scherm geopend</value>
+      <webElementGuid>338bc4e9-7fea-4332-9f44-5240e73613e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gYjx2</value>
+      <webElementGuid>e6fb8662-6ecd-4a95-89fd-11002dba6a3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Politieke Partijen50PLUSKijk laterZendtijd voor politieke partijen in Nederland.InformatiefPolitieke Partijen</value>
+      <webElementGuid>61ff2a75-65de-4c41-a0eb-a390f5a6ff27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;Yj-98&quot;]/section[@class=&quot;gYjx2&quot;]</value>
+      <webElementGuid>74c98493-f75e-4dfb-b9cf-29f2db97f0d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/section</value>
+      <webElementGuid>2480b12a-7f46-4e2b-8e20-4e984b475f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lees hier welke browsers er worden ondersteund'])[1]/following::section[1]</value>
+      <webElementGuid>01d79258-4af7-497d-9628-c7a09c45a784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Je browser wordt helaas niet meer ondersteund.'])[1]/following::section[1]</value>
+      <webElementGuid>bfe8b70a-9f3d-4945-b618-c1def1aaae99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section</value>
+      <webElementGuid>e29a5a83-8bf9-48ca-9c00-732b75b2b242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'Politieke Partijen50PLUSKijk laterZendtijd voor politieke partijen in Nederland.InformatiefPolitieke Partijen' or . = 'Politieke Partijen50PLUSKijk laterZendtijd voor politieke partijen in Nederland.InformatiefPolitieke Partijen')]</value>
+      <webElementGuid>aec98929-bef4-48a8-bf9f-76289e6596cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

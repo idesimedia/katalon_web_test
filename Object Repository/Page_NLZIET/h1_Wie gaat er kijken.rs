@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Wie gaat er kijken</name>
+   <tag></tag>
+   <elementGuidId>416715eb-7a99-4635-9623-c57162a83362</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/section/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.NIXWc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>17895dc4-e52b-40bf-9e71-38ddf18fc3a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>NIXWc</value>
+      <webElementGuid>661363d7-aac4-472d-8eff-4fd1f907206e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wie gaat er kijken?</value>
+      <webElementGuid>d0525ac4-0c35-4ad2-a577-172d0b6f998b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;n7wtA&quot;]/h1[@class=&quot;NIXWc&quot;]</value>
+      <webElementGuid>823bb76d-2bc3-46ee-aecf-78730da42ad6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/section/h1</value>
+      <webElementGuid>7de6fb5c-5f11-498f-9895-9c01630645df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lees hier welke browsers er worden ondersteund'])[1]/following::h1[1]</value>
+      <webElementGuid>acbf04de-164c-47e0-857c-db59fdda20e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Je browser wordt helaas niet meer ondersteund.'])[1]/following::h1[1]</value>
+      <webElementGuid>b7b8fc96-5016-4051-8ba8-b9d4701d22c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Algemene voorwaarden'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c8965cb6-87e0-4da4-8d13-9b4139abdccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy &amp; cookies'])[1]/preceding::h1[1]</value>
+      <webElementGuid>fdaa6311-5cac-4752-8b8e-ff04f60b0f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wie gaat er kijken?']/parent::*</value>
+      <webElementGuid>ba7ebccd-572c-47ec-959d-9872c3b903f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/h1</value>
+      <webElementGuid>5486e11f-9fc7-4c5f-9084-777ad02dd1d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Wie gaat er kijken?' or . = 'Wie gaat er kijken?')]</value>
+      <webElementGuid>3e22c346-4fc0-435e-b0af-e4e27c5dd5d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
