@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Idioten Op De Weg_Xn0kv</name>
+   <name>NPO Logo</name>
    <tag></tag>
-   <elementGuidId>38d1c100-86e0-4967-9553-6cf3c88020c4</elementGuidId>
+   <elementGuidId>eae1c50f-3e71-4c12-b4e7-060729f4c6dd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[10]/a</value>
+         <key>CSS</key>
+         <value>img.loky3</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section[2]/ul/li/a/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,71 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>5cf5cbc9-1502-4508-9e97-5f0d8d6be054</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
-      <type>Main</type>
-      <value>Nu live op Veronica: Amphibia. Daarna Groen in de Grote Stad om 12:45.</value>
-      <webElementGuid>c9a9dc6c-42e9-40d4-868e-ec1554373706</webElementGuid>
+      <value>img</value>
+      <webElementGuid>da626bad-acd0-4bd7-80bb-509ce072223b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>Xn0kv</value>
-      <webElementGuid>e801c64f-1a72-4091-807f-c07d693fad04</webElementGuid>
+      <value>loky3</value>
+      <webElementGuid>e8c74c5b-d0a1-45a6-bf6b-a25ae65b6ea6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>src</name>
       <type>Main</type>
-      <value>/live/veronica</value>
-      <webElementGuid>f72efe7c-f62c-4f7f-aff5-3a1cd6178e9c</webElementGuid>
+      <value>https://images.nlziet.nl//static/assets/contentproviders/flat/npo.svg</value>
+      <webElementGuid>71c00618-5b53-48e5-b9c0-ac05709d4532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>npo</value>
+      <webElementGuid>a36d53da-f31d-478c-af9b-f92fa5c178ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/div[@class=&quot;M0CZm&quot;]/div[@class=&quot;Wft7u&quot;]/ul[@class=&quot;wXh5F&quot;]/li[@class=&quot;qh3dC _6IcZj&quot;]/a[@class=&quot;Xn0kv&quot;]</value>
-      <webElementGuid>a9cf62de-0b99-435a-b265-e23ad8c1309a</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;_0eIXV&quot;]/ul[@class=&quot;H72Ol&quot;]/li[@class=&quot;_4lOiO&quot;]/a[@class=&quot;P9fEf&quot;]/img[@class=&quot;loky3&quot;]</value>
+      <webElementGuid>7105daa0-4779-4b6c-b792-e9684c0cc998</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[10]/a</value>
-      <webElementGuid>a5e2f91c-2d1a-4ee0-a6e0-d0852140ed79</webElementGuid>
+      <value>//div[@id='root']/div/main/div/section[2]/ul/li/a/img</value>
+      <webElementGuid>54e27774-3434-4be6-bb5d-7917497fa05e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:img</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/live/veronica')]</value>
-      <webElementGuid>d8f7f27a-c08d-434d-8ac7-3123856f39e1</webElementGuid>
+      <value>//img[@alt='npo']</value>
+      <webElementGuid>1a823b7f-1f2a-4482-aeb1-48e03b208ed8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[10]/a</value>
-      <webElementGuid>a0dc4b67-d2fb-4244-86f3-8692c09716da</webElementGuid>
+      <value>//a/img</value>
+      <webElementGuid>c75e6c32-7ae2-464c-a54f-d060b91c421d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/live/veronica']</value>
-      <webElementGuid>681c67e2-3e2f-44c1-b85d-33672d0e531b</webElementGuid>
+      <value>//img[@src = 'https://images.nlziet.nl//static/assets/contentproviders/flat/npo.svg' and @alt = 'npo']</value>
+      <webElementGuid>64e1951b-9ec9-43b4-8618-7e9cdfd38f11</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

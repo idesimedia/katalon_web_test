@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>svg_Aflevering 8_L71ZH</name>
+   <name>svg_NOS Journaal_L71ZH</name>
    <tag></tag>
-   <elementGuidId>bd7d8451-acfb-4019-9870-7ed322e53683</elementGuidId>
+   <elementGuidId>8033d824-67bf-474a-9df7-0d8ab31a0afa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Aflevering 8'])[1]/following::*[name()='svg'][2]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='NOS Journaal'])[2]/following::*[name()='svg'][1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>d48047f9-2537-4e49-a08e-8118e99b6486</webElementGuid>
+      <webElementGuid>ac3a0300-c990-4767-bf4d-ec7fd985197a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>width</name>
       <type>Main</type>
       <value>24</value>
-      <webElementGuid>c6c72859-3aa5-492b-9347-13b6089363df</webElementGuid>
+      <webElementGuid>18dd51b3-68e2-433b-8e31-de13987b7c6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>height</name>
       <type>Main</type>
       <value>24</value>
-      <webElementGuid>0793a454-d9d6-4e51-bf3e-48280d3ed346</webElementGuid>
+      <webElementGuid>f1156614-af8d-4087-89f6-7d47a9014cb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 24 24</value>
-      <webElementGuid>ae7980ba-a604-4019-b0b2-1386f80bf66d</webElementGuid>
+      <webElementGuid>6663d659-ece9-4a3a-9db3-e037486af348</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>f4e0214c-04e0-400a-90a9-f4c718a18349</webElementGuid>
+      <webElementGuid>47d67c74-d8d7-405f-9dc8-59079948800d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>b51cc549-7e64-4930-ac72-c0d818f65344</webElementGuid>
+      <webElementGuid>84def4bb-bcea-48b9-b793-2bb8f294cb78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>L71ZH</value>
-      <webElementGuid>63af911a-0a78-4a5e-ba3a-bb91df9c326a</webElementGuid>
+      <webElementGuid>635b28cd-5b7e-4df4-b6c4-c5e98953b754</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,38 +78,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[@class=&quot;_5CuVX&quot;]/div[@class=&quot;jk3Gn&quot;]/header[@class=&quot;RPZ7L yrqsB&quot;]/button[@class=&quot;J9be6&quot;]/svg[@class=&quot;L71ZH&quot;]</value>
-      <webElementGuid>02746367-b21f-4cba-90d0-bce8b2754484</webElementGuid>
+      <webElementGuid>c9ea22d4-807b-4237-a41e-778f74350db6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aflevering 8'])[1]/following::*[name()='svg'][2]</value>
-      <webElementGuid>16eae797-2d3a-4513-9bd5-bb5f6586bf08</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOS Journaal'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>31c0c78c-ca9a-4baa-8d5b-c84e1954db67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vandaag Inside'])[1]/following::*[name()='svg'][2]</value>
-      <webElementGuid>ebb5be0a-e511-45ac-9b85-ecdf907eddfa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOS Journaal'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>b7dec838-a0a5-4611-aaba-fa9e9bb6890d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voorkeurenmenu'])[1]/preceding::*[name()='svg'][7]</value>
-      <webElementGuid>0abcfbcf-ccc7-47aa-96e6-1fa0f7f82023</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOS Journaal'])[3]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>830dcb37-d5fb-4e9b-a4a9-74945fa6c52f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meer informatie'])[1]/preceding::*[name()='svg'][7]</value>
-      <webElementGuid>47c9effc-c83d-41bf-96ac-4a45c0117a99</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oppassen!!!'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>a376bda9-cdd9-41c6-9cf0-86f29b9e9ff3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

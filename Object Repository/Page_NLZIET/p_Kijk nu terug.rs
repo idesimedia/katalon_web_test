@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Kijk nu terug</name>
+   <tag></tag>
+   <elementGuidId>35a79047-8b8c-4a4d-bfe5-4f1738dbf7d7</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section/div/div/ul/li[2]/a/div[3]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ee4f4129-78b4-46f5-9cdb-0342172e9aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>CbCfg</value>
+      <webElementGuid>c7fd32fb-9773-47f2-9492-1e9f58c12f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kijk nu terug</value>
+      <webElementGuid>3d562a85-f18b-44b8-af15-44b75b065024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/div[@class=&quot;M0CZm&quot;]/div[@class=&quot;Wft7u&quot;]/ul[@class=&quot;wXh5F&quot;]/li[@class=&quot;-pvXj _6IcZj&quot;]/a[@class=&quot;LcxOm&quot;]/div[@class=&quot;m6860&quot;]/p[@class=&quot;CbCfg&quot;]</value>
+      <webElementGuid>c87d65dd-714a-438e-9c7c-b9a9eacded25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/section/div/div/ul/li[2]/a/div[3]/p</value>
+      <webElementGuid>ee61353c-7965-4086-812b-0cccd7c11dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monchhichi'])[1]/following::p[2]</value>
+      <webElementGuid>5e580781-c062-4123-bc49-d5a0360b4c29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mijn series'])[2]/following::p[4]</value>
+      <webElementGuid>7a66cda4-6109-4635-9b8d-be07367551f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Good Doctor'])[1]/preceding::p[5]</value>
+      <webElementGuid>e659099f-097e-4f28-813e-0255ed863acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Border Patrol'])[1]/preceding::p[8]</value>
+      <webElementGuid>239798f4-aea9-4e53-9797-45046add3473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div[3]/p</value>
+      <webElementGuid>de38a995-143b-4bbe-beb6-ce49a170b996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Kijk nu terug' or . = 'Kijk nu terug')]</value>
+      <webElementGuid>dec80bfb-ef93-424e-93fd-7a07cff5c1c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

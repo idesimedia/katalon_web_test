@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Live SBS6</name>
+   <tag></tag>
+   <elementGuidId>abd94ada-17af-4e02-acb4-5a41cdec504b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[8]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>74817950-60b3-4167-9284-caedfedea418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Nu live op SBS6: Droomhuis op het Platteland. Daarna Een Jaar Van Je Leven om 13:17.</value>
+      <webElementGuid>e33e59e1-186a-41b2-b4dc-79be9d4e7e7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Xn0kv</value>
+      <webElementGuid>e7316395-a304-4963-b75a-ebed3d0d59f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/live/sbs6</value>
+      <webElementGuid>128a00a6-6365-4757-9701-470b791af422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/div[@class=&quot;M0CZm&quot;]/div[@class=&quot;Wft7u&quot;]/ul[@class=&quot;wXh5F&quot;]/li[@class=&quot;qh3dC _6IcZj&quot;]/a[@class=&quot;Xn0kv&quot;]</value>
+      <webElementGuid>b92f43ec-ee3b-4f9f-86d1-7a5d39598e5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[8]/a</value>
+      <webElementGuid>94e2088d-b3f3-4856-bfe3-ada528ad6dcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/live/sbs6')]</value>
+      <webElementGuid>120e780a-aa6a-465e-a6a2-e7ddad849352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a</value>
+      <webElementGuid>18f675c7-cfdc-453d-946a-f8fd48d9c33c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/live/sbs6']</value>
+      <webElementGuid>57255a50-a3ec-4aa3-9283-e522aca954ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

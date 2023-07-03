@@ -6,12 +6,12 @@
    <elementGuidId>45ab1651-3bcc-44d0-acf4-222836dd5725</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='primary-container']/div/div/ul/li</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.danger.validation-summary-errors > ul > li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='primary-container']/div/div/ul/li</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,34 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>435f87bc-1c1a-4499-98f9-66d56e4e1fd9</webElementGuid>
+      <webElementGuid>48fd2345-0203-4438-82d4-9a81959415a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ongeldige e-mailadres of wachtwoord</value>
+      <webElementGuid>d4d328ee-1907-4e59-81bd-0c2d5f6f2328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;primary-container&quot;)/div[@class=&quot;alert alert-danger&quot;]/div[@class=&quot;danger validation-summary-errors&quot;]/ul[1]/li[1]</value>
+      <webElementGuid>b0f15ce7-2c4f-44ef-841b-4fcf968c32a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>435f87bc-1c1a-4499-98f9-66d56e4e1fd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -46,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='primary-container']/div/div/ul/li</value>
-      <webElementGuid>dc1405e7-d071-4dce-afe8-d7907c5bd8fe</webElementGuid>
+      <webElementGuid>0e7885f5-80bf-4af9-b618-28052107a24c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Er is een fout in het formulier'])[1]/following::li[1]</value>
-      <webElementGuid>32c56e3e-986d-4515-8315-5638f64d8167</webElementGuid>
+      <webElementGuid>bc014b92-35a2-4689-b201-e90f0bdbb152</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inloggen'])[1]/following::li[1]</value>
-      <webElementGuid>b61bc9c7-a7b6-4da3-88d6-e7859de4d3dd</webElementGuid>
+      <webElementGuid>33293d2b-3249-4123-b893-28a3f89608a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mailadres'])[1]/preceding::li[1]</value>
-      <webElementGuid>0d9d7ea0-2c96-4046-acfe-c63864c22ddc</webElementGuid>
+      <webElementGuid>0e740fd6-49a9-4f02-a932-a4d861fd8b66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Wachtwoord'])[1]/preceding::li[1]</value>
-      <webElementGuid>f57a6cac-c993-444a-9bbc-fda45614e2e8</webElementGuid>
+      <webElementGuid>f727316a-4b39-44a3-b907-bfee64e82f16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ongeldige e-mailadres of wachtwoord']/parent::*</value>
-      <webElementGuid>def5cc04-2645-4c31-bcbc-0f3d7defff3e</webElementGuid>
+      <webElementGuid>929c633c-c4a8-4f97-ab9b-f384724edec0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/ul/li</value>
-      <webElementGuid>57933e92-1737-47a5-8596-c895f5515e91</webElementGuid>
+      <webElementGuid>c1091b31-3b05-45bd-adc5-8013cbbae582</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Ongeldige e-mailadres of wachtwoord' or . = 'Ongeldige e-mailadres of wachtwoord')]</value>
-      <webElementGuid>45de7478-4d95-4d3c-9858-c5d383f70b35</webElementGuid>
+      <webElementGuid>d5e611a1-69a0-4fa6-9c03-b81b7a1ea9fb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

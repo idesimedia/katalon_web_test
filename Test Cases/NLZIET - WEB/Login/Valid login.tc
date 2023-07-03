@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login flow</name>
+   <name>Valid login</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>bdfc43d5-55e8-4584-ae95-a0ad9a8bf629</testCaseGuid>

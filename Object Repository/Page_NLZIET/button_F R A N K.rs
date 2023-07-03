@@ -6,12 +6,12 @@
    <elementGuidId>48c804df-3f78-4a21-bb8c-57ba8569fafd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type='button']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.RPtvS</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,58 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>300f4df1-6ae2-4b4a-9940-cfa1424ab8e4</webElementGuid>
+      <webElementGuid>447ed986-a0c9-469f-836b-1dd356a141cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>534d3b9e-ed15-4b00-8a3a-6f863b999b72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Selecteer het profiel: F R A N K</value>
+      <webElementGuid>b9fb0390-dafc-495c-9ed1-84ed0435298a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>RPtvS</value>
+      <webElementGuid>5b6c1a04-ef40-45a0-bed5-f76cdeb970e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>F R A N K</value>
+      <webElementGuid>da3acb2b-3ec4-4c63-8dfc-7b8b35ddff1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/section[@class=&quot;n7wtA&quot;]/ul[@class=&quot;_2kY8F&quot;]/li[1]/button[@class=&quot;RPtvS&quot;]</value>
+      <webElementGuid>b8abd50a-f255-40b6-98c3-d9d8e3f2128c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>300f4df1-6ae2-4b4a-9940-cfa1424ab8e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -49,7 +97,7 @@
       <webElementGuid>bdad7db5-ad24-4fb5-8291-c950f02604bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -70,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>c39bc3a6-0aa6-49d8-a280-5b1a08141414</webElementGuid>
+      <webElementGuid>e527965e-853f-4b13-a986-28a218551d36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/section/ul/li/button</value>
-      <webElementGuid>22849eb9-d2b5-4b31-94a8-d375859c5785</webElementGuid>
+      <webElementGuid>15363431-85ec-4d6e-882a-2cd120bb1a1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Wie gaat er kijken?'])[1]/following::button[1]</value>
-      <webElementGuid>c90bad11-5687-466a-8ffe-7bdd78c91a2f</webElementGuid>
+      <webElementGuid>d80fb964-9326-431d-bb0e-49a324da7a38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lees hier welke browsers er worden ondersteund'])[1]/following::button[1]</value>
-      <webElementGuid>ee80167d-67bd-40f5-86e2-59b0417b9922</webElementGuid>
+      <webElementGuid>6b7e3160-222a-4c39-9535-eb3cfcebdab3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Algemene voorwaarden'])[1]/preceding::button[5]</value>
-      <webElementGuid>779db295-6b8b-45d3-9eb5-847bb8409ebd</webElementGuid>
+      <webElementGuid>46d68e7d-f4b4-4c60-9713-0bc14d6114c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy &amp; cookies'])[1]/preceding::button[5]</value>
-      <webElementGuid>3879a3ad-40cf-485a-a14c-b1950dc18a1a</webElementGuid>
+      <webElementGuid>15bf2f59-06aa-44e7-86b9-a0d7e9a42fb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +166,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>aa16d6c3-f126-4ef5-b8f8-e2069ea4f15a</webElementGuid>
+      <webElementGuid>b558cb6e-6238-4839-b7a3-43aad24bc4e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +174,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'F R A N K' or . = 'F R A N K')]</value>
-      <webElementGuid>ebc3e4ba-bbae-41a3-9426-7a2e27fb8ed6</webElementGuid>
+      <webElementGuid>79b32126-619f-40bb-bbda-638cdf8e9cb1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

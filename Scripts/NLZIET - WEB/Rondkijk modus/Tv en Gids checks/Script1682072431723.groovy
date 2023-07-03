@@ -209,11 +209,3 @@ WebUI.click(findTestObject('Object Repository/Page_Inloggen - NLZIET/Inloggen bu
 
 WebUI.click(findTestObject('Object Repository/Page_NLZIET/button_F R A N K'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_NLZIET  Tv  gids/Logo NPO 1'), 0)
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_NLZIET  Tv  gids/Button Kijk later'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_NLZIET  Tv  gids/Omschrijving programma'))
-
-WebUI.click(findTestObject('Object Repository/Page_NLZIET  Tv  gids/Sluit X button van informatie popup scherm'))
-

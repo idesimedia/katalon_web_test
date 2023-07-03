@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Vandaag Inside_RyOG6</name>
+   <name>button_Inloggen</name>
    <tag></tag>
-   <elementGuidId>7ef1c0ef-3a17-4cca-ba55-3c935a2c1c31</elementGuidId>
+   <elementGuidId>ab62573d-9f8b-4809-84ae-4db8c837ae3f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.RyOG6</value>
+         <value>button[name=&quot;button&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[2]</value>
+         <value>//button[@name='button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,102 +22,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c8e60e82-fcc8-463d-bc27-a7bbff5785e3</webElementGuid>
+      <webElementGuid>ab01bdb4-ad7b-4421-86b4-7f915053a057</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>RyOG6</value>
-      <webElementGuid>a8663ee0-ef60-4101-a41c-d328605af4f0</webElementGuid>
+      <value>btn btn-primary</value>
+      <webElementGuid>77ae832c-40b7-4462-bb14-730c2456879b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>name</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>107814b4-829a-4455-9867-9033650d43df</webElementGuid>
+      <webElementGuid>832fabda-85ca-4dd3-9f58-f21c61dd9c1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>login</value>
+      <webElementGuid>5068ce91-7ec9-42d9-a607-24fadcd5972c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>text</name>
       <type>Main</type>
-      <value>sluit scherm</value>
-      <webElementGuid>f1dad3e6-81f1-4097-83c8-1498db02727c</webElementGuid>
+      <value>Inloggen</value>
+      <webElementGuid>f046d639-ad20-4019-8085-8c825e9e5401</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;modal&quot;)/div[@class=&quot;Yj-98&quot;]/section[@class=&quot;gYjx2&quot;]/button[@class=&quot;RyOG6&quot;]</value>
-      <webElementGuid>d22f4a2d-8c0a-4b64-b0f7-68e650c3b155</webElementGuid>
+      <value>id(&quot;primary-container&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/form[1]/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>2299b917-f03e-4854-ae2d-4a0c21a5645d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>b8942423-3be1-4c73-bbf9-fc53a92ab6fd</webElementGuid>
+      <value>//button[@name='button']</value>
+      <webElementGuid>058376f5-7f2d-46bb-a14c-bcc3da6ef982</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='modal']/div/section/button</value>
-      <webElementGuid>8ac25513-5b82-4f68-9477-60734c98b642</webElementGuid>
+      <value>//div[@id='primary-container']/div/div/form/div[4]/button</value>
+      <webElementGuid>7e73e627-be1a-45e6-8e34-fd4b3d4a92b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vandaag Inside'])[2]/following::button[1]</value>
-      <webElementGuid>6915d008-2999-4923-8fef-24381515dd5a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingelogd blijven'])[1]/following::button[1]</value>
+      <webElementGuid>7c69a12f-fcd2-43a5-997e-44a25abc2468</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='·'])[1]/following::button[1]</value>
-      <webElementGuid>d5615431-89f6-4f26-9c5d-e762efbc6239</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wachtwoord'])[1]/following::button[1]</value>
+      <webElementGuid>440c3620-f2c6-4b1a-bb51-7783f56d555d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vandaag Inside'])[3]/preceding::button[2]</value>
-      <webElementGuid>f36bc119-9bc4-452b-b7d7-380ce4664ed5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aflevering 8'])[1]/preceding::button[2]</value>
-      <webElementGuid>18024432-0a94-47a8-94e4-8c9ba47b16ba</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wachtwoord vergeten'])[1]/preceding::button[1]</value>
+      <webElementGuid>958b3e4b-b821-4e4e-9936-642767c81c09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//section/button</value>
-      <webElementGuid>44b583a8-990a-49d5-8add-83be4e31eaaa</webElementGuid>
+      <value>//button</value>
+      <webElementGuid>920b15ac-483d-45e1-b723-b5f628f85adc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @title = 'sluit scherm']</value>
-      <webElementGuid>1359435f-326d-4cd8-aa63-c4ee07126243</webElementGuid>
+      <value>//button[@name = 'button' and (text() = 'Inloggen' or . = 'Inloggen')]</value>
+      <webElementGuid>2d28371e-e426-4996-952d-a56b4d94175f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

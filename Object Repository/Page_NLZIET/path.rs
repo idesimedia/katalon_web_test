@@ -6,16 +6,72 @@
    <elementGuidId>6e5851f7-59b3-4d0a-adb8-85f929afc9de</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
+         <key>CSS</key>
          <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
          <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>d911c687-1fee-4e88-8b0b-ed7920b88468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M21.25 12C21.25 17.1086 17.1086 21.25 12 21.25C6.89137 21.25 2.75 17.1086 2.75 12C2.75 6.89137 6.89137 2.75 12 2.75C17.1086 2.75 21.25 6.89137 21.25 12Z</value>
+      <webElementGuid>3895a59f-a06e-4287-8da1-5ccfb18c14b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>f2c48f14-9dfd-4e74-b8e5-b5fc298d4a6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>1.5</value>
+      <webElementGuid>8b43428c-2031-41c8-beec-888b9788c903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>47e3afc4-54e1-4385-b037-d31a758b3260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>4c54379a-c65b-48ce-88d7-1c6123097921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/header[@class=&quot;-XCvm&quot;]/div[@class=&quot;sog6I&quot;]/button[@class=&quot;J9be6 osFNv&quot;]/svg[@class=&quot;L71ZH&quot;]/path[2]</value>
+      <webElementGuid>5f3d9a35-5b4a-4684-b01b-0632af4fc1dc</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -65,7 +121,7 @@
       <webElementGuid>059109a7-8e25-45d5-b1cf-e4d881d9e640</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>

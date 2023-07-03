@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Mijn series vind je terug op Home</name>
+   <name>Nu op tv titel - Homepage</name>
    <tag></tag>
-   <elementGuidId>32a00005-2d28-4a50-96e1-83c59c5d6d7c</elementGuidId>
+   <elementGuidId>d0dd3acb-8e55-424c-8709-64835c5c537a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.aV6mO</value>
+         <value>h1.yOo9W</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div</value>
+         <value>//div[@id='root']/div/main/div/section[3]/header/h1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,111 +21,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>c3c2d4ff-1e18-414e-a4f6-7b8cabf1963c</webElementGuid>
+      <value>h1</value>
+      <webElementGuid>68801d67-041a-40d9-9fc8-3d281da65da6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>aria-label</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>c7413606-dac5-4c31-b471-dd1012266931</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>c46cdbc5-a5c4-450a-b600-dac6e2c4ce9d</webElementGuid>
+      <value>Contentrij: Nu op tv</value>
+      <webElementGuid>8297a42b-4ecb-4010-8328-904de8c29e78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>aV6mO</value>
-      <webElementGuid>b0f12a0c-0c0d-4846-928e-2ef4e7c7c3c4</webElementGuid>
+      <value>yOo9W</value>
+      <webElementGuid>e605dba5-b9ba-4661-9b27-4ef196f6b430</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Mijn series vind je terug op Home</value>
-      <webElementGuid>3b4ca087-46e1-4acf-88e4-c497915debe4</webElementGuid>
+      <value>Nu op tv</value>
+      <webElementGuid>737bc038-00c0-4855-bfe6-550eb9e69ba2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;MAl04 _7jjHw&quot;]/div[@class=&quot;aV6mO&quot;]</value>
-      <webElementGuid>389106b5-cb4d-4996-9381-6706289805a0</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;oKpQ7&quot;]/main[1]/div[@class=&quot;ze9C9 NCnyv&quot;]/section[@class=&quot;r2Cjw _9qnP5&quot;]/header[@class=&quot;TXh9W&quot;]/h1[@class=&quot;yOo9W&quot;]</value>
+      <webElementGuid>f6c2cd2a-e6cd-4459-b4a0-8c3d75589c06</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div</value>
-      <webElementGuid>1a00f73b-23c8-4dde-b0c7-f231b4975ddc</webElementGuid>
+      <value>//div[@id='root']/div/main/div/section[3]/header/h1</value>
+      <webElementGuid>b440966e-61b4-4a04-a274-15ffb8a113b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lees hier welke browsers er worden ondersteund'])[1]/following::div[7]</value>
-      <webElementGuid>304f7d95-f0b3-4c98-85d0-fa0ffbf24529</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Good Doctor'])[1]/following::h1[1]</value>
+      <webElementGuid>cf01ce9e-9070-4d2d-8908-f2d846f83bc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Je browser wordt helaas niet meer ondersteund.'])[1]/following::div[7]</value>
-      <webElementGuid>981033d7-c63d-4961-b86b-54da5b258229</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Piet Piraat'])[1]/following::h1[2]</value>
+      <webElementGuid>940284f7-50a5-4d4e-86e0-e4f67ca2835f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Door naar content'])[1]/preceding::div[3]</value>
-      <webElementGuid>e56daf62-b4b1-4854-9abd-075debecbb25</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meest bekeken'])[1]/preceding::h1[1]</value>
+      <webElementGuid>60ffd83d-e7e2-4a61-be8f-4adab81c2f63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::div[4]</value>
-      <webElementGuid>d4505777-4b46-4b66-bea3-2f3f5fd789d3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tijd voor MAX'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c2c7406d-5237-48f1-ab48-c9c78d9dc45f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Mijn series vind je terug op Home']/parent::*</value>
-      <webElementGuid>650960a0-d82f-40dc-940b-8b0eb8322e24</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Nu op tv']/parent::*</value>
+      <webElementGuid>bdf158b8-99f9-4051-bdfd-513bacbadec1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[4]/div/div</value>
-      <webElementGuid>4f6fe2ac-e639-4fa5-8749-c97c7d236c34</webElementGuid>
+      <value>//header/h1</value>
+      <webElementGuid>2762c035-5603-4013-a308-06f6db28c41d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Mijn series vind je terug op Home' or . = 'Mijn series vind je terug op Home')]</value>
-      <webElementGuid>4d7e534e-147a-405a-befb-498528060c40</webElementGuid>
+      <value>//h1[(text() = 'Nu op tv' or . = 'Nu op tv')]</value>
+      <webElementGuid>e56cdab7-6323-46e6-b69f-80d0ee92cf54</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

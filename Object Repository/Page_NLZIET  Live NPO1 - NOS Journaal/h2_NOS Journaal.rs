@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_NOS Journaal</name>
+   <tag></tag>
+   <elementGuidId>c9d25b9c-2681-4443-bb63-a461184c6355</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2._9wFQW</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/div/section/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>7af7b034-e7c6-4f36-8dcd-7dd8ed990a76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_9wFQW</value>
+      <webElementGuid>28943498-ca56-4dd0-a94e-2841a5c557f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NOS Journaal</value>
+      <webElementGuid>aef08a03-9b00-4f63-b982-2280865958b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;Yj-98&quot;]/section[@class=&quot;gYjx2&quot;]/div[@class=&quot;q6v9P&quot;]/h2[@class=&quot;_9wFQW&quot;]</value>
+      <webElementGuid>9b13846f-5867-4d5f-8187-9d49569f0775</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/section/div/h2</value>
+      <webElementGuid>cb2c27bb-9d0c-4a67-ae67-f24ef48dad6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lees hier welke browsers er worden ondersteund'])[1]/following::h2[1]</value>
+      <webElementGuid>a0fd3da9-e6d2-431a-ad6a-77de5871e2e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Je browser wordt helaas niet meer ondersteund.'])[1]/following::h2[1]</value>
+      <webElementGuid>c149246a-49a7-4a5b-95cb-80073e515804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOS Journaal'])[2]/preceding::h2[1]</value>
+      <webElementGuid>5be288fd-cce8-4a71-b48b-41f341716089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NOS Journaal']/parent::*</value>
+      <webElementGuid>8e9c3a87-681a-4843-826d-ee07742911a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>df6a6e45-c6d8-45e5-b5be-1fa30bf4fe2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'NOS Journaal' or . = 'NOS Journaal')]</value>
+      <webElementGuid>240cd91f-1c82-49c1-a6e3-e237fa562ba9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
