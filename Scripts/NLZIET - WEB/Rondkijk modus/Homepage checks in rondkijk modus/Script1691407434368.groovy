@@ -248,3 +248,5 @@ WebUI.click(findTestObject('Object Repository/Page_NLZIET  Aanmelden/Pop-up moda
 
 WebUI.closeBrowser()
 
+WebUI.closeBrowser()
+
