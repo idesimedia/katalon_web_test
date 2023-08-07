@@ -246,9 +246,5 @@ WebUI.navigateToUrl('https://app.nlziet.nl/live/npo1')
 
 WebUI.click(findTestObject('Object Repository/Page_NLZIET  Aanmelden/Pop-up modal - Inloggen button'))
 
-WebUI.getAllLinksOnCurrentPage(false, [])
-
-WebUI.getUrl()
-
 WebUI.closeBrowser()
 
