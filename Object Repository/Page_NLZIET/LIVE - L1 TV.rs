@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LIVE - L1 TV</name>
+   <tag></tag>
+   <elementGuidId>94190c5e-bde2-49f2-8c97-1e83dd550e20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[49]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cd2b7951-accd-4a26-a973-4b37e40ebb90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Nu live op L1 TV: NOS Journaal. Daarna Tieëkezinge Kirchroa om 15:15.</value>
+      <webElementGuid>83462c78-47cd-4d1f-aea8-4238d6f355e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qltFr</value>
+      <webElementGuid>4db786ef-1070-46be-9ed7-8cba973cdf19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/live/l1tv</value>
+      <webElementGuid>fd976c95-4e26-4232-8cc7-bcda191447dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_6ZAPB&quot;]/main[1]/div[@class=&quot;bQw0X uj7YS&quot;]/section[@class=&quot;ZtNPQ PVFKs&quot;]/div[@class=&quot;uGxA6&quot;]/div[@class=&quot;f9grZ&quot;]/ul[@class=&quot;V3eW3&quot;]/li[@class=&quot;e1tR9&quot;]/a[@class=&quot;qltFr&quot;]</value>
+      <webElementGuid>8c4e4fee-a325-4f6a-8cae-2a46e961d685</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[49]/a</value>
+      <webElementGuid>a66dc23c-e8c2-4bd7-bc31-fd681bb832c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/live/l1tv')]</value>
+      <webElementGuid>2d885b06-57e4-44f0-9224-b027987bdb20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[49]/a</value>
+      <webElementGuid>0a22c13f-0c6d-4087-a679-cc5cee15e05e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/live/l1tv']</value>
+      <webElementGuid>699976c7-1c84-422b-a31c-679846eee13c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

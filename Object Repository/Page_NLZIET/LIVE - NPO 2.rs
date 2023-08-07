@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LIVE - NPO 2</name>
+   <tag></tag>
+   <elementGuidId>81ad2a02-5a58-4e69-a94a-01d7b505b4ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/live/npo2']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qltFr</value>
+      <webElementGuid>5bf5786d-d83a-4570-89b8-7187d5b584c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/live/npo2</value>
+      <webElementGuid>2f725545-a291-46a0-9ca8-4edb3e4bbd6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_6ZAPB&quot;]/main[1]/div[@class=&quot;bQw0X uj7YS&quot;]/section[@class=&quot;ZtNPQ PVFKs&quot;]/div[@class=&quot;uGxA6&quot;]/div[@class=&quot;f9grZ&quot;]/ul[@class=&quot;V3eW3&quot;]/li[@class=&quot;e1tR9&quot;]/a[@class=&quot;qltFr&quot;]</value>
+      <webElementGuid>f8364787-c96f-4cae-a5be-f71f7e0b8247</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[4]/a</value>
+      <webElementGuid>d3907aef-e0cd-42c1-8409-c331886971ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/live/npo2')]</value>
+      <webElementGuid>024ff913-7873-46b4-86e3-10a2bbf2f500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/div/ul/li[4]/a</value>
+      <webElementGuid>3446da36-ff7b-473c-9731-ae1ddda2d732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/live/npo2']</value>
+      <webElementGuid>7286321e-ff51-47cf-a815-40750e8b1a8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

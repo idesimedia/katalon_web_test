@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Titel - Films NPO Plus</name>
+   <tag></tag>
+   <elementGuidId>5f975056-9b67-4996-81cd-6373a6bf99d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section[10]/header/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>6adf22b3-2f11-48a0-af73-7b6acf0596b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Uitgelicht</value>
+      <webElementGuid>d84d5132-de7a-4e7b-85c5-2495d3fa1e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_8B20g</value>
+      <webElementGuid>23240f4a-8eb8-456b-a235-4335fc71178e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Films NPO Plus</value>
+      <webElementGuid>a3c9e183-fa0c-4cef-860e-eb84ae420429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_6ZAPB&quot;]/main[1]/div[@class=&quot;bQw0X uj7YS&quot;]/section[@class=&quot;ZtNPQ PVFKs&quot;]/header[@class=&quot;wtaRT&quot;]/h1[@class=&quot;_8B20g&quot;]</value>
+      <webElementGuid>eaf5fecc-7d5a-496a-a2bf-a81a36f2b860</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/section[10]/header/h1</value>
+      <webElementGuid>9f7254db-558d-4e66-a452-61656eba430e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toon alles'])[8]/following::h1[1]</value>
+      <webElementGuid>bd5fd521-79cc-477e-b7a1-1ed200d4179c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ik Weet Er Alles Van!'])[1]/following::h1[1]</value>
+      <webElementGuid>acec6d7e-efb7-4688-af8a-27c786fd2449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toon alles'])[9]/preceding::h1[1]</value>
+      <webElementGuid>65b6645b-94f5-4ef3-b48e-740a2bafcec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Film'])[3]/preceding::h1[1]</value>
+      <webElementGuid>7fc6c3dd-ca3b-41b3-bbaf-ac1ef879649c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Films NPO Plus']/parent::*</value>
+      <webElementGuid>20e906e6-650d-4bdd-94b4-829ac577d2c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[10]/header/h1</value>
+      <webElementGuid>c5ec0d8c-a515-41fa-83fc-4861fe8ba900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Films NPO Plus' or . = 'Films NPO Plus')]</value>
+      <webElementGuid>65d91ca6-a715-4283-abe8-28ca72f55e50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

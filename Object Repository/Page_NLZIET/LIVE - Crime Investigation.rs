@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LIVE - Crime Investigation</name>
+   <tag></tag>
+   <elementGuidId>7423c700-27d0-45e6-959f-a869ee3e389b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[33]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6d05f86d-c5e2-4c07-90f7-d6692d9758bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Nu live op Crime + Investigation: Homicide hunter. Daarna It Takes a Killer om 15:45.</value>
+      <webElementGuid>b009fe48-ea8b-4181-8f40-68d5e3a00c87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qltFr</value>
+      <webElementGuid>7649b51e-6844-4ce8-9d7b-cf877a98a480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/live/crimeinvestigation</value>
+      <webElementGuid>624fe4d7-73d1-4196-9564-7887cf69ec64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_6ZAPB&quot;]/main[1]/div[@class=&quot;bQw0X uj7YS&quot;]/section[@class=&quot;ZtNPQ PVFKs&quot;]/div[@class=&quot;uGxA6&quot;]/div[@class=&quot;f9grZ&quot;]/ul[@class=&quot;V3eW3&quot;]/li[@class=&quot;e1tR9&quot;]/a[@class=&quot;qltFr&quot;]</value>
+      <webElementGuid>8ff5f74e-7da9-4b2b-8679-3fec956321dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[33]/a</value>
+      <webElementGuid>b9f6ad2b-44ad-4489-97ae-9a998cd7c73b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/live/crimeinvestigation')]</value>
+      <webElementGuid>11bbed9b-339d-4c14-a39f-be89ea1157b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[33]/a</value>
+      <webElementGuid>0c3d770e-6820-4ec7-ac39-aeab7fd6d141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/live/crimeinvestigation']</value>
+      <webElementGuid>aba574ef-bed6-4c59-be96-d5df170a32c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

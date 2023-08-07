@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LIVE - RTV Drenthe</name>
+   <tag></tag>
+   <elementGuidId>592a4e3f-3efc-46ad-9bde-7b09d198cfba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/live/tvdrenthe']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[39]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3e92b2d3-5fc2-45bf-9d99-baa309da2230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Nu live op TV Drenthe: Studio Steenbergen - Radio Kijken. Daarna Drenthe Nu om 17:00.</value>
+      <webElementGuid>dbaaa2e4-b412-44a6-b037-3c45b0a34e19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qltFr</value>
+      <webElementGuid>dedc5393-edd2-4329-a806-e445216cec7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/live/tvdrenthe</value>
+      <webElementGuid>91365b6c-e953-416c-adef-0c2b0d612bec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_6ZAPB&quot;]/main[1]/div[@class=&quot;bQw0X uj7YS&quot;]/section[@class=&quot;ZtNPQ PVFKs&quot;]/div[@class=&quot;uGxA6&quot;]/div[@class=&quot;f9grZ&quot;]/ul[@class=&quot;V3eW3&quot;]/li[@class=&quot;e1tR9&quot;]/a[@class=&quot;qltFr&quot;]</value>
+      <webElementGuid>b1432dd4-a0d8-4a89-b4f5-85cc3863164d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[39]/a</value>
+      <webElementGuid>dc2ef2c0-586e-4bc4-b60d-5a907f1f3e94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/live/tvdrenthe')]</value>
+      <webElementGuid>b5bd1180-bf43-4f80-be68-1c8d00187e07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[39]/a</value>
+      <webElementGuid>757306e5-e8f2-494c-9892-03d5891600b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/live/tvdrenthe']</value>
+      <webElementGuid>e27bb731-b899-4fa8-bb00-755adc6bd0d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

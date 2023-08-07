@@ -11,11 +11,4 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>e3da03a0-011f-4c9d-9c8f-e8c61d59f4c1</testSuiteGuid>
-   <testCaseLink>
-      <guid>c06e4925-dfbc-478f-a5d9-8f8b71342516</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/NLZIET - WEB/Rondkijk modus/Homepage checks</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>

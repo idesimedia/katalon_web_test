@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LIVE - BBC First</name>
+   <tag></tag>
+   <elementGuidId>3fcb212d-8d88-4553-85f7-126896bf1ab0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[27]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b2a18f97-aa55-4413-b80f-b4b67a727b6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Nu live op BBC First: Midsomer murders. Daarna Midsomer murders om 15:05.</value>
+      <webElementGuid>fe710ac3-02b2-4991-badc-0f7d97f36ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qltFr</value>
+      <webElementGuid>88fa7360-7c5f-4bc1-85e7-85a6f8c5245c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/live/bbcfirst</value>
+      <webElementGuid>aa86ae33-b8ef-41df-a409-26254996b716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_6ZAPB&quot;]/main[1]/div[@class=&quot;bQw0X uj7YS&quot;]/section[@class=&quot;ZtNPQ PVFKs&quot;]/div[@class=&quot;uGxA6&quot;]/div[@class=&quot;f9grZ&quot;]/ul[@class=&quot;V3eW3&quot;]/li[@class=&quot;e1tR9&quot;]/a[@class=&quot;qltFr&quot;]</value>
+      <webElementGuid>526f8fdd-ae20-4862-8b91-8c279f634156</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/section[3]/div/div/ul/li[27]/a</value>
+      <webElementGuid>666c26ec-ddcf-48c1-aeec-734f2f035a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/live/bbcfirst')]</value>
+      <webElementGuid>772e295a-3555-46bf-be86-64a547520579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[27]/a</value>
+      <webElementGuid>425c646d-f2f6-4c9a-a3b9-ef253ee10052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/live/bbcfirst']</value>
+      <webElementGuid>b8eed29c-0c05-4ff3-82e8-a21ea215747f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

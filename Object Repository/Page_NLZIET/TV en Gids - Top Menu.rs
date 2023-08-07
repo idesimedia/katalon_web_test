@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TV en Gids - Top Menu</name>
+   <tag></tag>
+   <elementGuidId>d3ff69a9-e22c-497f-8e5d-4f8f28541343</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header/nav/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>53908b63-e01b-40fd-a7e4-1787305f89ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ADZ5z</value>
+      <webElementGuid>931e9ffd-e1ad-46ed-9475-bcb727871f5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tv-kijken</value>
+      <webElementGuid>89127e2d-e027-48b4-a3be-129483baf8a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tv &amp; gids</value>
+      <webElementGuid>b8dd5433-412c-4118-a429-97a944fdd378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_6ZAPB&quot;]/header[@class=&quot;ztPjg&quot;]/nav[@class=&quot;BpvhZ N6qwo&quot;]/ul[@class=&quot;VdiiA&quot;]/li[@class=&quot;iMTCz&quot;]/a[@class=&quot;ADZ5z&quot;]</value>
+      <webElementGuid>98e6ff46-8fd5-4bc9-b664-e6d9ea82dabe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header/nav/ul/li[2]/a</value>
+      <webElementGuid>1705ba3f-2566-4508-b82c-160f778aa99b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tv &amp; gids')]</value>
+      <webElementGuid>38899304-3f88-495a-ba9b-61bac1b65099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
+      <webElementGuid>8431a673-f3ad-4082-8ccc-c0a891bfa401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Door naar content'])[1]/following::a[2]</value>
+      <webElementGuid>36d87e85-d78a-4b54-b475-ee86fe0d6a39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kijk later'])[1]/preceding::a[1]</value>
+      <webElementGuid>a362e57d-7dfb-4f9f-828b-2dd88e8eb7aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mijn series'])[1]/preceding::a[2]</value>
+      <webElementGuid>e1485658-3687-49d2-8993-078ad7c8654a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tv &amp; gids']/parent::*</value>
+      <webElementGuid>c987cd17-6a3b-408c-afc0-e35499bcbdb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tv-kijken')]</value>
+      <webElementGuid>a929b10e-9376-459b-8b77-57283608021a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>f89e30b2-05f6-4017-9977-62e7962a2f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tv-kijken' and (text() = 'Tv &amp; gids' or . = 'Tv &amp; gids')]</value>
+      <webElementGuid>008ce5a0-8b10-49f1-9526-707fce3f8f19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

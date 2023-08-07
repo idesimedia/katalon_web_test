@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pop-up modal - Je bent niet ingelogd</name>
+   <tag></tag>
+   <elementGuidId>dade308f-dd60-41a6-91e5-2c6f4f4898a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/div/section/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.QGA1P</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>66c207ae-57ae-4fce-b779-a643e1a169a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>QGA1P</value>
+      <webElementGuid>81de1051-36d3-4ad9-8743-5a0b95871060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Je bent niet ingelogd</value>
+      <webElementGuid>e2411663-6136-4513-a89d-1914aa764ba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;aHlXL&quot;]/section[@class=&quot;KlgJe ZlP2H&quot;]/div[@class=&quot;_9p8zl&quot;]/div[@class=&quot;lNxZP&quot;]/h2[@class=&quot;QGA1P&quot;]</value>
+      <webElementGuid>dc5fd4ec-523d-447f-af2a-87f935f79586</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/section/div/div/h2</value>
+      <webElementGuid>072b6072-9084-4faf-adf7-746c1e3d3bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lees hier welke browsers er worden ondersteund'])[1]/following::h2[1]</value>
+      <webElementGuid>3f0bb258-03e3-4080-8f41-130715a60cc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Je browser wordt helaas niet meer ondersteund.'])[1]/following::h2[1]</value>
+      <webElementGuid>c8bbf01f-cca8-439a-926e-4bb0f5ba43f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inloggen'])[1]/preceding::h2[1]</value>
+      <webElementGuid>0338287d-d761-49e8-8d86-f1e5e830e779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nog geen account? Meld je aan.'])[1]/preceding::h2[1]</value>
+      <webElementGuid>7ee66b30-3a68-41d5-9203-c8f793f92fe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Je bent niet ingelogd']/parent::*</value>
+      <webElementGuid>4eb2cc48-2ea6-49b8-aa14-349ae328f8c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>850ddbe4-d95e-4eeb-b1e4-179d6f5c6164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Je bent niet ingelogd' or . = 'Je bent niet ingelogd')]</value>
+      <webElementGuid>9b77c3dd-5e26-4a0e-9f15-d0c2ddadd6ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

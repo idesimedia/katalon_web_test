@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Titel - Vooruitkijken</name>
+   <tag></tag>
+   <elementGuidId>3ac459b8-54e0-45bf-adeb-70677cc32aa3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section[7]/header/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>3958bdb4-6d96-4e54-8515-4d07e86db3a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Vooruitkijken</value>
+      <webElementGuid>4cd69ebd-8b5e-4162-8b2b-1dcf523d0bfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_8B20g</value>
+      <webElementGuid>910c67ca-6a51-41c5-a904-89148cb01f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vooruitkijken</value>
+      <webElementGuid>a0eec4b2-2cff-487e-95ea-b345ed8d48de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_6ZAPB&quot;]/main[1]/div[@class=&quot;bQw0X uj7YS&quot;]/section[@class=&quot;ZtNPQ PVFKs&quot;]/header[@class=&quot;wtaRT&quot;]/h1[@class=&quot;_8B20g&quot;]</value>
+      <webElementGuid>214c9f45-2e5d-4032-9d9f-a4ee56ccf21e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/section[7]/header/h1</value>
+      <webElementGuid>e4823b7a-d52b-4d3b-adcb-64a5f0e9c21b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toon alles'])[6]/following::h1[1]</value>
+      <webElementGuid>28f5e9e8-dfec-47bc-a683-6ad6359bafad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jeuk'])[1]/following::h1[1]</value>
+      <webElementGuid>33905ea1-d596-4e1a-bec7-5fba399203d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vooruitkijken'])[24]/preceding::h1[1]</value>
+      <webElementGuid>7a2b2e5c-ab4a-48d9-a17e-f7f2e446b93e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Bold And The Beautiful'])[1]/preceding::h1[1]</value>
+      <webElementGuid>979902ce-65ca-4e72-af52-1979b143d91b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[7]/header/h1</value>
+      <webElementGuid>3d8f9aed-bfd0-4166-883f-2885be76dc1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Vooruitkijken' or . = 'Vooruitkijken')]</value>
+      <webElementGuid>8d224d07-2369-48ab-b35f-0202d030ae82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

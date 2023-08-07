@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pop-up modal - Om programmas te kijken moet je ingelogd zijn met je NLZIET-account</name>
+   <tag></tag>
+   <elementGuidId>6eb2fdea-ca25-49ec-91df-48ff5cec2ef8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/div/section/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.eULJa</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>10f37509-8ae5-4dcc-a0a9-19be4cf209db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eULJa</value>
+      <webElementGuid>1733f10a-73ae-4a83-9a65-b25babc2da36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Om programma’s te kijken moet je ingelogd zijn met je NLZIET-account.</value>
+      <webElementGuid>73a72aee-f37b-4649-b92e-6389d35b82a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;aHlXL&quot;]/section[@class=&quot;KlgJe ZlP2H&quot;]/div[@class=&quot;_9p8zl&quot;]/div[@class=&quot;lNxZP&quot;]/p[@class=&quot;eULJa&quot;]</value>
+      <webElementGuid>9af74ce3-a213-48ca-840a-9ebef002590e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/section/div/div/p</value>
+      <webElementGuid>80bd5cde-9736-4185-bc64-80af7130e37b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Je bent niet ingelogd'])[1]/following::p[1]</value>
+      <webElementGuid>f97fbceb-0603-4578-8749-ea7a4aa6364a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lees hier welke browsers er worden ondersteund'])[1]/following::p[1]</value>
+      <webElementGuid>00f46117-623b-4539-a400-4a14b2593e84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inloggen'])[1]/preceding::p[1]</value>
+      <webElementGuid>8073b792-c13f-4adc-bf2b-a4aea1dc6100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nog geen account? Meld je aan.'])[1]/preceding::p[1]</value>
+      <webElementGuid>d7dfc5da-cca1-4d58-b083-bba41241c795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Om programma’s te kijken moet je ingelogd zijn met je NLZIET-account.']/parent::*</value>
+      <webElementGuid>9dabc984-8226-483b-baea-4947f32f4fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/p</value>
+      <webElementGuid>ab174b75-4b13-4583-812c-895b9a25865f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Om programma’s te kijken moet je ingelogd zijn met je NLZIET-account.' or . = 'Om programma’s te kijken moet je ingelogd zijn met je NLZIET-account.')]</value>
+      <webElementGuid>1c475e4c-7d97-431b-9401-71bea344acb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

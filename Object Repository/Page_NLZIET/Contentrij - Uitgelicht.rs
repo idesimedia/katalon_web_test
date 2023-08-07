@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Contentrij - Uitgelicht</name>
+   <tag></tag>
+   <elementGuidId>86c09937-f13e-456a-8061-f26fa4bcef7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.ZtNPQ.PVFKs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>4b01b525-83ab-4e09-9fbf-8abb0bf9a760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Contentrij: Uitgelicht</value>
+      <webElementGuid>3a749264-97c4-4956-8aad-c0397a0035ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ZtNPQ PVFKs</value>
+      <webElementGuid>3a8531e8-8cd1-43d6-8ff2-c7304e067d04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kijk nu terugInformatieMountain Rescue: Nieuw-ZeelandAflevering 4Kijk nu terugInformatieDe Grote VerhuizingRevisit Guildford &amp; MargateKijk nu terugInformatieZomergastenKhadija AribKijk nu terugInformatieLEGO Ninjago Masters Of SpinjitzuThe FallKijk nu terugInformatieDe doe-het-zelf DictatuurTribunalenKijk nu terugInformatie5MinutenShowAfl. 1</value>
+      <webElementGuid>9e91170e-6094-468b-9ec9-0047434dbfcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_6ZAPB&quot;]/main[1]/div[@class=&quot;bQw0X uj7YS&quot;]/section[@class=&quot;ZtNPQ PVFKs&quot;]</value>
+      <webElementGuid>61bb2d1a-05fc-49f3-9a58-76b6ab65ad3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/section</value>
+      <webElementGuid>88a2f2fc-be07-45e9-8078-f7009914cb10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mijn series'])[2]/following::section[1]</value>
+      <webElementGuid>008cd05d-c3e9-4f49-b0b4-56e8d3b925ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kijk later'])[2]/following::section[1]</value>
+      <webElementGuid>b2eda763-5904-4ae2-b3f2-32e6bd9a45ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section</value>
+      <webElementGuid>8701b98d-af9b-4fc6-9d6e-b7f58056e305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'Kijk nu terugInformatieMountain Rescue: Nieuw-ZeelandAflevering 4Kijk nu terugInformatieDe Grote VerhuizingRevisit Guildford &amp; MargateKijk nu terugInformatieZomergastenKhadija AribKijk nu terugInformatieLEGO Ninjago Masters Of SpinjitzuThe FallKijk nu terugInformatieDe doe-het-zelf DictatuurTribunalenKijk nu terugInformatie5MinutenShowAfl. 1' or . = 'Kijk nu terugInformatieMountain Rescue: Nieuw-ZeelandAflevering 4Kijk nu terugInformatieDe Grote VerhuizingRevisit Guildford &amp; MargateKijk nu terugInformatieZomergastenKhadija AribKijk nu terugInformatieLEGO Ninjago Masters Of SpinjitzuThe FallKijk nu terugInformatieDe doe-het-zelf DictatuurTribunalenKijk nu terugInformatie5MinutenShowAfl. 1')]</value>
+      <webElementGuid>e37c4635-7db0-40ab-a796-39c18f0e3c5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

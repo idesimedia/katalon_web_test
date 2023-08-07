@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pop-up modal - Nog geen account_Meld je aan</name>
+   <tag></tag>
+   <elementGuidId>2f67792c-258b-4bc1-bef6-ce0b9f3a72a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.CcwIn.HmXkL.nbFdd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>149ac460-6008-46c4-b10e-0c4ff52c83f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Nog geen account? Meld je aan.</value>
+      <webElementGuid>3fb2eabe-2e88-4a05-99f1-5b482dd1df8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>148d8acf-2780-49ac-999a-4e338cf3f22d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>CcwIn HmXkL nbFdd</value>
+      <webElementGuid>441ad57c-fb3e-4d8c-bc67-f87c90ad0f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>329b64af-a738-49ff-80e3-682c613f469f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nog geen account? Meld je aan.</value>
+      <webElementGuid>e8daaa63-f3f8-42ce-bef2-21e7cb8a20a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;aHlXL&quot;]/section[@class=&quot;KlgJe ZlP2H&quot;]/div[@class=&quot;_9p8zl&quot;]/div[@class=&quot;lNxZP&quot;]/button[@class=&quot;CcwIn HmXkL nbFdd&quot;]</value>
+      <webElementGuid>5c8cb435-923f-4fe5-a431-4fb45a208958</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>d607e75e-5c67-4889-b69a-50803388d276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/section/div/div/button</value>
+      <webElementGuid>98bf5634-b8ea-47d4-827a-5ba233e27c8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inloggen'])[1]/following::button[1]</value>
+      <webElementGuid>9a2cc067-c74b-4c71-b001-09a5c6361ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Je bent niet ingelogd'])[1]/following::button[2]</value>
+      <webElementGuid>306f8687-9745-4088-a95b-c1afaf6bea95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Door naar content'])[1]/preceding::button[2]</value>
+      <webElementGuid>b366a487-3c9f-4861-9a2f-971ba15ffa23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::button[3]</value>
+      <webElementGuid>0c6a824f-f120-47e6-91b3-a083eec696b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nog geen account? Meld je aan.']/parent::*</value>
+      <webElementGuid>16db347b-6d28-41cd-8843-f0b4361584a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>ca46407c-b544-4dea-93a4-a10220ac847f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Nog geen account? Meld je aan.' or . = 'Nog geen account? Meld je aan.')]</value>
+      <webElementGuid>47802d34-d256-4930-809a-4150ca11ad3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

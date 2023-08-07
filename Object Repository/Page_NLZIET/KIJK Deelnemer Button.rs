@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>KIJK Deelnemer Button</name>
+   <tag></tag>
+   <elementGuidId>663471c7-0c3c-4cbf-9045-827107e5ba6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/section[2]/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>40ea976b-55e6-42f3-9aa8-3ebe0b9a1dc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>accessibility_provider_item_talpa</value>
+      <webElementGuid>1842a83a-7059-4b4d-94a1-3b07e86e3e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1Eq7c</value>
+      <webElementGuid>91541840-e503-4bb3-9f61-060b65d62ba3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/aanbieder/talpa</value>
+      <webElementGuid>791281e0-87f4-461c-94e0-e00a99a984d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_6ZAPB&quot;]/main[1]/div[@class=&quot;bQw0X uj7YS&quot;]/section[@class=&quot;Ccpv-&quot;]/ul[@class=&quot;wBuRY&quot;]/li[@class=&quot;ys4Nq&quot;]/a[@class=&quot;_1Eq7c&quot;]</value>
+      <webElementGuid>5b659ffc-ed35-4596-b4af-658a846dd7ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/section[2]/ul/li[3]/a</value>
+      <webElementGuid>7cda8964-c250-4b22-b31a-427634ec68f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lettrix'])[1]/following::a[3]</value>
+      <webElementGuid>079a97f7-90f3-4729-8cd5-738629ebfe6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='De doe-het-zelf Dictatuur'])[1]/following::a[4]</value>
+      <webElementGuid>0ea4b595-68e8-47f9-a2cc-d303e17f1722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nu op tv'])[1]/preceding::a[2]</value>
+      <webElementGuid>4ecd4486-c5f3-4e3f-8307-bf7b5e7d31bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meest bekeken'])[1]/preceding::a[3]</value>
+      <webElementGuid>9864e594-bf2b-479f-baab-fd38e320a870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/aanbieder/talpa')]</value>
+      <webElementGuid>028d2e48-e4d5-446d-8c7d-e65e41a239b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/ul/li[3]/a</value>
+      <webElementGuid>839d2cee-e89a-4193-86c8-20715bb1f541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/aanbieder/talpa']</value>
+      <webElementGuid>60e5edf9-87a4-44df-b525-d3be9a728226</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
