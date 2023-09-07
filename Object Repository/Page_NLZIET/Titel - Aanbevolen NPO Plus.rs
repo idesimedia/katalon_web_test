@@ -6,15 +6,18 @@
    <elementGuidId>57013ea7-c3e2-4701-8209-338e8e6e590e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/main/div/section[8]/header/h1</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;_6ZAPB&quot;]/main[1]/div[@class=&quot;bQw0X uj7YS&quot;]/section[@class=&quot;ZtNPQ PVFKs&quot;]/header[@class=&quot;wtaRT&quot;]/h1[@class=&quot;_8B20g&quot;][count(. | //*[(text() = 'Aanbevolen NPO Plus' or . = 'Aanbevolen NPO Plus')]) = count(//*[(text() = 'Aanbevolen NPO Plus' or . = 'Aanbevolen NPO Plus')])]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>2f97bc0e-fcb4-4f01-90ff-0e62e6be5c70</webElementGuid>
+      <webElementGuid>9da07c1e-55a3-41ec-9b23-d9c80d342199</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +33,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Contentrij: Uitgelicht</value>
-      <webElementGuid>52ba09e7-a5c2-4610-95ff-f8ba702d2ee8</webElementGuid>
+      <webElementGuid>80706640-8059-460a-b1ef-93601145a038</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>_8B20g</value>
-      <webElementGuid>c7d8b27d-a5c2-4c1a-a911-36bdf1586f55</webElementGuid>
+      <webElementGuid>7b1e632b-38e7-4ebb-8f5f-3f3a9eaa42d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +49,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Aanbevolen NPO Plus</value>
-      <webElementGuid>a350ac67-228d-4768-afc0-ee191b91b079</webElementGuid>
+      <webElementGuid>e9cab7ce-e309-4856-98ec-38f459873fb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;_6ZAPB&quot;]/main[1]/div[@class=&quot;bQw0X uj7YS&quot;]/section[@class=&quot;ZtNPQ PVFKs&quot;]/header[@class=&quot;wtaRT&quot;]/h1[@class=&quot;_8B20g&quot;]</value>
-      <webElementGuid>a4880ef9-1eeb-4bac-b503-1eaa716d7a12</webElementGuid>
+      <webElementGuid>2700e4b9-3184-4a9b-a572-348f0e3c5f28</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +65,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/section[8]/header/h1</value>
-      <webElementGuid>55777be1-9a75-495c-82b9-0c43d1895b82</webElementGuid>
+      <webElementGuid>4f38a19e-c374-446f-be16-ae75a57957f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='De Sterkste Man'])[1]/following::h1[1]</value>
-      <webElementGuid>fa18d6ea-7aae-493f-bf25-d9ff10cb4bad</webElementGuid>
+      <webElementGuid>520d87ca-4d2f-4203-b8ba-aef9705fb819</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vooruitkijken'])[34]/following::h1[2]</value>
-      <webElementGuid>7765437a-f106-42e1-bab8-d4400e9e54d6</webElementGuid>
+      <webElementGuid>78179dca-43e6-4430-a712-377365ed0d81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Zomergasten'])[3]/preceding::h1[1]</value>
-      <webElementGuid>6ec47db4-2e6c-427f-bbd7-5b4519bec35e</webElementGuid>
+      <webElementGuid>51a39011-c742-4494-a3ca-6fde91872591</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='De doe-het-zelf Dictatuur'])[3]/preceding::h1[2]</value>
-      <webElementGuid>ee96e944-bbdb-483b-bb78-2533405fa3e8</webElementGuid>
+      <webElementGuid>0a992e49-2657-4773-a114-08548d5a4839</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Aanbevolen NPO Plus']/parent::*</value>
-      <webElementGuid>031961dd-b489-47e3-b491-0a618ed75c38</webElementGuid>
+      <webElementGuid>633d587d-6e44-49af-91df-5f343dbf6bf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +113,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[8]/header/h1</value>
-      <webElementGuid>2e52d023-e84e-4a1d-8083-12b5c1084cd4</webElementGuid>
+      <webElementGuid>0b24b9a2-c31f-478f-86ab-0caf960681ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +121,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Aanbevolen NPO Plus' or . = 'Aanbevolen NPO Plus')]</value>
-      <webElementGuid>13568f6c-531a-4f06-b167-e45288df8e81</webElementGuid>
+      <webElementGuid>181914ec-5cf4-4230-a95d-917cb9b78715</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

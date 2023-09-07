@@ -6,15 +6,18 @@
    <elementGuidId>f643be2d-4872-4437-a2c4-dd81f85c15b4</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/main/div/section[9]/header/h1</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;_6ZAPB&quot;]/main[1]/div[@class=&quot;bQw0X uj7YS&quot;]/section[@class=&quot;ZtNPQ PVFKs&quot;]/header[@class=&quot;wtaRT&quot;]/h1[@class=&quot;_8B20g&quot;][count(. | //*[(text() = 'Aanbevolen' or . = 'Aanbevolen')]) = count(//*[(text() = 'Aanbevolen' or . = 'Aanbevolen')])]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>074e63e4-8fdb-459d-9dd9-a09afb4ccf1b</webElementGuid>
+      <webElementGuid>1f55982c-e81d-4384-adbf-49c5ee11afae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +33,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Contentrij: Uitgelicht</value>
-      <webElementGuid>422e7d7c-59e7-426e-8510-f3f4b76807c1</webElementGuid>
+      <webElementGuid>5b007476-a5a1-49b1-9d70-f03f3be049ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>_8B20g</value>
-      <webElementGuid>562c5704-4e08-4610-b8ac-1dc565787852</webElementGuid>
+      <webElementGuid>9a3a73fc-d4da-4fdc-935f-e3462deb088a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +49,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Aanbevolen</value>
-      <webElementGuid>604d1094-c368-4223-8eae-01e1a8873326</webElementGuid>
+      <webElementGuid>710d49be-7529-4ea7-9c31-5e5d9012c763</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;_6ZAPB&quot;]/main[1]/div[@class=&quot;bQw0X uj7YS&quot;]/section[@class=&quot;ZtNPQ PVFKs&quot;]/header[@class=&quot;wtaRT&quot;]/h1[@class=&quot;_8B20g&quot;]</value>
-      <webElementGuid>ff8eca9f-9923-4a8a-ab0b-c140416ba8cc</webElementGuid>
+      <webElementGuid>523e76b0-1a43-40eb-88a7-67f9b4080fe0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +65,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/section[9]/header/h1</value>
-      <webElementGuid>eb9d3ac6-2984-4068-bc94-823daeabf174</webElementGuid>
+      <webElementGuid>2745751c-e3a4-4c97-9e90-c27f263fd0a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Generation @ War'])[2]/following::h1[1]</value>
-      <webElementGuid>dc2888c4-7292-48d4-b417-6e2ccc5e2af0</webElementGuid>
+      <webElementGuid>229a6d88-3269-4c49-b30d-f7cda2a3f469</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dertigers'])[4]/following::h1[2]</value>
-      <webElementGuid>9f4e40fd-8f2f-4d39-9fba-345078df59de</webElementGuid>
+      <webElementGuid>185bff75-425f-43e4-bb68-08377cf01a62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toon alles'])[7]/preceding::h1[1]</value>
-      <webElementGuid>d98c2ea1-bd2e-4786-8c9c-b1b9fbabffb1</webElementGuid>
+      <webElementGuid>60cc3231-27bc-4d12-979c-f97836f43210</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vooruitkijken'])[35]/preceding::h1[1]</value>
-      <webElementGuid>d6ca14ad-47de-46df-ba36-ba17a4ff1e88</webElementGuid>
+      <webElementGuid>7cb4e7a6-a5cc-4947-b0ff-30b093deeaa2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Aanbevolen']/parent::*</value>
-      <webElementGuid>5fe08f29-4801-45c3-9872-6970c871cf4d</webElementGuid>
+      <webElementGuid>5d1a402d-b6b6-4b37-8aec-1af843716762</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +113,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[9]/header/h1</value>
-      <webElementGuid>2ae74003-0b0f-410b-813f-8d332731e552</webElementGuid>
+      <webElementGuid>5f9dee7c-71fb-4ac3-a3cb-24f8d39f5e43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +121,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Aanbevolen' or . = 'Aanbevolen')]</value>
-      <webElementGuid>8ac05546-d3a6-4907-bb1d-78e69ed219bb</webElementGuid>
+      <webElementGuid>82dbccdd-995d-43d6-813b-8f3f58f514a5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
